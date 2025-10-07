@@ -1,43 +1,18 @@
+Givet strukturen för en lärobok nedan, generera ett antal uppgifter för eleven att lösa.
+Uppgifterna måste inte ha ekvationer eller numeriska tal som svar, det kan också röra sig om fritextsvar, t.ex. resonerande svar på logiska problem.
+
+Skapa sektioner, en för varje svårighetsgrad, med 3 uppgifter i varje.
+Svårighetsgraden är 1-3, där 1 är lätt och 3 ska vara svårt för målgruppen
+Övningarna ska bestå av
+* Question: Fråga / problemformulering
+* Hints: gärna en eller flera tips på hur problemet kan lösas 
+* Answer: ett eller flera korrekta möjliga svar.
+
+Struktur:
 # Matematik för Årskurs 
 ## Tal och räkning
+Ett centralt område där eleverna lär sig att förstå och arbeta med olika typer av tal och grundläggande räknefärdigheter.
 ### Bråktal
+Inom detta delområde fokuserar vi på hantering och beräkning med bråktal
 #### Addition och subtraktion av bråktal
-
-### Svårighetsgrad 1
-1. **Question:** Vad är 1/4 + 1/4?  
-   **Hints:** Tänk på hur många delar du får när du lägger ihop bråktal med samma nämnare.  
-   **Answer:** 1/2
-
-2. **Question:** Subtrahera 3/5 - 1/5. Vad får du?  
-   **Hints:** Eftersom nämnarna är lika, kan du bara subtrahera tärnorna.  
-   **Answer:** 2/5
-
-3. **Question:** Om du har 1/3 av en pizza och lägger till 1/3 till, hur mycket pizza har du då?  
-   **Hints:** Tänk på att de har samma nämnare.  
-   **Answer:** 2/3 av en pizza
-
-### Svårighetsgrad 2
-1. **Question:** Lägg ihop 1/6 + 2/6. Vad blir svaret?  
-   **Hints:** Kom ihåg att addera tärnorna och behålla nämnaren.  
-   **Answer:** 3/6, vilket också kan förenklas till 1/2
-
-2. **Question:** Vad är 2/3 - 1/6?  
-   **Hints:** Tänk på att du först kanske behöver göra om nämnarna så att de är lika.  
-   **Answer:** 1/2 
-
-3. **Question:** Om du har 5/8 av en chokladkaka och äter 3/8, hur mycket har du kvar?  
-   **Hints:** Subtrahera tärnorna direkt om nämnarna är lika.  
-   **Answer:** 2/8, vilket kan förenklas till 1/4
-
-### Svårighetsgrad 3
-1. **Question:** Lägg ihop 1/2, 1/4 och 1/8. Vad blir summan?  
-   **Hints:** Tänk på att du behöver en gemensam nämnare för att addera dem.  
-   **Answer:** 7/8 
-
-2. **Question:** Du har 3/4 av en tårta. Om du ger bort 1/2 av det du har kvar, hur mycket har du då?  
-   **Hints:** Först beräkna hur mycket 1/2 av 3/4 är, och subtrahera det från det hela.  
-   **Answer:** 1/4 av tårtan är kvar.
-
-3. **Question:** Om du har 7/10 av en resurs och förbrukar 3/5, hur mycket av resurserna har du kvar?  
-   **Hints:** Först gör om 3/5 så att den har samma nämnare som 7/10.  
-   **Answer:** 1/10 kvar av resurserna.
+Strategier för att addera och subtrahera bråktal med gemensam nämnare
