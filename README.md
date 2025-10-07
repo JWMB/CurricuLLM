@@ -6,6 +6,10 @@ Feel free to fork the repository, and use however you wish (as long as the licen
 
 ## Rough plan
 * Decide on file structure (maybe [language]/[general area]/[subarea]/[demographic]?)
+* Better assignments/problems
+  * Use a different LLM to validate that they're not ambiguous, are solvable and that the proposed hints/answers are correct
+  * Generate numerical-only answers when possible, for easier validation when used in a training app
+  * When answer is non-numerical, or a reasoning answer, generate an accompanying prompt that an app can use to validate the answer
 * Iterate on global prompts so that the initial output is more acceptable
 * Add targeted/modified prompts to areas where the global prompts are insufficient
 * Better system for illustrations
