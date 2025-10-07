@@ -9,10 +9,10 @@ Svårighetsgraden är 1-3, där 1 är lätt och 3 ska vara svårt för målgrupp
 * Answer: ett eller flera korrekta möjliga svar.
 
 Struktur:
-# Matematik för Årskurs 
+# Matematik för Årskurs 7
 ## Tal och räkning
-Ett centralt område där eleverna lär sig att förstå och arbeta med olika typer av tal och grundläggande räknefärdigheter.
+Ett centralt område där eleverna lär sig att förstå och arbeta med olika typer av tal och grundläggande räknefärdigheter. 
 ### Heltal
-Här syftar vi på de positiva och negativa heltalen samt nollan
+Här syftar vi på de positiva och negativa heltalen samt nollan.
 #### Multiplikation och division av heltal
-Färdighet att multiplicera och dividera heltal med varandra
+Färdighet att multiplicera och dividera heltal med varandra.

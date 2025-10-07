@@ -9,6 +9,6 @@ Svårighetsgraden är 1-3, där 1 är lätt och 3 ska vara svårt för målgrupp
 * Answer: ett eller flera korrekta möjliga svar.
 
 Struktur:
-# Matematik för Årskurs 
+# Matematik för Årskurs 7
 ## Algebra
-Ett område där eleverna introduceras till algebraiska uttryck, ekvationer och mönster
+Ett område där eleverna introduceras till algebraiska uttryck, ekvationer och mönster.

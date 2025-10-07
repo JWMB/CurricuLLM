@@ -3,10 +3,10 @@ Använd en lättsam ton, gärna med roliga exempel.
 Om det skulle passa med en illustration, ett foto, en graf eller ett diagram, lägg in en bildlänk (markdown) där filnamnet är beskrivningen på vad som ska visas.
 
 Struktur:
-# Matematik för Årskurs 
+# Matematik för Årskurs 7
 ## Algebra
-Ett område där eleverna introduceras till algebraiska uttryck, ekvationer och mönster
+Ett område där eleverna introduceras till algebraiska uttryck, ekvationer och mönster.
 ### Algebraiska uttryck
-Elementära begrepp och operationer med algebraiska uttryck
+Elementära begrepp och operationer med algebraiska uttryck.
 #### Förenkling av algebraiska uttryck
-Metoder för att förenkla och hantera algebraiska termer
+Metoder för att förenkla och hantera algebraiska termer.

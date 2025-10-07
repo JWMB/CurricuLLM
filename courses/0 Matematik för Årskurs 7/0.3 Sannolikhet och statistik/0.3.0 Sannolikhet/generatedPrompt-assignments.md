@@ -9,8 +9,8 @@ Svårighetsgraden är 1-3, där 1 är lätt och 3 ska vara svårt för målgrupp
 * Answer: ett eller flera korrekta möjliga svar.
 
 Struktur:
-# Matematik för Årskurs 
+# Matematik för Årskurs 7
 ## Sannolikhet och statistik
-Ett område där eleverna lär sig om grundläggande begrepp inom sannolikhet och hur man hanterar data
+Ett område där eleverna lär sig om grundläggande begrepp inom sannolikhet och hur man hanterar data.
 ### Sannolikhet
-Introduktion till begreppen sannolikhet och olika situationsbaserade exempel
+Introduktion till begreppen sannolikhet och olika situationsbaserade exempel.

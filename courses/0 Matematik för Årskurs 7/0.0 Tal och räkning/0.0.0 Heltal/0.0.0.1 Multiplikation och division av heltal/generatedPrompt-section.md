@@ -3,10 +3,10 @@ Använd en lättsam ton, gärna med roliga exempel.
 Om det skulle passa med en illustration, ett foto, en graf eller ett diagram, lägg in en bildlänk (markdown) där filnamnet är beskrivningen på vad som ska visas.
 
 Struktur:
-# Matematik för Årskurs 
+# Matematik för Årskurs 7
 ## Tal och räkning
-Ett centralt område där eleverna lär sig att förstå och arbeta med olika typer av tal och grundläggande räknefärdigheter.
+Ett centralt område där eleverna lär sig att förstå och arbeta med olika typer av tal och grundläggande räknefärdigheter. 
 ### Heltal
-Här syftar vi på de positiva och negativa heltalen samt nollan
+Här syftar vi på de positiva och negativa heltalen samt nollan.
 #### Multiplikation och division av heltal
-Färdighet att multiplicera och dividera heltal med varandra
+Färdighet att multiplicera och dividera heltal med varandra.

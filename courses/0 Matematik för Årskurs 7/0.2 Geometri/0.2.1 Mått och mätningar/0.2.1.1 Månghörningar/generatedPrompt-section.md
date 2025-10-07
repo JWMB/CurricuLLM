@@ -3,10 +3,10 @@ Använd en lättsam ton, gärna med roliga exempel.
 Om det skulle passa med en illustration, ett foto, en graf eller ett diagram, lägg in en bildlänk (markdown) där filnamnet är beskrivningen på vad som ska visas.
 
 Struktur:
-# Matematik för Årskurs 
+# Matematik för Årskurs 7
 ## Geometri
-Detta område handlar om former, figurer och deras egenskaper, samt hur man mäter dem
+Detta område handlar om former, figurer och deras egenskaper, samt hur man mäter dem.
 ### Mått och mätningar
-Grundläggande koncept kring längd, area och volym
+Grundläggande koncept kring längd, area och volym.
 #### Beräkning av area
-Olika former och metoder för att beräkna area
+Olika former och metoder för att beräkna area.

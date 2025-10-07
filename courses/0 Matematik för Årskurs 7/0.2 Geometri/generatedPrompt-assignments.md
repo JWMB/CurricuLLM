@@ -9,6 +9,6 @@ Svårighetsgraden är 1-3, där 1 är lätt och 3 ska vara svårt för målgrupp
 * Answer: ett eller flera korrekta möjliga svar.
 
 Struktur:
-# Matematik för Årskurs 
+# Matematik för Årskurs 7
 ## Geometri
-Detta område handlar om former, figurer och deras egenskaper, samt hur man mäter dem
+Detta område handlar om former, figurer och deras egenskaper, samt hur man mäter dem.
