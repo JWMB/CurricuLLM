@@ -5,6 +5,7 @@ A repository with curricular materials, where the initial structure and content 
 Feel free to fork the repository, and use however you wish (as long as the license is respected).
 
 ## Rough plan
+[Project](https://github.com/users/JWMB/projects/2/views/1?system_template=feature_release)
 * Decide on file structure (maybe [language]/[general area]/[subarea]/[demographic]?)
 * Multi-pass generation pipeline: raw structure + facts first, then "skinning" (story, tonality, student vs teacher notes etc)
 * Output generators, e.g. PDF
