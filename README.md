@@ -6,6 +6,9 @@ Feel free to fork the repository, and use however you wish (as long as the licen
 
 ## Rough plan
 * Decide on file structure (maybe [language]/[general area]/[subarea]/[demographic]?)
+* Multi-pass generation pipeline: raw structure + facts first, then "skinning" (story, tonality, student vs teacher notes etc)
+* Output generators, e.g. PDF
+* A way to indicate status/versioning on documents (e.g. "In review", "accepted") naming c
 * Better assignments/problems
   * Use a different LLM to validate that they're not ambiguous, are solvable and that the proposed hints/answers are correct
   * Generate numerical-only answers when possible, for easier validation when used in a training app
