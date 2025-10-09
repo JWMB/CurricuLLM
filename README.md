@@ -4,6 +4,9 @@ A repository with curricular materials, where the initial structure and content 
 
 Feel free to fork the repository, and use however you wish (as long as the license is respected).
 
+Once the foundation is laid, I will start accepting PRs with corrections and improvements - initially for global and topic-specific prompt modifications.
+When a part of the generated output (a chapter, section etc) is good enough, it will be excluded from re-generation and only manual edits will be allowed.
+
 ## Rough plan
 [Project](https://github.com/users/JWMB/projects/2/views/1?system_template=feature_release)
 * Decide on file structure (maybe [language]/[general area]/[subarea]/[demographic]?)
