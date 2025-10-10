@@ -10,7 +10,7 @@ Heltal är de enklaste formerna av tal och representerar hela enheter utan någr
 - Antal barn i en skola: Om en skola har 200 elever, representeras detta av heltalet 200.
 - Temperaturer: En temperatur på -5 grader C eller 20 grader C är ett exempel på heltal.
 
-![Illustration av heltal](/heltal-illustration.png)
+![Illustration av heltal](/courses/Matematik ÅK 7/0 Tal och räkning/heltal-illustration.png)
 
 ## Bråktal
 
