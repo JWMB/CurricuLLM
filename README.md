@@ -11,7 +11,7 @@ When a part of the generated output (a chapter, section etc) is good enough, it 
 [Project](https://github.com/users/JWMB/projects/2/views/1?system_template=feature_release)
 * Decide on file structure (maybe [language]/[general area]/[subarea]/[demographic]?)
 * Multi-pass generation pipeline: raw structure + facts first, then "skinning" (story, tonality, student vs teacher notes etc)
-* Output generators, e.g. PDF
+* Output generators, e.g. PDF. Started experimental HTML output, e.g. [here](https://html-preview.github.io/?url=https://github.com/JWMB/CurricuLLM/blob/main/courses/Matematik%20%C3%85K%207/rendered.html)
 * A way to indicate status/versioning on documents (e.g. "In review", "accepted") naming c
 * Better assignments/problems
   * Use a different LLM to validate that they're not ambiguous, are solvable and that the proposed hints/answers are correct
