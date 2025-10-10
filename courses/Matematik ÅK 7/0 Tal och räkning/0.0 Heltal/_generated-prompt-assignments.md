@@ -8,5 +8,13 @@ Svårighetsgraden är 1-3, där 1 är lätt och 3 ska vara svårt för målgrupp
 * Hints: gärna en eller flera tips på hur problemet kan lösas 
 * Answer: ett eller flera korrekta möjliga svar.
 
-Avsnittet du ska skriva är "{{heading}}", och ligger här i strukturen:
-{{toc}}
+Avsnittet du ska skriva är "Heltal", och ligger här i strukturen:
+# Tal och räkning
+## ----> Heltal
+### Addition och subtraktion av heltal
+### Multiplikation och division av heltal
+## Bråktal
+## Decimaltal
+# Algebra
+# Geometri
+# Sannolikhet och statistik

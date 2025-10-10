@@ -1,4 +1,4 @@
-Skapa en hierarkisk struktur för en kursbok i {{subject.domain}} för {{subject.demographic}} enligt rådande läroplan, med nedanstående nivåer.
+Skapa en hierarkisk struktur för en kursbok i Matematik för Årskurs 7 i Svenska grundskolan enligt rådande läroplan, med nedanstående nivåer.
 Jag ger exempel för en kurs i högstadiematematik i varje nivå.
 Nivåerna är:
 - Huvudområden (t.ex. "Tal och räkning", "Algebra", "Geometri", "Sannolikhet och statistik")
@@ -9,7 +9,7 @@ Använd markdown-format för att representera strukturen, med rubriker för huvu
 Använd inte markdown-listor, utan enbart markdown-rubriker.
 Inkludera även en kort beskrivning av varje huvudområde och delområde.				
 
-{{extras}}
+
 
 Rubrikerna ska *inte* inkludera nivåorden, t.ex. "Huvudområde" eller "Delområde". 
 
