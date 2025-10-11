@@ -1,0 +1,1 @@
+Be modellen använda en stil liknande Hergés illustrationer i Tintin.
