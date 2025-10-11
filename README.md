@@ -6,14 +6,14 @@ The source materials can be converted to PDFs (e.g. for print-on-demand books), 
 
 > Feel free to fork the repository, and use however you wish (as long as the license is respected).
 
-The goal is to create a system where the first automatic step of creating free teaching materials yields decent results, and where it's easy for domain experts to then improve on the materials (via GitHub PRs or Issues) until they equal or surpass traditional textbooks.
+The goal is to create a system where the first automatic step of creating free teaching materials yields decent results, and where it's easy for domain experts to then improve on the materials (via GitHub PRs or Issues) until they equal traditional textbooks.
 
-Some benefits of using a git repository instead of a custom database:
-* Anyone can download or fork the data
+Some benefits of using a public git repository instead of a custom database:
+* Anyone can download or fork the data. Content is readily accessible as Markdown files
 * Transparency - no hidden data, all data in one place, and it's easy to see who made what changes
 * Tooling - lots of git-related tools available
-* Pull Requests - built-in contribution review process
-* GitHub Issues and Projects - tasks related to the project are tightly connected to the repository
+* Review process - built-in contribution review process via Pull Requests
+* Project tracking - tasks related to the project are tightly connected to the repository via Issues and Projects
 
 ## Workflow
 Especially in the beginning, there will be a lot of back-and-forth between experts and LLM configuration/generation.
