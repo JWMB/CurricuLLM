@@ -42,6 +42,7 @@ Especially in the beginning, there will be a lot of back-and-forth between exper
   * Optionally, add topic- and/or section-specific prompt adjustments
 * Generate illustrations from the image link titles created by the LLM
   * Optionally, modify instructions for image generation on any level (specific illustration, section, topic...)
+  * ⚠️My prompting skills for for DALLE-3 are lacking, can't get rid of strange numbers/texts - check [this](/courses/Matematik%20%C3%85K%207/0%20Tal%20och%20r%C3%A4kning/0.0%20Heltal/0_chapter.md) out. Actual illustrators might well be required.
 * Generate assignments for sections
 
 All these steps (except the first) can be performed automatically in one go without human intervention, which can be good for a first draft, and to get a feel for the prompts and their output.
