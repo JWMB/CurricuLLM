@@ -15,6 +15,8 @@ Some benefits of using a public git repository instead of a custom database:
 * Review process - built-in contribution review process via Pull Requests
 * Project tracking - tasks related to the project are tightly connected to the repository via Issues and Projects
 
+**Note:** The current materials in the [/courses](/courses) folder have been generated with a cheap model (gpt-4o-mini) and a naïve prompt. The cost to generate one of these textbooks is in the range of tens of cents, but the quality is not great. I will switch to a more capable model once the generation pipeline is more complete.
+
 ## Workflow
 Especially in the beginning, there will be a lot of back-and-forth between experts and LLM configuration/generation.
 ### Prompt design and source materials
