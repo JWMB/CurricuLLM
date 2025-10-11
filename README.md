@@ -20,7 +20,7 @@ Some benefits of using a public git repository instead of a custom database:
 ## Workflow
 Especially in the beginning, there will be a lot of back-and-forth between experts and LLM configuration/generation.
 ### Prompt design and source materials
-* Design good "global" prompts that generate decent output for any topic
+* Design good "global" prompts that generate decent output for any topic (see [/templates](/templates))
 * Identify what types of topic-specific prompt modifications are beneficial
 * Find public-domain materials that may assist generation (general governmental guidelines, topic-specific requirements etc)
 ### Validation
