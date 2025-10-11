@@ -115,3 +115,12 @@
 [2025-10-11T12:10:27Z] Duration=7,11 In=241 Out=1021 Model=gpt-4o-mini-2024-07-18
 [2025-10-11T12:10:34Z] Duration=6,58 In=235 Out=888 Model=gpt-4o-mini-2024-07-18
 [2025-10-11T12:10:39Z] Duration=5,42 In=240 Out=911 Model=gpt-4o-mini-2024-07-18
+[2025-10-11T12:17:45Z] Duration=1,32 In=64 Out=108 Model=gpt-4o-mini-2024-07-18
+[2025-10-11T12:17:57Z] Duration=1,39 In=63 Out=172 Model=gpt-4o-mini-2024-07-18
+[2025-10-11T12:20:29Z] Duration=1,35 In=63 Out=104 Model=gpt-4o-mini-2024-07-18
+[2025-10-11T12:22:14Z] Duration=1,61 In=63 Out=126 Model=gpt-4o-mini-2024-07-18
+[2025-10-11T12:22:27Z] Duration=1,18 In=261 Out=159 Model=gpt-4o-mini-2024-07-18
+[2025-10-11T12:28:50Z] Duration=1,87 In=261 Out=142 Model=gpt-4o-mini-2024-07-18
+[2025-10-11T12:29:01Z] Duration=1,21 In=312 Out=180 Model=gpt-4o-mini-2024-07-18
+[2025-10-11T12:29:28Z] Duration=1,78 In=280 Out=257 Model=gpt-4o-mini-2024-07-18
+[2025-10-11T12:29:40Z] Duration=1,25 In=446 Out=164 Model=gpt-4o-mini-2024-07-18

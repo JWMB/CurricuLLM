@@ -28,7 +28,7 @@ Kristendomen kan grovt delas in i tre huvudsakliga inriktningar:
 
 3. **Ortodoxi**: Den östra ortodoxa kyrkan, som inkluderar den grekiska och ryska ortodoxa kyrkan, betonar tradition och sakrament i sin tro och praktik. 
 
-![Treenighet](https://example.com/treenighet_diagram.png)
+![Treenighet](</courses/Religion ÅK 7/0 Trosuppfattningar och religioner/0.0 Monoteism/0.0.0 Kristendom/treenighet_diagram.png>)
 
 ### Kristendomens Rituella Praktiker
 

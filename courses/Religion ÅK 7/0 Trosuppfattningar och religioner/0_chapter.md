@@ -14,7 +14,7 @@ Monoteism är trosuppfattningen att det finns en enda, allsmäktig Gud. Denna in
 
 3. **Islam** – Islam lär att det finns en enda Gud (Allah) och deras heliga skrift är Koranen. De fem pelarna i islam fungerar som riktlinjer för troende och inkluderar bekännelsen av tro, bön, fastande, välgörenhet och pilgrimsfärd till Mecka.
 
-> ![Monoteism i olika religioner](https://www.example.com/monoteism_religioner_diagram)
+> ![Monoteism i olika religioner](</courses/Religion ÅK 7/0 Trosuppfattningar och religioner/monoteism_religioner_diagram.png>)
 
 ## Polyteism
 
@@ -28,7 +28,7 @@ Polyteism å sin sida innebär tro på flera gudar, där varje gud kan represent
 
 3. **Afrikanska traditionella religioner** – Många afrikanska kulturer praktiserar religioner som inkluderar tro på flera gudar och andar, som var och en kan påverka specifika områden av livet. Dessa gudar kan också inkludera förfäders andar och natursymboler. 
 
-> ![Polyteistiska gudar](https://www.example.com/polyteism_gudar_diagram)
+> ![Polyteistiska gudar](</courses/Religion ÅK 7/0 Trosuppfattningar och religioner/polyteism_gudar_diagram.png>)
 
 ## Avslutning
 

@@ -8,7 +8,7 @@ Monoteism innebär att man erkänner och tillber en enda, allsmäktig och transc
 
 Ett centralt inslag i monoteismen är begreppet uppenbarelse, där Gud avslöjar sig för mänskligheten genom heliga texter, profeter eller religiösa upplevelser. Även om synsätt kan variera mellan olika monoteistiska traditioner, förenas dessa religioner i den grundläggande övertygelsen om en enhetlig och oövervinnerlig Gud.
 
-![En symbol som representerar monoteism](https://example.com/monoteism-symbol)  
+![En symbol som representerar monoteism](</courses/Religion ÅK 7/0 Trosuppfattningar och religioner/0.0 Monoteism/monoteism-symbol.png>)  
 
 ## Betydelsen av monoteism
 
@@ -24,6 +24,6 @@ Judendomen, som betraktas som en av de första monoteistiska religionerna, före
 
 Genom historien har de monoteistiska religionerna utövat djupgående inverkan på det civila samhället, lagstiftning, konst och kultur. 
 
-![Diagram över monoteismens påverkan på olika religioner](https://example.com/monoteism-paverkan)  
+![Diagram över monoteismens påverkan på olika religioner](</courses/Religion ÅK 7/0 Trosuppfattningar och religioner/0.0 Monoteism/monoteism-paverkan.png>)  
 
 I kommande avsnitt kommer vi att belysa specifika monoteistiska traditioner, inklusive kristendom, islam och judendom, för att ytterligare förstå hur dessa religioner formar sin syn på Gud, människan och världen.
