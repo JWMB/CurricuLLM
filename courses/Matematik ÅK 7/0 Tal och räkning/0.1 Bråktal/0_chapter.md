@@ -6,7 +6,7 @@ Bråktal är tal som representerar ett förhållande mellan två heltal, där de
 
 Ett enkelt exempel på ett bråktal är \(\frac{3}{4}\), vilket betyder att vi har tre delar av något som har delats upp i fyra lika stora delar. Om du har en pizza som är delad i fyra bitar och du har 3 av dem, så kan det uttryckas som \(\frac{3}{4}\). 
 
-![Pizza delad i fyra](https://example.com/pizza_delad_i_fyra)
+![Pizza delad i fyra](</courses/Matematik ÅK 7/0 Tal och räkning/0.1 Bråktal/pizza_delad_i_fyra.png>)
 
 ### Typer av bråktal
 

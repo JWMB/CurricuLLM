@@ -10,7 +10,7 @@ Heltal är de enklaste formerna av tal och representerar hela enheter utan någr
 - Antal barn i en skola: Om en skola har 200 elever, representeras detta av heltalet 200.
 - Temperaturer: En temperatur på -5 grader C eller 20 grader C är ett exempel på heltal.
 
-![Illustration av heltal](<</courses/Matematik ÅK 7/0 Tal och räkning/heltal-illustration.png>>)
+![Illustration av heltal](</courses/Matematik ÅK 7/0 Tal och räkning/heltal-illustration.png>)
 
 ## Bråktal
 
@@ -22,7 +22,7 @@ Bråktal är särskilt användbara när man behöver ange en del av en helhet, s
 - Recept: Om ett recept kräver \( \frac{2}{3} \) kopp socker, innebär det att man använder två tredjedelar av en kopp.
 - Dela en pizza: Om en pizza är skuren i 8 bitar och du äter 3, kan man uttrycka det som \( \frac{3}{8} \) av pizza.
 
-![Illustration av bråktal](<</courses/Matematik ÅK 7/0 Tal och räkning/braktal-illustration.png>>)
+![Illustration av bråktal](</courses/Matematik ÅK 7/0 Tal och räkning/braktal-illustration.png>)
 
 ## Decimaltal
 
@@ -32,6 +32,6 @@ Decimaltal är en annan form av tal som representerar värden mellan heltal. De 
 - Mätning: Visar en längd på 2.5 meter indikerar att något är två och en halv meter långt.
 - Ekonomi: Om en vara kostar 19.99 kronor, presenteras detta som ett decimaltal.
 
-![Illustration av decimaltal](<</courses/Matematik ÅK 7/0 Tal och räkning/decimaltal-illustration.png>>)
+![Illustration av decimaltal](</courses/Matematik ÅK 7/0 Tal och räkning/decimaltal-illustration.png>)
 
 Genom att förstå dessa tre typer av tal kan man bygga en stabil grund för vidare studier inom matematik, inklusive mer avancerade områden som algebra, geometri och statistik. Att kunna arbeta med heltal, bråktal och decimaltal är avgörande för att lösa problem i vardagen såväl som inom olika vetenskapliga discipliner.

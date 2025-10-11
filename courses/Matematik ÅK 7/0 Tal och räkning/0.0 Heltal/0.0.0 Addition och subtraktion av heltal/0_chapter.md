@@ -13,7 +13,7 @@ Addition av heltal innebär att man sammanför två eller flera tal till ett st�
   
   - \( 3 + 5 = 8 \)
 
-  ![Addition av positiva heltal](https://example.com/addition-av-positiva-heltal.png)
+  ![Addition av positiva heltal](</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/0.0.0 Addition och subtraktion av heltal/addition-av-positiva-heltal.png>)
 
 - **Negativa tal:** När man adderar två negativa heltal, får man ett negativt resultat. Till exempel:
 

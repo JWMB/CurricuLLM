@@ -28,7 +28,7 @@ Subtraktion av heltal innebär att man drar ett heltal från ett annat. Precis s
 
 Det är viktigt att förstå tecknet på talen när man utför operationer med heltal. Med hjälp av en talinje kan man visualisera addition och subtraktion. 
 
-![Tal linje](<</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/tal-linje.png>>)
+![Tal linje](</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/tal-linje.png>)
 
 ### Multiplikation och division av heltal
 
@@ -53,6 +53,6 @@ Precis som vid addition och subtraktion spelar tecknet en viktig roll vid multip
 
 Det ärbra att använda multiplikations- och divisions-tabeller för att underlätta beräkningar med heltal. Dessa tabeller kan också fungera som referens för att lära sig mer om relationerna mellan olika tal.
 
-![Multiplikationstabell](<</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/multiplikationstabell.png>>)
+![Multiplikationstabell](</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/multiplikationstabell.png>)
 
 Sammanfattningsvis kan vi säga att heltal är en central del av matematiken som används i många olika situationer och för olika syften. Att behärska operationer med heltal är en viktig grundkompetens för att kunna lösa mer komplexa matematiska problem.

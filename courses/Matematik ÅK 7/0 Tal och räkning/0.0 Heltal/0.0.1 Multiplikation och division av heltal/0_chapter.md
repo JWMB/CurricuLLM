@@ -10,7 +10,7 @@ Multiplikation av heltal handlar om att addera ett heltal till sig själv ett vi
 
 Vi kan också uttrycka multiplikation som en visuell gruppning. Föreställ dig att du har 4 grupper med 3 äpplen i varje grupp:
 
-![Multiplikation av heltal](https://example.com/multiplikation_av_heltal.png)
+![Multiplikation av heltal](</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/0.0.1 Multiplikation och division av heltal/multiplikation_av_heltal.png>)
 
 I detta exempel representerar 4 grupper av 3 äpplen den matematiska operationen \(3 \times 4\), vilket ger oss totalt 12 äpplen.
 
@@ -33,7 +33,7 @@ Division av heltal är i grunden motsatsen till multiplikation. Det handlar om a
 
 Detta innebär att varje person får 3 äpplen. Vi kan illustrera detta med en bild som visar hur 12 äpplen delas upp i 4 grupper:
 
-![Division av heltal](https://example.com/division_av_heltal.png)
+![Division av heltal](</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/0.0.1 Multiplikation och division av heltal/division_av_heltal.png>)
 
 ##### Egenskaper av division
 
