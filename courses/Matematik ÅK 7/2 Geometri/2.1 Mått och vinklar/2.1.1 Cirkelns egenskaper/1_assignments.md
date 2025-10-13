@@ -1,47 +1,77 @@
 ## Svårighetsgrad 1
-### Uppgift 1:
-* **Question:** Vad är radien i en cirkel?
-* **Hints:** Tänk på vad som mäter avståndet från cirkelns centrum till dess omkrets.
-* **Answer:** Radien är avståndet från cirkelns centrum till vilken punkt som helst på cirkelns kant (omkrets).
 
-### Uppgift 2:
-* **Question:** Omkretsen på en cirkel beräknas med formeln \(C = 2\pi r\). Om radien \(r\) är 5, vad är då omkretsen?
-* **Hints:** Ersätt \(r\) med 5 i formeln och multiplicera med \(\pi\).
-* **Answer:** \(C = 2 \times \pi \times 5 = 10\pi\).
+**Question** Vad kallas linjen som går rakt igenom mittpunkten av en cirkel?  
+**Hint** Tänk på ett liknande ord som beskriver en lineal  
+**Hint** Det är det längsta avståndet du kan mäta över cirkeln  
+**Answer** Diameter  
+**MaxPoints** 1  
+**AnalyzeSubmission** Om användarens svar är "diameter" eller något av dess korrekt felstavade varianter, svara "korrekt", annars "inkorrekt"  
+**WrongAnswer** Radie **Why** Radie går från mittpunkten till kanten, inte hela vägen över  
 
-### Uppgift 3:
-* **Question:** En cirkel delas upp i två lika halvor, vad kallas dessa halvor?
-* **Hints:** Tänk på ordet för två delar av något som är lika stora.
-* **Answer:** De kallas halv-cirklar.
+**Question** Vad kallas den delen av cirkelns omkrets som sträcker sig mellan två punkter?  
+**Hint** Den liknar en båge  
+**Hint** Tänk på hur man ofta beskriver en regnbåge  
+**Answer** Cirkelbåge  
+**MaxPoints** 1  
+**AnalyzeSubmission** Om användarens svar är "cirkelbåge" eller något av dess korrekt felstavade varianter, svara "korrekt", annars "inkorrekt"  
+**WrongAnswer** Radie **Why** Radie är en linje som sträcker sig från mittpunkten till cirkelns kant  
+
+**Question** Vad kallas det största möjliga avståndet från cirkelns mittpunkt till cirkelns kant?   
+**Hint** Det är en linje som sträcker sig halvvägs över cirkeln  
+**Hint** Bildar en del av den största linjen som kan dras över cirkeln  
+**Answer** Radie  
+**MaxPoints** 1  
+**AnalyzeSubmission** Om användarens svar är "radie" eller något av dess korrekt felstavade varianter, svara "korrekt", annars "inkorrekt"  
+**WrongAnswer** Diameter **Why** Diameter går hela vägen över cirkeln, radien är hälften av detta avstånd  
 
 ## Svårighetsgrad 2
-### Uppgift 1:
-* **Question:** Vad är kopplingen mellan diameter och radien på en cirkel?
-* **Hints:** Fundera på hur cirkelns diameter förhåller sig till radien.
-* **Answer:** Diameter är dubbelt så stor som radien. Diameter = 2 \times radien.
 
-### Uppgift 2:
-* **Question:** Beräkna arean av en cirkel med radien 7. Använd formeln \(A = \pi r^2\).
-* **Hints:** Kvadrera radien och multiplicera med \(\pi\).
-* **Answer:** \(A = \pi \times 7^2 = 49\pi\).
+**Question** Vad kallas en avgränsad del av cirkeln som bildas av två radier och en cirkelbåge?  
+**Hint** Formen liknar en tårtbit  
+**Hint** Den liknar en sektor i ekonomin som säger hur stor del av något du har  
+**Answer** Cirkel-sektor  
+**MaxPoints** 2  
+**AnalyzeSubmission** Om användarens svar är "cirkel-sektor" eller något av dess korrekt felstavade varianter, svara "korrekt", annars "inkorrekt"  
+**WrongAnswer** Vinkel **Why** Vinkel är bara området som två linjer skapar, inte den avgränsade delen av cirkeln
 
-### Uppgift 3:
-* **Question:** Du har en cirkel med en känd omkrets på 31,4. Beräkna dess radie.
-* **Hints:** Använd formeln för omkrets \(C = 2\pi r\) och lös för \(r\).
-* **Answer:** \(31,4 = 2\pi r\), så \(r = \frac{31,4}{2\pi} \approx 5\).
+**Question** Om en cirkels radie är 4, vad blir cirkelns diameter?  
+**Hint** Tänk på sambandet mellan radie och diameter  
+**Hint** Diameter är alltid dubbelt så stor som radien  
+**Answer** 8  
+**MaxPoints** 2  
+**AnalyzeSubmission** Svara "korrekt" om användaren svarat med numret "8", annars "inkorrekt"  
+**WrongAnswer** 4 **Why** Radie och diameter är inte samma, diametern är alltid dubbla radien  
+
+**Question** Vad händer med omkretsen om radien dubbleras?  
+**Hint** Omkrets beror direkt på radien  
+**Hint** Prova att använda formeln för omkrets för en cirkel: C = 2πr  
+**Answer** Omkretsen fördubblas  
+**MaxPoints** 2  
+**AnalyzeSubmission** Om användarens svar är "omkretsen fördubblas" eller något med samma innebörd, svara "korrekt", annars "inkorrekt"  
+**WrongAnswer** Omkretsen ökar med π **Why** Det är inte π som bestämmer omkretsens ökning, utan radien multiplicerat med två gånger π  
 
 ## Svårighetsgrad 3
-### Uppgift 1:
-* **Question:** Om en cirkel är inskriven i en kvadrat, hur förhåller sig radien till kvadratens sida?
-* **Hints:** Tänk på att cirkeln tangerar alla sidor av kvadraten.
-* **Answer:** Radiens längd är halva kvadratens sida, eftersom diametern är lika med kvadratens sida.
 
-### Uppgift 2:
-* **Question:** En halvcirkel har en area på \(50\pi\). Beräkna radien för hela cirkeln.
-* **Hints:** Använd formeln för area av en cirkel, kom ihåg att en halvcirkel är halva arean av en full cirkel.
-* **Answer:** Om halv-cirkeln har en area på \(50\pi\), innebär det att hela cirkeln har en area på \(100\pi\). Då \(A = \pi r^2\), har vi \(100\pi = \pi r^2\). Lös för \(r\): \(r^2 = 100\), så \(r = 10\).
+**Question** Förklara hur man kan bevisa att alla radier i en cirkel är lika långa.  
+**Hint** Tänk på cirkelns definition och symmetri  
+**Hint** Använd begreppet mittpunkt och avstånd  
+**Answer** En cirkel är definierad som alla punkter som ligger på samma avstånd från mittpunkten, vilket gör alla radier lika långa  
+**MaxPoints** 3  
+**AnalyzeSubmission** Om användarens svar innefattar cirkelns definition och avstånd från mittpunkten, svara "korrekt", annars "inkorrekt"  
+**WrongAnswer** Alla radier är olika eftersom de kan placeras på olika sätt **Why** Det missförstår cirkelns definition, där radien alltid är samma längd oavsett placering  
 
-### Uppgift 3:
-* **Question:** Två cirklar har samma centrum, och radien av den större cirkeln är 10 medan den mindre är 7. Vad är arean för det ringformade området mellan dessa två cirklar?
-* **Hints:** Beräkna arean för båda cirklarna och subtrahera den mindre från den större.
-* **Answer:** Arean av den större cirkeln är \(A = \pi \times 10^2 = 100\pi\). Arean av den mindre cirkeln är \(A = \pi \times 7^2 = 49\pi\). Arean för ringområdet är \(100\pi - 49\pi = 51\pi\).
+**Question** Bevisa att en diameter delar en cirkel i två symmetriska halvor.  
+**Hint** Tänk på att diameter är den längsta linjen inom en cirkel  
+**Hint** Använd begreppet spegelbild och symmetri  
+**Answer** En diameter går genom mittpunkten och delar cirkeln i två lika stora delar med samma form och storlek  
+**MaxPoints** 3  
+**AnalyzeSubmission** Om användarens svar innefattar mittpunkten och symmetri, svara "korrekt", annars "inkorrekt"  
+**WrongAnswer** Diameter ger olika stora halvor **Why** Det missförstår begreppet symmetri, där en diameter alltid resulterar i två lika stora halvor  
+
+**Question** Om en cirkelsektor har en central vinkel på 90 grader, hur stor del av cirkeln utgör den sektorn?  
+**Hint** Cirkelns totala vinklar  
+**Hint** Sektorens central vinkel jämfört med cirkelns totala vinklar  
+**Answer** 1/4 eller 25%  
+**MaxPoints** 3  
+**AnalyzeSubmission** Om användarens svar är "1/4" eller "25%", svara "korrekt", annars "inkorrekt"  
+**WrongAnswer** 90% **Why** Misstolkning av cirkelns totala vinkel av 360 grader, snarare än procentandel av cirkelns kanten
