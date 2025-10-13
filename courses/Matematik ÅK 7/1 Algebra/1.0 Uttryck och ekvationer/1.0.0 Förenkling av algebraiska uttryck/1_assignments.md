@@ -2,67 +2,51 @@
 
 ### Svårighetsgrad 1
 
-**Uppgift 1**  
-*Question:* Förenkla uttrycket \(3x + 2x\).  
-*Hints:* Tänk på att samla lika termer. Vad får du om du lägger ihop antalet \(x\)?  
-*Answer:* \(5x\)
+#### Uppgift 1
+**Question:** Förenkla uttrycket: \(2x + 3x\).
+**Hints:** Lägg ihop termer med samma variabel.
+**Answer:** \(5x\).
 
----
+#### Uppgift 2
+**Question:** Förenkla uttrycket: \(4y - y + 2y\).
+**Hints:** Behandla \(- y\) som \(-1y\) och kombinera alla termer med variabeln \(y\).
+**Answer:** \(5y\).
 
-**Uppgift 2**  
-*Question:* Vad händer när du förenklar uttrycket \(4y - 2y + 3\)?  
-*Hints:* Kom ihåg att du kan samla de liknande termerna. Vad får du när du tar bort \(2y\) från \(4y\)?  
-*Answer:* \(2y + 3\)
-
----
-
-**Uppgift 3**  
-*Question:* Förenkla uttrycket \(7 + 3 - 4\).  
-*Hints:* Börja med att räkna ihop de positiva och negativa talet.  
-*Answer:* \(6\)
-
----
+#### Uppgift 3
+**Question:** Förenkla uttrycket: \(3a + 8 + 2a\).
+**Hints:** Kombinera de termer som har samma variabel och separat konstanten.
+**Answer:** \(5a + 8\).
 
 ### Svårighetsgrad 2
 
-**Uppgift 1**  
-*Question:* Förenkla uttrycket \(2(a + b) + 3a - b\).  
-*Hints:* Använd distributiva lagen för att hantera \(2(a + b)\). Hur många \(a\) och \(b\) får du totalt efter förenklingen?  
-*Answer:* \(5a + b\)
+#### Uppgift 1
+**Question:** Förenkla uttrycket: \(3x^2 + 5x - 2x^2 + x\).
+**Hints:** Separera och kombinera termer med samma grad av \(x\).
+**Answer:** \(x^2 + 6x\).
 
----
+#### Uppgift 2
+**Question:** Förenkla uttrycket: \(-7b + 4 - 3b + 10\).
+**Hints:** Räkna samman termer med samma variabel och addera konstanterna.
+**Answer:** \(-10b + 14\).
 
-**Uppgift 2**  
-*Question:* Förenkla och skriv om uttrycket \(5x - 2(3x - 4) + 6\).  
-*Hints:* Tänk på att du först behöver förenkla uttrycket inom parentesen innan du multiplicerar. Hur förändras \(x\) när du arbetar med minus tecknet?  
-*Answer:* \(-x + 14\)
-
----
-
-**Uppgift 3**  
-*Question:* Förenkla uttrycket \((x + 3) + (2x - 5) - (x + 2)\).  
-*Hints:* Samla ihop alla \(x\) och konstanttermer separat. Hur påverkar de positiva och negativa termerna ditt svar?  
-*Answer:* \(2x - 4\)
-
----
+#### Uppgift 3
+**Question:** Förenkla uttrycket: \(5m + 2(m - 3) - 4\).
+**Hints:** Distribuera 2 över parentesen och sedan förenkla.
+**Answer:** \(7m - 10\).
 
 ### Svårighetsgrad 3
 
-**Uppgift 1**  
-*Question:* Förenkla \(3(x - 4) + 2(2x + 1) - 5\).  
-*Hints:* Kom ihåg att använda distributiva lagen noga. Räkna sedan ihop alla \(x\) och konstanta termer.  
-*Answer:* \(7x - 9\)
+#### Uppgift 1
+**Question:** Förenkla uttrycket: \(6x^2y - 2xy + 3x^2y - 5xy + xy\).
+**Hints:** Kombinera termer med samma variabelkombinationer.
+**Answer:** \(9x^2y - 6xy\).
 
----
+#### Uppgift 2
+**Question:** Förenkla uttrycket: \(x(x + 2) - (x + 2)(x - 3)\).
+**Hints:** Expandera både produkter och förenkla genom att ta bort och kombinera termer.
+**Answer:** \(3x\).
 
-**Uppgift 2**  
-*Question:* Uttrycket \(4(2y + 1) - (3y - 8) + 2(y + 2)\) ska förenklas. Vad blir resultatet?  
-*Hints:* Dela upp i steg och förenkla varje del. Kom ihåg att även subtraktion påverkar tecknen.  
-*Answer:* \(y + 20\)
-
----
-
-**Uppgift 3**  
-*Question:* Förenkla och skriv om uttrycket \(2(x + 3) - 3(2x - 5) + 4\).  
-*Hints:* Var noga med att hantera negativa tecken korrekt. Gör varje step tydlig så att du inte tappar bort något.  
-*Answer:* \(-4x + 15\)
+#### Uppgift 3
+**Question:** Förenkla uttrycket \((2a + 3)^2 - 4a(a + 1)\).
+**Hints:** Först expandera kvadraten och produkten, sedan kombinera och förenkla.
+**Answer:** \(4a^2 + 4a + 9\).

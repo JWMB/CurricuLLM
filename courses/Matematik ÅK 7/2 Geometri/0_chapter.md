@@ -1,49 +1,91 @@
 # Geometri
 
-Geometri är en grundläggande del av matematik som handlar om egenskaper, relationer och mått av figurer och rum. I detta avsnitt kommer vi att utforska två huvudområden inom geometri: mått och vinklar, samt geometriska figurer. Vi kommer att undersöka hur dessa koncept används i olika sammanhang, samt förse er med verktyg och exempel för att förstå och tillämpa geometriska principer.
+Geometri är en grundläggande och viktig del inom matematik som handlar om former, storlekar, och deras egenskaper i rummet. Det involverar både plan geometri, som behandlar figurer på en platt yta (som en tavla eller papper), och rumslig geometri, som berör former som existerar i tre dimensioner. För att förstå geometri måste vi också känna till mått och vinklar, samt kunna identifiera olika geometriska figurer.
 
 ## Mått och vinklar
 
-Mått och vinklar utgör grunden för geometri. En vinkel är den mängd rotation som krävs för att ett linjesegment ska lägga sig på ett annat linjesegment. Vinklar mäts i grader (°) eller radianer. Det finns flera typer av vinklar:
+### Mått
 
-1. **Rätt vinkel**: En vinkel som är exakt 90 grader.
-2. **Spetsig vinkel**: En vinkel som är mindre än 90 grader.
-3. **Trubbig vinkel**: En vinkel som är större än 90 grader men mindre än 180 grader.
-4. **Rak vinkel**: En vinkel som är exakt 180 grader.
+Mätningar är grundläggande i geometrin, och involverar att bestämma längder, ytor och volymer av olika figurer. I plan geometri mäts vanligen längder och ytor, medan i rumslig geometri mäts volymer.
 
-### Exempel på vinklar och deras mått
+#### Längd
 
-Tänk på ett exempel med ett bord. Om vi betraktar hörnen av bordet som 90-gradiga vinklar, så innebär det att varje hörn utgör en rätt vinkel. Om ett hörn istället lutade något, kanske med 45 grader, skulle vi ha en spetsig vinkel.
+Längden av en linje eller en sida av en geometrisk figur mäts i enheter som meter, centimeter eller millimeter. En linje kan vara rak eller kurvad. För att mäta en rak linje kan vanligtvis en linjal användas, medan måttband eller specifika verktyg kan behövas för kurvade linjer.
 
-![Illustration av olika typer av vinklar](https://example.com/illustration-av-olika-typer-av-vinklar)
+#### Area
 
-I en praktisk tillämpning av vinklar, som vid byggnation av ett hus, används olika vinklar för att se till att taket lutar korrekt eller att väggarna står raka. Att förstå vinklar och hur de mäts är avgörande för många yrken inom konstruktion och design.
+Area är ett mått på hur mycket yta en tvådimensionell form täcker. Grundläggande geometriska former som fyrkanter, rektanglar, trianglar och cirklar har specifika formler för att beräkna deras områden.
+
+- Fyrkant: Arean är sidan multiplicerat med sig självt. \(A = s \times s\)
+- Rektangel: Arean är bredden multiplicerad med höjden. \(A = b \times h\)
+- Triangel: Arean är basen gånger höjden dividerat med två. \(A = \frac{b \times h}{2}\)
+- Cirkel: Arean är pi gånger radien kvadrerat. \(A = \pi r^2\)
+
+[![Geometriska_figurer_area_cirkel_fyrkant_rektangel_triangel.jpg](Geometriska_figurer_area_cirkel_fyrkant_rektangel_triangel.jpg)]
+
+#### Volym
+
+Volym mäter hur mycket tre-dimensionell utrymme en figur upptar. Det är oftast relevant för att förstå rumsliga figurer som kuber, prismor, cylindrar och sfärer.
+
+- Kub: Volymen är sidan upphöjt till tredje. \(V = s^3\)
+- Prisma: Volymen är basens area gånger höjden. \(V = \text{Basarea} \times h\)
+- Cylinder: Volymen är basens area gånger höjden. \(V = \pi r^2 \times h\)
+- Sfär: Volymen är fyra tredje-delar av pi gånger radien kubik. \(V = \frac{4}{3} \pi r^3\)
+
+[![Volym_kub_prisma_cylinder_sfer.png](Volym_kub_prisma_cylinder_sfer.png)]
+
+### Vinklar
+
+Vinklar är en annan grundläggande aspekt av geometri som beskriver rotationen mellan två linjer som möts i en punkt. Vinkelns storlek mäts i grader.
+
+#### Typer av vinklar
+
+- Rät vinkel: En vinkel som är exakt 90 grader.
+- Trubbig vinkel: En vinkel som är mer än 90 grader men mindre än 180 grader.
+- Spetsig vinkel: En vinkel som är mindre än 90 grader.
+- Platt vinkel: En vinkel som är exakt 180 grader.
+
+Att förstå vinklar hjälper till att lösa problem involverande trianglar och andra polygoner. Till exempel kan summan av de inre vinklarna i en triangel uppgå till 180 grader.
+
+[![Vinkeltyper_Rät_Trubbig_Spetsig_Platt.png](Vinkeltyper_Rät_Trubbig_Spetsig_Platt.png)]
+
+Att arbete med mått och vinklar är fundamentalt för att förstärka den geometriska förståelsen, vilket vi senare kommer att se i avsnittet om geometriska figurer.
 
 ## Geometriska figurer
 
-Geometriska figurer är former som kan beskrivas med hjälp av punkter, linjer, ytor och volymer. Det finns primära geometriska figurer som alla bygger på grundläggande koncept.
+Geometriska figurer, eller former, är centralelement i geometrin. Dessa inkluderar både tvådimensionella och tredimensionella figurer, och de är grundläggande för att förstå geometriska principer i större sammanhang.
 
-### Vanliga geometriska figurer 
+### Tvådimensionella figurer
 
-1. **Trianglar**: En figur som har tre sidor. Trianglar delas in i olika typer baserat på sidorna och vinklarna:
-    - Liksidig triangel: Tre lika långa sidor.
-    - Likbent triangel: Två sidor är lika långa.
-    - Olika sidor: Ingen av sidorna är lika långa.
-  
-   En triangels inre vinklar summerar alltid till 180 grader.
+#### Linjer och kurvor
 
-2. **Cirklar**: En cirkel definieras som mängden av alla punkter som ligger på ett visst avstånd (radie) från en given punkt (centrum). Viktiga mått relaterade till cirklar inkluderar omkrets och area.
-    - Omkrets: \( C = 2πr \)
-    - Area: \( A = πr^2 \)
+Linjer och kurvor är de mest grundläggande elementen i geometri. En linje är en oändligt lång uppsättning punkter i en rak väg, medan kurvor är linjer med böjda sektioner. 
 
-3. **Kvadrater och rektanglar**: Dessa är fyrhörningar med olika egenskaper.
-    - En kvadrats sidor är lika långa och alla vinklar är räta.
-    - En rektangel har motstående sidor lika långa och också räta vinklar.
+#### Polygoner
 
-![Illustration av trianglar och cirklar](https://example.com/illustration-av-trianglar-och-cirklar)
+Polygoner är tvådimensionella figurer med raka sidor. De kan identifieras baserat på antalet sidor de har, såsom:
 
-Att förstå dessa geometriska figurer och deras egenskaper är viktigt inom många områden, inklusive konst, teknik och naturvetenskap. Geometriska figurer används exempelvis i arkitektur för att skapa strukturer som är både funktionella och estetiskt tilltalande.
+- Triangel
+- Fyrhörning (inklusive kvadrat och rektangel)
+- Pentagon
+- Hexagon
 
-## Sammanfattning
+#### Cirklar
 
-Geometri invaderar vår vardag på ett sätt som många kanske inte inser. Genom att förstå mått och vinklar, samt geometriska figurer, bygger vi grundläggande färdigheter som är avgörande för att lösa problem inom olika områden, från ingenjörsvetenskap till konst. Nästa gång du ser en byggnad eller en konstnärlig skapelse, kom ihåg att geometri spelar en avgörande roll i hur dessa strukturer och verk formas och förstås.
+Cirklar är perfekta rundade figurer, alla punkterna på cirkelns yta är i samma avstånd från centrum. Denna egenskap gör cirkeln till en unik geometrisk figur.
+
+### Tredimensionella figurer
+
+Tredimensionella figurer inkluderar olika former som har djup utöver längd och bredd.
+
+#### Polyeder
+
+Polyeder är figurer med platta, raka sidor, såsom kuber och prismor.
+
+#### Sfärer och cylindrar
+
+Sfärer är perfekta runda figurer i tre dimensioner, medan cylindrar har två parallella cirkulära baser och en kurvad yta mellan dem.
+
+Att kunna identifiera och karakterisera olika geometriska figurer är viktigt för att lösa geometriska problem och förstå vår omgivning i termer av form och struktur.
+
+[![Geometriska_figurer_t2d_t3d_polygon_polyeder_sfar_cylinnar.png](Geometriska_figurer_t2d_t3d_polygon_polyeder_sfar_cylinnar.png)]

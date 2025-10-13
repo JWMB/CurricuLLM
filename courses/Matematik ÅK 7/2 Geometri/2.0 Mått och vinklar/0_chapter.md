@@ -1,66 +1,75 @@
 ## Mått och vinklar
 
-Inom geometri är mått och vinklar grundläggande element som används för att beskriva och förstå former och deras egenskaper. I detta avsnitt kommer vi att utforska både vinklar och hur man beräknar omkrets och area av olika geometriska figurer.
+I det här avsnittet kommer vi att utforska grunderna för mått och vinklar inom geometrin. Mått och vinklar är centrala aspekter av geometriska beräkningar och har breda tillämpningar i både teoretiska och praktiska sammanhang, såsom arkitektur, konst, och ingenjörskonst. För att förstå dessa begrepp är det viktigt att bekanta sig med deras definitioner, enheter, och grundläggande principer.
 
 ### Vinklar
 
-En vinkel bildas när två linjer möts i en punkt, kallad vinkelns spets. Vinklar mäts i grader (°) eller radianer, där en fullständig rotation kring ett punkt är 360 grader eller 2π radianer.
+En vinkel är en geometrisk figur som bildas när två strålar utgår från en gemensam punkt, kallad vinkeln spets. Vinklar mäts i grader (°), och det vanligaste verktyget för att mäta vinklar är en gradskiva. Vinklar kan kategoriseras baserat på deras storlek, vilket vi ska utforska mer detaljerat här.
 
-#### Typer av vinklar
+- **Nollvinkel:** En vinkel på 0°, där de två strålarna överlappar exakt.
 
-Det finns flera typer av vinklar, beroende på deras mått:
-
-- **Rät vinkel**: En vinkel som är precis 90 grader. Denna typ av vinkel används ofta i konstruktion och design.
-  ![Rät vinkel](https://example.com/rat-vinkel.png)
+- **Spetsig vinkel:** En vinkel mellan 0° och 90°, som har en skarp spets.
   
-- **Spetsig vinkel**: En vinkel som är mindre än 90 grader. Exempel på spetsiga vinklar finns i många trianglar.
+- **Rät vinkel:** En vinkel på exakt 90°, som bildar en perfekta T-form.
   
-- **Trubbig vinkel**: En vinkel som är större än 90 grader men mindre än 180 grader. Dessa vinklar kan oftast observeras i vissa geometriska figurer, såsom vissa typer av parallellogram.
+- **Trubbig vinkel:** En vinkel mellan 90° och 180°, som ser ut att öppnas mer än en rät vinkel.
+  
+- **Rak vinkel:** En vinkel på exakt 180°, där strålarna ligger i motsatta riktningar.
 
-- **Rak vinkel**: En vinkel som är exakt 180 grader. Denna vinkel skapas av två linjer som ligger i samma linje.
+- **Reflexvinkel:** En vinkel mellan 180° och 360°, som ser ut att sluta sig kring spetsen.
 
-#### Vinkelberäkningar
+[Bildlänk: illustration av olika typer av vinklar]
 
-För att förstå relationerna mellan vinklar är det viktigt att känna till några grundläggande principer:
+#### Exempel på beräkning av vinklar
 
-- **Komplementära vinklar**: Två vinklar vars summa är 90 grader. Om en vinkel är 30 grader, är dess komplement 60 grader.
-- **Supplementära vinklar**: Två vinklar vars summa är 180 grader. Om en vinkel är 120 grader, är dess supplement 60 grader.
+Tänk dig en triangel där en av vinklarna är känd till 35° och den andra är 90°, vilket är en rät vinkel. För att hitta den tredje vinkeln, utnyttjar vi att summan av alla vinklar i en triangel är 180°. 
 
-Exempel:
-Anta att vi har en vinkel A som är 45 grader, och vi vill veta dess komplementära vinkel B.
-- Beräkning: \( B = 90° - A = 90° - 45° = 45° \)
+\[
+180° - (35° + 90°) = 55°
+\]
+
+Den tredje vinkeln i triangeln är alltså 55°.
 
 ### Omkrets och area
 
-Omkretsen är den totala längden av konturen eller gränsen av en geometrisk figur, medan arean är måttet av det yta som figuren täcker. Både omkrets och area beräknas med olika formler beroende på vilken typ av figur man har.
+Omkrets är avståndet runt en geometrisk figur medan area är ett mått på hur mycket yta figuren täcker. Både omkrets och area kan beräknas för olika typer av geometriska former, inklusive cirklar, rektanglar, trianglar, och mer komplexa former.
 
-#### Beräkning av omkrets
+#### Omkrets
 
-- **Rektangel**: Omkretsen P beräknas med formeln:
-  \[ P = 2 \times (längd + bredd) \]
-  Där längden och bredden är rektangelns mått.
+Omkrets beräknas genom att summera längden på alla sidor av en figur. Formeln varierar beroende på vilken figur vi har:
 
-- **Cirkel**: Omkretsen C av en cirkel beräknas med formeln:
-  \[ C = 2 \times \pi \times r \]
-  Här är \( r \) cirkelns radie.
+- **Rektangel:** Omkrets = 2 × (längd + bredd)
+  
+- **Triangel:** Omkretsen är summan av alla tre sidors längder.
 
-Exempel:
-Om en rektangel har längden 5 cm och bredden 3 cm, blir omkretsen:
-\[ P = 2 \times (5 + 3) = 2 \times 8 = 16 \, cm \]
+- **Cirkel:** Omkretsen, även kallad omfånget, beräknas som \(2 \pi r\) där \(r\) är radien.
 
-#### Beräkning av area
+#### Area
 
-- **Rektangel**: Arean A beräknas med följande formel:
-  \[ A = längd \times bredd \]
+Area beräknas också beroende på typen av figur:
 
-- **Cirkel**: Arean A beräknas med formeln:
-  \[ A = \pi \times r^2 \]
+- **Rektangel:** Area = längd × bredd
+  
+- **Triangel:** Area = \(\frac{1}{2}\) × bas × höjd
 
-Exempel:
-För samma rektangel med längd 5 cm och bredd 3 cm, blir arean:
-\[ A = 5 \times 3 = 15 \, cm^2 \]
+- **Cirkel:** Area = \(\pi r^2\)
 
-För en cirkel med radie 4 cm, blir arean:
-\[ A = \pi \times 4^2 \approx 50.27 \, cm^2 \]
+[Bildlänk: diagram som visar formler för omkrets och area för olika geometriska figurer]
 
-Att förstå mått och vinklar är avgörande för att kunna arbeta med geometri och lösa problem som involverar olika geometriska figurer. Genom att tillämpa dessa formler och koncept kan man bygga en stark grund i geometriska principer.
+#### Exempel på beräkning av omkrets och area
+
+Antag att du har en rektangel med en längd på 5 cm och en bredd på 3 cm. För att beräkna omkretsen och arean använder vi formlerna:
+
+Omkrets:
+\[
+2 \times (5 \text{ cm} + 3 \text{ cm}) = 16 \text{ cm}
+\]
+
+Area:
+\[
+5 \text{ cm} \times 3 \text{ cm} = 15 \text{ cm}^2
+\]
+
+Dessa beräkningar hjälper oss att förstå egenskaperna hos rektangeln och kan tillämpas i praktiska scenarier, som design av rum eller konstruktion.
+
+Sammanfattningsvis ger vi här den nödvändiga grunden för att förstå och tillämpa begreppen mått och vinklar, viktiga komponenter i den geometriska världen. För ytterligare lärande, kan studenter utforska problem som involverar kombinationer av olika geometriska figurer för att förstärka sina färdigheter.

@@ -1,56 +1,68 @@
-## Omkrets och area
+## Svårighetsgrad 1 - Lätt
 
-### Svårighetsgrad 1
+### Uppgift 1
+**Question:** Beräkna omkretsen av en rektangel som har en längd på 5 cm och en bredd på 3 cm.
 
-**Uppgift 1**  
-*Question:* Vad är omkretsen av en kvadrat som har sidor som är 4 cm långa?  
-*Hints:* Tänk på att omkretsen av en kvadrat är summan av alla sidor. Hur många sidor har en kvadrat?  
-*Answer:* Omkretsen är 16 cm.
+**Hints:** Omkretsen av en rektangel är lika med summan av alla dess sidor. Tänk på hur många sidor rektangeln har och hur längd och bredd förhåller sig till omkretsen.
 
-**Uppgift 2**  
-*Question:* Hur stor är arean av en rektangel som är 5 cm lång och 3 cm bred?  
-*Hints:* Kom ihåg att arean av en rektangel beräknas som längden multiplicerat med bredden.  
-*Answer:* Arean är 15 cm².
+**Answer:** Omkretsen är \(2 \times (5 + 3) = 16\) cm.
 
-**Uppgift 3**  
-*Question:* Vad är omkretsen av en cirkel med en diameter på 10 cm?  
-*Hints:* Använd formeln för omkretsen av en cirkel: Omkrets = π * diameter.  
-*Answer:* Omkretsen är ungefär 31.4 cm (ungefärlig värde av π är 3.14).
+### Uppgift 2
+**Question:** En kvadrat har en sida som är 7 cm lång. Vad är dess omkrets?
 
----
+**Hints:** Kom ihåg att en kvadrat har fyra lika långa sidor. Hur kan du använda sida-längden för att beräkna omkretsen?
 
-### Svårighetsgrad 2
+**Answer:** Omkretsen är \(4 \times 7 = 28\) cm.
 
-**Uppgift 1**  
-*Question:* Hur hittar man arean av en triangel som har en bas på 6 cm och en höjd på 4 cm?  
-*Hints:* Tänk på formeln för arean av en triangel: Area = (bas * höjd) / 2.  
-*Answer:* Arean är 12 cm².
+### Uppgift 3
+**Question:** Vad är arean av en kvadrat med sidor som är 6 cm långa?
 
-**Uppgift 2**  
-*Question:* En rektangel har en omkrets på 30 cm och en längd som är 2 gånger så lång som bredden. Vad är bredden och längden?  
-*Hints:* Använd formeln för omkretsen av en rektangel, och skriv upp ett system av ekvationer.  
-*Answer:* Bredden är 5 cm och längden är 10 cm.
+**Hints:** För att få arean av en kvadrat, multiplicerar du längden på en sida med sig själv.
 
-**Uppgift 3**  
-*Question:* En cirkel har en radie på 3 cm. Vad är arean av denna cirkel?  
-*Hints:* Använd formeln för cirkelarea: Area = π * radie².  
-*Answer:* Arean är ungefär 28.26 cm².
+**Answer:** Arean är \(6 \times 6 = 36\) cm².
 
----
+## Svårighetsgrad 2 - Medelsvår
 
-### Svårighetsgrad 3
+### Uppgift 4
+**Question:** Beräkna omkretsen av en cirkel med en radie på 4 cm. Använd \(\pi \approx 3.14\).
 
-**Uppgift 1**  
-*Question:* En fyrkantig trädgård har en omkrets som är 40 cm. Om du vill plantera blommor i ett mönster som kräver att endast varannan cell används (som ett schackbräde), hur många celler kan du plantera blommor i?  
-*Hints:* Först, räkna ut sidlängden på trädgården. Dela sedan upp den i celler och beräkna hur många av dem som är i mönstret.  
-*Answer:* Det är 25 cm² för varje sida, och därmed 25 celler totalt i en 5x5-grid, där du kan plantera blommor i 13 celler.
+**Hints:** Omkretsen av en cirkel kan beräknas med formeln \(2 \times \pi \times \text{radie}\).
 
-**Uppgift 2**  
-*Question:* En cirkel med en radie på 7 cm har en sektor med en vinkel på 60 grader. Hur stor är arean av sektorn?  
-*Hints:* Använd formeln för området av ett cirkelsektor: Area = (vinkel/360) * π * radie².  
-*Answer:* Arean av sektorn är ungefär 25.45 cm².
+**Answer:** Omkretsen är \(2 \times 3.14 \times 4 \approx 25.12\) cm.
 
-**Uppgift 3**  
-*Question:* En rektangel har en area på 48 cm² och en omkrets på 28 cm. Vilka är längden och bredden?  
-*Hints:* Skriv upp ekvationerna för area och omkrets och lös systemet av ekvationer.  
-*Answer:* Längden är 8 cm och bredden är 6 cm.
+### Uppgift 5
+**Question:** En rektangel har en area på 24 cm², och dess längd är 6 cm. Vad är bredden?
+
+**Hints:** Area av en rektangel ges av formeln \(\text{längd} \times \text{bredd}\). Försök lösa ekvationen där arean och längden är kända.
+
+**Answer:** Bredden är \(24 \div 6 = 4\) cm.
+
+### Uppgift 6
+**Question:** En triangel har en bas som är 5 cm och höjd som är 6 cm. Vad är dess area?
+
+**Hints:** Area av en triangel kan beräknas med formeln \(\frac{1}{2} \times \text{bas} \times \text{höjd}\).
+
+**Answer:** Arean är \(\frac{1}{2} \times 5 \times 6 = 15\) cm².
+
+## Svårighetsgrad 3 - Svår
+
+### Uppgift 7
+**Question:** En rektangel och en kvadrat har båda samma omkrets på 20 cm. Om kvadratens sidor är 5 cm, vad är rektangelns längd och bredd?
+
+**Hints:** Fundera över att kvadraten har fyra sidor av lika längd och beräkna rektangelns möjliga längd och bredd utifrån dess omkrets.
+
+**Answer:** Kvadratens omkrets är \(4 \times 5 = 20\) cm, och rektangelns längd och bredd kan vara \(l = 6\) cm, \(b = 4\) cm eller andra kombinationer där \(2(l + b) = 20\).
+
+### Uppgift 8
+**Question:** En cirkel har en area på 50 cm². Vad är dess radie? Använd \(\pi \approx 3.14\).
+
+**Hints:** Använd formeln för cirkelns area \(\pi \times r^2\) och lös för radien, \(r\).
+
+**Answer:** \(50 = 3.14 \times r^2 \Rightarrow r^2 \approx 15.92 \Rightarrow r \approx 3.99\) cm.
+
+### Uppgift 9
+**Question:** Två cirklar har samma radie. Omkretsen av den ena cirkeln är 31.4 cm. Vad är arean av den andra cirkeln?
+
+**Hints:** Använd formeln för omkrets för att hitta radien och använd sedan formeln för arean \(\pi \times r^2\).
+
+**Answer:** Radien är \(r = \frac{31.4}{2 \times 3.14} \approx 5\) cm och arean är \(\pi \times 5^2 \approx 78.5\) cm².

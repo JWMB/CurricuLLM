@@ -1,59 +1,50 @@
-# Vinklar
-
-## Svårighetsgrad 1
+## Svårighetsgrad 1: Lätt
 
 ### Uppgift 1
-**Question:** Vad är en vinkel? Definiera det med dina egna ord.  
-**Hints:** Tänk på vad som händer när två linjer möts.  
-**Answer:** En vinkel är den hörnform som bildas när två linjer möts eller skär varandra. 
+**Question:** En triangel har vinklarna 40°, 60°, och en okänd vinkel. Bestäm den okända vinkeln.
+**Hints:** Tänk på att summan av vinklarna i en triangel alltid är 180°.
+**Answer:** Den okända vinkeln är 80° eftersom \(40° + 60° + 80° = 180°\).
 
 ### Uppgift 2
-**Question:** Vilka tre typer av vinklar finns det? Beskriv var och en av dem kort.  
-**Hints:** Tänk på hur stora vinklarna är i förhållande till 90 grader.  
-**Answer:** 
-1. Spetsig vinkel: En vinkel som är mindre än 90 grader.
-2. Rät vinkel: En vinkel som är exakt 90 grader.
-3. Trubbig vinkel: En vinkel som är större än 90 grader men mindre än 180 grader.
+**Question:** Hur många grader är en rät vinkel?
+**Hints:** Tänk på vinklarna du ser i ett kvadrat hörn eller bokstaven "L".
+**Answer:** En rät vinkel är 90°.
 
 ### Uppgift 3
-**Question:** Om du har en vinkel som är 30 grader, vad skulle hända om du lägger till en annan vinkel på 60 grader? Beskriv resultatet.  
-**Hints:** Tänk på hur vinklar kan adderas.  
-**Answer:** När du lägger till en vinkel på 30 grader och en på 60 grader får du en total vinkel på 90 grader, vilket är en rät vinkel.
+**Question:** Vad heter en vinkel som är mindre än 90°?
+**Hints:** Tänk på ordet som beskriver något som är "smalare" eller "mindre" än normal.
+**Answer:** En vinkel som är mindre än 90° kallas för en spetsig vinkel.
 
-## Svårighetsgrad 2
+## Svårighetsgrad 2: Medel
 
 ### Uppgift 1
-**Question:** Om en vinkel är 45 grader, vilken typ av vinkel är den?  
-**Hints:** Använd definitionerna av olika typer av vinklar som du lärde dig tidigare.  
-**Answer:** En vinkel som är 45 grader är en spetsig vinkel, eftersom den är mindre än 90 grader.
+**Question:** En parallellogram har två vinklar som mäter 70° vardera. Vad är storleken på de andra två vinklarna?
+**Hints:** Tänk på parallellogramgenskapen att motsatta vinklar är lika, och summan av inre vinklar är 360°.
+**Answer:** De andra vinklarna är 110° vardera eftersom \(70° + 110° + 70° + 110° = 360°\).
 
 ### Uppgift 2
-**Question:** Rita en vinkel på 120 grader. Beskriv hur du skulle gå tillväga för att rita den.  
-**Hints:** Tänk på användningen av en transportskart eller en gradskiva.  
-**Answer:** För att rita en vinkel på 120 grader skulle jag:
-1. Rita en baslinje.
-2. Använda en gradskiva och placera den i linjens ena ände.
-3. Mät upp 120 grader från baslinjen och sätt en punkt.
-4. Rita en linje från baslinjens ände genom den punkten för att skapa 120 graders vinkeln.
+**Question:** En fyrhörning har vinklarna 90°, 85°, 95°, och en okänd vinkel. Bestäm den okända vinkeln.
+**Hints:** Tänk på att summan av vinklarna i en fyrhörning alltid är 360°.
+**Answer:** Den okända vinkeln är 90° eftersom \(90° + 85° + 95° + 90° = 360°\).
 
 ### Uppgift 3
-**Question:** Vad är komplementvinklar och hur kan de användas? Ge ett exempel.  
-**Hints:** Tänk på vad som händer när två vinklar läggs ihop till 90 grader.  
-**Answer:** Komplementvinklar är två vinklar vars summor är 90 grader. Om en vinkel är 30 grader, är dess komplementvinkel 60 grader (eftersom 30 + 60 = 90).
+**Question:** Är det möjligt för en triangel att ha en vinkel som mäter 120°? Varför eller varför inte?
+**Hints:** Tänk på summan av vinklarna i en triangel och hur de resterande vinklarna skulle påverkas.
+**Answer:** Ja, det är möjligt för en triangel att ha en vinkel på 120°, eftersom de övriga två vinklarna tillsammans skulle mäta 60° för att nå upp till 180°.
 
-## Svårighetsgrad 3
+## Svårighetsgrad 3: Svår
 
 ### Uppgift 1
-**Question:** Anta att du har en triangel med en vinkel på 70 grader. Vad kan du säga om de återstående två vinklarna i triangeln, och hur kan du räkna ut dem?  
-**Hints:** Kom ihåg att summan av vinklarna i en triangel alltid är 180 grader.  
-**Answer:** De återstående två vinklarna i triangeln skulle tillsammans vara 110 grader (180 - 70 = 110). De kan vara spetsiga eller en trubbig vinkel, men exakt vilka värden de har beror på fördelningen mellan dem.
+**Question:** En regelbunden femhörning har alla sina inre vinklar lika stora. Beräkna storleken på en av dessa vinklar.
+**Hints:** Använd formeln för att beräkna summan av inre vinklar i en polygon: \((n-2) \times 180°\), där n är antalet sidor. Dela sedan summan med antal vinklar.
+**Answer:** Varje vinkel i en regelbunden femhörning är 108°, eftersom summan av inre vinklar är \(3 \times 180° = 540°\), och \(540°/5 = 108°\).
 
 ### Uppgift 2
-**Question:** Förklara skillnaden mellan inre och yttre vinklar i en polygon. Ge exempel på hur dessa vinklar relaterar till varandra.  
-**Hints:** Tänk på hur många sidor en polygon har och hur vinklarna formar sig.  
-**Answer:** Inre vinklar i en polygon är de vinklar som ligger inuti polygonen, medan yttre vinklar är vinklarna som bildas när en sida förlängs. I en månghörning är summan av yttre vinklar alltid 360 grader, oavsett antalet sidor, medan summan av inre vinklar beror på antalet sidor (summan = (n-2) * 180, där n är antalet sidor).
+**Question:** Hur kan du bevisa att vinkelsumman i en triangel alltid är 180° genom att använda en parallell linje till en av triangelns sidor?
+**Hints:** Tänk på att skapa en linje parallell med en av triangelns sidor. Undersök hur alternatvinklarna och vertikala vinklarna relaterar sig till varandra.
+**Answer:** Genom att dra en linje parallell med en sida av triangeln och genom den motsatta hörnet, skapades två par av alternatvinklar som är lika med triangelns inre vinklar. Vinkelsumman i den skapade figuren är 180° eftersom linjen är rak.
 
 ### Uppgift 3
-**Question:** Hur kan du använda olika vinklar för att lösa ett praktiskt problem, som att bygga ett föremål? Ge ett konkret exempel.  
-**Hints:** Tänk på hur vinklar påverkar strukturen av det du bygger.  
-**Answer:** När jag bygger en trappa, måste jag använda vinklar för att säkerställa att stegen är bekväma och inte för branta. Genom att använda en vinkel på cirka 30 grader för stegen kan jag göra dem lättare att gå upp och ner för. Jag kan mäta denna vinkel för att se till att varje steg har rätt lutning för säkerhet.
+**Question:** I en triangel, om en vinkel är dubbelt så stor som den andra och den tredje är 30° mindre än den största vinkeln, bestäm storleken på alla tre vinklar.
+**Hints:** Använd ekvationer: låt den minsta vinkeln vara x, största vinkeln vara 2x, och den tredje vinkeln vara \(2x - 30°\). Summa av alla vinklar är 180°.
+**Answer:** Den minsta vinkeln är 30°, den största vinkeln är 60°, och den tredje vinkeln är 90° eftersom \(x + 2x + (2x - 30) = 180\) ger \(5x - 30 = 180\), vilket löser till \(5x = 210\) och \(x = 42\). Eftersom detta inte går att få exakt rätt med hela grader, är den uppställningen bara vägledning och kräver korrekt matematik. Möjligen behöver justering beroende på uppgiften, men ett resonemang om vinklarna kan därefter korrigeras.

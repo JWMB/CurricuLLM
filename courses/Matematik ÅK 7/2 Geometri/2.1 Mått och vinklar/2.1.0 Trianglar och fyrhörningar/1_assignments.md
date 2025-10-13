@@ -1,52 +1,75 @@
-# Geometri: Trianglar och fyrhörningar
+# Svårighetsgrad 1
 
-## Svårighetsgrad 1
+## Uppgift 1
+**Question:** Vilka är de olika typerna av trianglar baserat på deras sidor och vinklar?
 
-**Uppgift 1:**  
-*Question:* Hur många sidor har en triangel?  
-*Hints:* Tänk på definitionen av en triangel.  
-*Answer:* En triangel har tre sidor.
+**Hints:** Tänk på sidorna och vinklarna i triangeln. En triangel kan ha lika långa sidor, olika långa sidor eller en kombination av båda. Vinklarna kan också vara olika.
 
-**Uppgift 2:**  
-*Question:* Nämn minst två typer av trianglar utifrån deras sidor.  
-*Hints:* Tänk på olika sätt att klassificera trianglar.  
-*Answer:* Några typer av trianglar är likbenta och liksidiga trianglar.
+**Answer:** 
+- Liksidig triangel: Alla sidor är lika långa och alla vinklar är 60 grader.
+- Likbent triangel: Två sidor är lika långa och vinklarna mot de lika långa sidorna är lika.
+- Rätvinklig triangel: En vinkel är 90 grader.
+- Variabel triangel: Ingen triangel har likadana sidor eller vinklar.
 
-**Uppgift 3:**  
-*Question:* Vad kallas en fyrhörning där alla sidor är lika långa?  
-*Hints:* Tänk på olika former av fyrhörningar.  
-*Answer:* En fyrhörning med alla sidor lika långa kallas för en romb.
+## Uppgift 2
+**Question:** Hur många sidor har en fyrhörning?
 
-## Svårighetsgrad 2
+**Hints:** Fundera på namnet "fyrhörning" och vad det kan indikera om antalet sidor.
 
-**Uppgift 1:**  
-*Question:* Om en triangel har en vinkel som är 90 grader, vilken typ av triangel är det då?  
-*Hints:* Fundera på definitionen av rätvinkliga trianglar.  
-*Answer:* Det är en rätvinklig triangel.
+**Answer:** En fyrhörning har fyra sidor.
 
-**Uppgift 2:**  
-*Question:* Beskriv hur man kan beräkna omkretsen av en fyrhörning.  
-*Hints:* Tänk på vad omkretsen innebär och vilka sidor som ingår.  
-*Answer:* För att beräkna omkretsen av en fyrhörning lägger man ihop längderna på alla fyra sidor.
+## Uppgift 3
+**Question:** Om en triangel har en vinkel som är 90 grader, vilka typer av trianglar kan den vara?
 
-**Uppgift 3:**  
-*Question:* Vilken form har en parallellogram och vilka egenskaper har den?  
-*Hints:* Tänk på parallellogramens sidor och vinklar.  
-*Answer:* En parallellogram har två par parallella sidor och motsatta vinklar är lika stora.
+**Hints:** En 90 graders vinkel definierar en speciell typ av triangel. Tänk på sidornas längd för att beskriva det vidare.
 
-## Svårighetsgrad 3
+**Answer:** Den triangeln är en rätvinklig triangel. Den kan också vara likbent om två av dess sidor är lika långa.
 
-**Uppgift 1:**  
-*Question:* Två trianglar är likformiga. Vilka förhållanden gäller mellan deras sidor och vinklar?  
-*Hints:* Tänk på egenskaperna för likformiga trianglar.  
-*Answer:* I likformiga trianglar är motsvarande sidor i proportion och motsvarande vinklar är lika stora.
+# Svårighetsgrad 2
 
-**Uppgift 2:**  
-*Question:* Om en fyrhörning är en rektangel, vad kan man säga om dess diagonaler?  
-*Hints:* Tänk på rektanglarnas symmetri och egenskaper hos diagonaler.  
-*Answer:* Diagonalerna i en rektangel är lika långa och korsar varandra i mitten.
+## Uppgift 1
+**Question:** Vad är skillnaden mellan en romb och en rektangel?
 
-**Uppgift 3:**  
-*Question:* En triangel har sidor med längderna 5 cm, 12 cm och 13 cm. Vilken typ av triangel är den och hur kan du bekräfta detta?  
-*Hints:* Använd Pythagoras sats för att kontrollera.  
-*Answer:* Triangeln är en rätvinklig triangel eftersom \(5^2 + 12^2 = 13^2\) (25 + 144 = 169).
+**Hints:** Tänk på sidornas längd och vinklarnas storlek.
+
+**Answer:** En romb har alla sidor lika långa och vinklarna kan vara olika. En rektangel har motstående sidor som är lika långa och alla vinklar är 90 grader.
+
+## Uppgift 2
+**Question:** Hur många diagonaler har en fyrhörning?
+
+**Hints:** Tänk på hur du kan dra diagonaler mellan hörnen i en fyrhörning utan att rita över en sida.
+
+**Answer:** En fyrhörning har två diagonaler.
+
+## Uppgift 3
+**Question:** Kan en triangel ha mer än en vinkel som är större än 90 grader? Varför eller varför inte?
+
+**Hints:** Fundera på triangelns totalt antal grader i vinklarna och hur dessa kan fördelas.
+
+**Answer:** Nej, en triangel kan inte ha mer än en vinkel som är större än 90 grader eftersom vinkelsumman i en triangel alltid är 180 grader och en vinkel över 90 grader skulle göra det omöjligt för de återstående vinklarna att bilda en triangel.
+
+# Svårighetsgrad 3
+
+## Uppgift 1
+**Question:** På hur många sätt kan en triangel klassificeras utifrån dess vinklar, och hur relaterar dessa vinklar till triangelns sidor?
+
+**Hints:** Kategorisera trianglar utifrån akuta, räta och trubbiga vinklar. Tänk också på hur dessa vinklar påverkar sidornas längd.
+
+**Answer:** 
+- Acute-angled triangle (spetsvinklig triangel): Alla vinklar är mindre än 90 grader. Vanligtvis har alla sidor olika längd, men de kan också vara likbenta eller liksidiga.
+- Right-angled triangle (rätvinklig triangel): En vinkel är 90 grader. Sidorna kan vara olika långa eller två av dem lika långa vilket skapar en likbent triangel.
+- Obtuse-angled triangle (trubbvinklig triangel): En vinkel är större än 90 grader. Sidorna är aldrig lika långa.
+
+## Uppgift 2
+**Question:** Om en fyrhörnings sidor är av olika längder och dess vinklar inte är 90 grader, vilken typ av fyrhörning kan det vara och varför?
+
+**Hints:** Tänk på definitioner och egenskaper hos olika typer av fyrhörningar.
+
+**Answer:** Det kan vara ett drake eller en vanlig kvadratisk polygon. En drake har två par av angränsande sidor av lika längd och vinklar som inte behöver vara 90 grader.
+
+## Uppgift 3
+**Question:** Konstruktivt resonera kring varför en fyrhörning med alla sidor lika och alla vinklar 60 grader inte kan existera.
+
+**Hints:** Kom ihåg vinkelsumman och vanliga regler för fyrhörningar och trianglar.
+
+**Answer:** En fyrhörning har en vinkelsumma av 360 grader. Om alla vinklar vore 60 grader skulle vinkelsumman bli 240 grader, vilket är för lite för en fyrhörning. Vinklarna i en fyrhörning bör summera till 360 grader för att vara en riktig polygon.

@@ -1,56 +1,71 @@
-# Tal och räkning
-### Addition och subtraktion av heltal
+## Addition och subtraktion av heltal
 
-Addition och subtraktion av heltal är grundläggande matematiska operationer som används för att lösa många typer av problem. Heltal omfattar både positiva och negativa tal, samt talet noll. För att förstå dessa operationer är det viktigt att först definiera vad som menas med heltal och varför dessa operationer är centrala i matematiken.
+### Introduktion
 
-#### Definition av heltal
-Heltal är de tal som inte har någon decimaldel och kan vara positiva, negativa eller noll. Exempel på heltal är -3, -2, -1, 0, 1, 2, 3. 
+Addition och subtraktion av heltal utgör grunden för aritmetik, vilket är en av de mest fundamentala områdena inom matematik. Dessa operationer är avgörande för att förstå och lösa mer komplexa problem, och de används dagligen i olika sammanhang, från enkla beräkningar i hemmiljö till avancerade kalkyler i vetenskap och ekonomi. Att behärska addition och subtraktion av heltal hjälper dig att utveckla en stark matematisk grund.
 
-#### Addition av heltal
-Addition av heltal innebär att man sammanför två eller flera tal till ett större tal. 
+![Illustration av två parallella linjer där heltal på en tallinje adderas respektive subtraheras](addition_subtraktion_tallinje.png)
 
-- **Positiva hållande tal:** När man adderar två positiva heltal får man alltid ett positivt resultat. Till exempel:
-  
-  - \( 3 + 5 = 8 \)
+### Grundläggande principer
 
-  ![Addition av positiva heltal](</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/0.0.0 Addition och subtraktion av heltal/addition-av-positiva-heltal.png>)
+### Addition av heltal
 
-- **Negativa tal:** När man adderar två negativa heltal, får man ett negativt resultat. Till exempel:
+Vid addition lägger vi samman två eller fler heltal för att få en summa. Det är en av de enklaste matematiska operationerna och är ofta det första steget vi tar när vi börjar lära oss räkning. Symbolen för addition är plus-tecknet (+).
 
-  - \( -2 + (-4) = -6 \)
+**Exempel**:
 
-- **Olika tecken:** När man adderar ett positivt och ett negativt heltal, beror resultatet på vilket tal som är större. Till exempel:
+- 3 + 5 = 8
 
-  - \( 6 + (-4) = 2 \)
-  - \( -3 + 5 = 2 \)
-  - \( -5 + 3 = -2 \)
+I detta exempel innebär operationen att vi börjar med talet 3 och adderar talet 5, vilket ger oss summan 8.
 
-#### Subtraktion av heltal
-Subtraktion är en operation där ett tal (minuend) tas bort med ett annat tal (subtrahend). Resultatet kallas differens.
+Additionens egenskaper inkluderar kommutativitet och associativitet:
 
-- **Positiva tal:** När man subtraherar ett mindre positivt heltal från ett större positivt tal, är resultatet positivt:
+1. **Kommutativitet**: A + B = B + A  
+   Detta innebär att ordningen av talen vi adderar inte påverkar resultatet.
 
-  - \( 8 - 5 = 3 \)
+2. **Associativitet**: (A + B) + C = A + (B + C)  
+   Detta betyder att sättet vi grupperar talen inte förändrar summan.
 
-- **Negativa tal:** När man subtraherar ett större negativt heltal från ett mindre negativt tal, kan resultatet bli positivt:
+### Subtraktion av heltal
 
-  - \( -2 - (-4) = -2 + 4 = 2 \)
+Subtraktion handlar om att ta bort ett tal från ett annat och resulterar i en differens. Detta skrivs med minus-tecknet (-).
 
-- **Olika tecken:** Precis som vid addition, påverkar tecknen resultatet i subtraktion också. Här är några exempel:
+**Exempel**:
 
-  - \( 3 - 5 = -2 \)
-  - \( -5 - 2 = -7 \)
-  - \( 4 - (-3) = 4 + 3 = 7 \)
+- 10 - 4 = 6
 
-#### Kombination av addition och subtraktion
-I många matematiska problem måste man använda både addition och subtraktion. Till exempel kan man ha en situation där man adderar och subtraherar olika tal:
+Här börjar vi med talet 10 och tar bort 4, vilket resulterar i differensen 6.
 
-- Om vi har \( 3 + 5 - 2 + (-1) = \)
-  - Först adderar vi \( 3 + 5 = 8 \)
-  - Sedan subtraherar vi \( 8 - 2 = 6 \)
-  - Till sist adderar vi \( 6 + (-1) = 5 \)
+Subtraktion har egenskapen av att vara motsatsen till addition. Det är inte kommutativt, vilket innebär att ordningen av talen spelar en viktig roll:
 
-Det är viktigt att följa ordningen av operationerna noggrant för att få rätt svar. 
+- 10 - 4 ≠ 4 - 10  
 
-#### Sammanfattning
-Addition och subtraktion av heltal är grundläggande matematiska färdigheter som är nödvändiga för att lösa olika typer av problem. Genom att förstå hur dessa operationer fungerar och tillämpa dem korrekt kan man hantera mer komplexa matematiska uppgifter i framtiden. Det är rekommenderat att öva dessa färdigheter med olika uppgifter för att stärka sin förståelse och snabbhet i utförandet.
+Eftersom subtraktion inte är kommutativ, får vi olika resultat beroende på vilket tal vi börjar med.
+
+### Praktisk tillämpning
+
+Addition och subtraktion används i många praktiska situationer, till exempel:
+
+1. **Budgetar och ekonomi**: Används för att beräkna utgifter och inkomster.
+2. **Tidsberäkningar**: För att justera tidpunkter genom att lägga till eller ta bort minuter och timmar.
+3. **Matlagning**: För att anpassa recept genom att lägga till eller minska ingredienser.
+
+### Fördjupning med exempel
+
+För att bättre förstå addition och subtraktion kan vi utforska ett något mer komplext exempel:
+
+**Problemet**: Anna har 15 äpplen. Hon ger 6 äpplen till sin vän och sedan köper hon ytterligare 7 äpplen. Hur många äpplen har Anna nu?
+
+**Lösning**:
+
+1. Börja med det ursprungliga antalet äpplen: 15.
+2. Subtrahera de 6 äpplen hon ger bort: 15 - 6 = 9.
+3. Addera de 7 äpplen hon köper: 9 + 7 = 16.
+
+Anna har nu totalt 16 äpplen. Detta enkla exempel visar hur vi kan kombinera både addition och subtraktion för att lösa problem i vår vardag.
+
+![Illustration av ett äppelträdsdiagram som visar stegvis subtraktion och addition](äppelträd_subtraktion_addition.png)
+
+### Slutsats
+
+Addition och subtraktion av heltal är grundläggande matematiska färdigheter som är viktiga för att bygga en stark matematisk grund. Att förstå dessa operationer och deras egenskaper hjälper oss att lösa både enkla och komplexa problem i olika kontexter. Genom att öva på dessa färdigheter kan vi bli mer kompetenta i att hantera siffror och utforska vidare inom matematikens värld.

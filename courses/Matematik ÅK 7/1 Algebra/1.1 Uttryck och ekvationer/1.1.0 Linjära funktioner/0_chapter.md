@@ -1,41 +1,40 @@
 ## Linjära funktioner
 
-Linjära funktioner är en grundläggande del av algebra och spelar en viktig roll i matematikens värld. En linjär funktion definieras som en funktion som kan beskrivas med en ekvation av formen:
+Linjära funktioner är en grundläggande typ av funktioner inom algebra som beskriver ett rakt linjärt samband mellan två variabler. De är viktiga eftersom de ofta används för att modellera enkla samband och förändringar i verkliga situationer. En linjär funktion kan uttryckas i formeln:
 
-\[ f(x) = ax + b \]
+\[ y = mx + b \]
 
-där \(a\) och \(b\) är konstanter och \(x\) är den oberoende variabeln. 
+Där:
+- \( y \) är beroende variabel
+- \( x \) är oberoende variabel
+- \( m \) är lutningen (slope) på linjen
+- \( b \) är skärningspunkten med y-axeln (y-intercept)
 
-### Vad är en linjär funktion?
+### Förklaring av komponenter
+En linjär funktion är alltid en rak linje när den representeras grafiskt. Den har en konstant förändring vilket gör att grafen inte böjer sig eller kurvar, till skillnad från icke-linjära funktioner. Låt oss utforska komponenterna i den linjära ekvationen mer i detalj:
 
-En linjär funktion representerar en rak linje när den plottas i ett koordinatsystem. Här är några viktiga punkter om linjära funktioner:
+#### Lutning (\( m \))
+Lutningen, \( m \), beskriver hur mycket \( y \) förändras när \( x \) ökar med en enhet. Lutningen ger alltså en indikation på hur brant linjen är. Om \( m \) är positiv stiger linjen från vänster till höger, och om \( m \) är negativ sjunker linjen. En större absolutvärde av \( m \) betyder en brantare linje, medan \( m = 0 \) innebär en horisontell linje.
 
-1. **Hastighet**: Koefficienten \(a\) kallas lutning (eller gradient) av linjen. Den anger hur mycket \(f(x)\) förändras för varje enhetsförändring i \(x\). Ett positivt värde på \(a\) visar att linjen lutar uppåt, medan ett negativt värde visar att den lutar nedåt.
+![Bild på lutning](slope_diagram.jpg)
 
-2. **Startpunkt**: Konstanten \(b\) kallas konstantled eller intercept och representerar värdet av \(f(x)\) när \(x = 0\). Det är den punkt där linjen skär y-axeln.
+#### Skärningspunkt med y-axeln (\( b \))
+Skärningspunkten, \( b \), är det värde där linjen skär y-axeln. Det representerar värdet av \( y \) när \( x = 0 \). Om du tänker dig en graf, är detta den punkt där linjen möter y-axeln, vilket ofta kallas "startvärdet" för funktionens värden.
 
-### Exempel på linjära funktioner
+![Bild på skärningspunkt med y-axeln](y_intercept_diagram.jpg)
 
-Låt oss titta på två exempel på linjära funktioner:
+### Graf av en linjär funktion
+För att illustrera en linjär funktion börjar man ofta med att teckna lutningen och skärningspunkten med y-axeln. Ett sätt att göra detta är att först sätta linjens skärningspunkt med y-axeln och därefter använda lutningen för att rita resten av linjen. Detta ger en visuell representation av funktionens förändringsmönster.
 
-1. Funktion: \(f(x) = 2x + 3\)
-   - Här har vi \(a = 2\) och \(b = 3\). Lutningen är 2, vilket innebär att för varje enhetsökning i \(x\) ökar \(f(x)\) med 2. Konstantledet är 3, så linjen skär y-axeln vid punkten (0, 3).
+![Graf av en linjär funktion](linear_function_graph.jpg)
 
-2. Funktion: \(g(x) = -0.5x + 1\)
-   - I detta fall är \(a = -0.5\) och \(b = 1\). Lutningen är -0.5, vilket innebär att för varje enhetsökning i \(x\) minskar \(g(x)\) med 0.5. Konstantledet är 1, så linjen skär y-axeln vid punkten (0, 1).
+### Exempel på en linjär funktion
+Antag att vi har funktionen \( y = 3x + 2 \). Här är \( m = 3 \) och \( b = 2 \). Detta innebär att för varje enhetsökning av \( x \), kommer \( y \) att öka med 3 enheter. Dessutom, när \( x \) är 0, kommer \( y \) att vara 2, vilket är skärningspunkten med y-axeln.
 
-![Graf över linjära funktioner](https://example.com/graf_over_linjara_funktioner.png)
+För att rita denna funktion, börjar vi vid \( (0, 2) \) på y-axeln och går sedan upp 3 enheter och över 1 enhet, vilket representerar lutningen. När du har ritat tillräckligt många punkter, kan du dra en rak linje genom dessa punkter för att visa hela funktionen grafiskt.
 
-I diagrammet ovan kan vi se hur de två linjära funktionerna \(f(x)\) och \(g(x)\) ser ut. Observera hur deras lutningar påverkar riktningen på linjerna.
+### Användningsområden för linjära funktioner
+Linjära funktioner används ofta i olika områden såsom ekonomi för att modellera trender, inom fysik för att beskriva rörelser med konstant hastighet, och inom ingenjörsvetenskap för att kartlägga enkla förändringar. Deras enkelhet och tydlighet gör dem till ett kraftfullt verktyg inom matematik och naturvetenskap.
 
-### Användning av linjära funktioner
-
-Linjära funktioner används inom många olika områden, inklusive ekonomi, fysik, och ingenjörsvetenskap. Några exempel på deras tillämpningar inkluderar:
-
-- **Ekonomi**: Linjära funktioner kan användas för att modellera kostnader. Om ett företag har en fast kostnad och en variabel kostnad per enhet, kan den totala kostnaden uttryckas som en linjär funktion.
-  
-- **Fysik**: Linjära funktioner kan beskriva relationen mellan hastighet och tid under konstant acceleration, där hastigheten kan beskrivas som en funktion av tiden.
-
-I sammanhang som dessa hjälper linjära funktioner till att göra beräkningar enklare och förstå relationer mellan variabler. 
-
-Linjära funktioner är ett grundläggande verktyg för att analysera förändringar och trender, vilket gör dem värdefulla i både teoretiska och praktiska tillämpningar.
+### Sammanfattning
+En linjär funktion representerar ett konstant, proportionellt förhållande mellan två variabler, uttryckt som \( y = mx + b \). Genom att förstå och tillämpa dessa funktioner kan man beskriva och förutsäga många olika verkliga fenomen på ett tydligt och koncist sätt.

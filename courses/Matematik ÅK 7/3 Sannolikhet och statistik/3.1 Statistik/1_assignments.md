@@ -1,52 +1,49 @@
+# Sannolikhet och statistik
+
 ## Statistik
 
-### Svårighetsgrad 1
+### Samla in och presentera data
 
-**Uppgift 1**  
-*Question:* Vad är statistik och varför är det viktigt att samla in data?  
-*Hints:* Tänk på hur vi använder data i vardagen, som i väderprognoser eller i sportresultat.  
-*Answer:* Statistik är en gren inom matematik som handlar om insamling, analys, presentation och tolkning av data. Det är viktigt att samla in data för att kunna fatta informerade beslut, förstå mönster och trender, och urskilja viktiga insikter inom olika områden.
+#### Svårighetsgrad 1
 
-**Uppgift 2**  
-*Question:* Ge två exempel på hur statistiska data kan presenteras.  
-*Hints:* Tänk på diagram, tabeller eller kanaler för presentation av information.  
-*Answer:* Statistiska data kan presenteras i form av stapeldiagram och linjediagram, eller i tabellform för att visa värden tydligt.
+1. **Question:** Samla in data från dina klasskamrater om deras favoritfrukt. Hur kan du bäst presentera denna information visuellt?
+   - **Hints:** Tänk på att du kan använda diagram för att göra informationen tydligare. Vilka diagram har du lärt dig om?
+   - **Answer:** En bra metod att presentera denna information är med hjälp av ett stapeldiagram där varje stapel representerar en frukts popularitet.
 
-**Uppgift 3**  
-*Question:* Vad innebär det att göra en undersökning och varför är det viktigt att veta vilken population man ska undersöka?  
-*Hints:* Reflektera över vilka grupper av människor eller saker som kan påverka resultaten.  
-*Answer:* Att göra en undersökning innebär att man samlar in information från en viss grupp eller population. Det är viktigt att veta vilken population man undersöker för att resultaten ska vara representativa och tillämpbara på det ämne man studerar.
+2. **Question:** Du har data över antalet sidor som fem olika böcker har: 120, 220, 160, 200, och 180. Rita ett cirkeldiagram som visar hur stor del varje bok utgör av det totala antalet sidor.
+   - **Hints:** Först behöver du beräkna det totala antalet sidor. Sedan bestämma procentandelen varje bok står för.
+   - **Answer:** Totalen är 880 sidor. Procentandelar är: Bok 1 (120 sidor) = 13.64%, Bok 2 (220 sidor) = 25%, Bok 3 (160 sidor) = 18.18%, Bok 4 (200 sidor) = 22.73%, Bok 5 (180 sidor) = 20.45%.
 
-### Svårighetsgrad 2
+3. **Question:** Om du vill ta reda på vilka veckodagar som flest klasskompisar går till biblioteket, vad kan du göra för att samla in och presentera denna information?
+   - **Hints:** Du kan använda en enkät där klasskompisarna fyller i vilka dagar de besöker biblioteket.
+   - **Answer:** Använd enkätdata för att skapa ett linjediagram eller ett frekvenstabell som visar vilka dagar biblioteket är mest populärt.
 
-**Uppgift 1**  
-*Question:* Vad är medelvärde och hur beräknar man det? Ge ett exempel.  
-*Hints:* Tänk på hur man summerar värden och delar med antalet värden.  
-*Answer:* Medelvärde är summan av alla värden delat med antalet värden. Om vi har värdena 4, 6 och 10, så blir medelvärdet (4 + 6 + 10) / 3 = 20 / 3 = 6,67.
+#### Svårighetsgrad 2
 
-**Uppgift 2**  
-*Question:* Beskriv skillnaden mellan median och typvärde.  
-*Hints:* Tänk på vad som händer med ett dataset där värden upprepas.  
-*Answer:* Median är det mittersta värdet i ett sorterat dataset, medan typvärde är det värde som förekommer flest gånger i datasetet. I datasetet 1, 2, 2, 3, 4 är median 2 och typvärde 2.
+1. **Question:** Du undersöker vilka klädesplagg som är mest och minst populära bland dina klasskamrater. Hur kan du visualisera detta med hjälp av ett stapeldiagram?
+   - **Hints:** Tänk på att använda en skala och märk varje stapel med ett klädesplagg.
+   - **Answer:** Skapa ett stapeldiagram där varje stapel representerar ett specifikt klädesplagg (t.ex. t-shirt, jeans, tröja), och höjden på stapeln visar dess popularitet.
 
-**Uppgift 3**  
-*Question:* Varför kan medelvärdet ibland vara missvisande?  
-*Hints:* Tänk på hur extrema värden påverkar ett värde.  
-*Answer:* Medelvärdet kan vara missvisande om det finns extrema värden (utliggare) i datasetet, som drar medelvärdet uppåt eller nedåt och inte ger en rättvis bild av de övriga värdena. T.ex. om vi har värdena 1, 2, 3 och 100, blir medelvärdet 26,5 vilket inte reflekterar de andra värdena.
+2. **Question:** Samla in data om hur många timmar per vecka dina vänner tränar. Hur kan du använda en låddiagram för att visa variationen i träningsvanor?
+   - **Hints:** Låddiagram visar hur spridningen ser ut i datasetet, inklusive kvartiler och medelvärde.
+   - **Answer:** Konstruera ett låddiagram där du presenterar minsta och största värde, medianen, och kvartilerna för antalet timmar dina vänner tränar per vecka.
 
-### Svårighetsgrad 3
+3. **Question:** Du dokumenterar temperaturen varje dag i en månad. Vilken typ av diagram skulle ge den tydligaste bilden av temperaturens variation under denna tid?
+   - **Hints:** Du kan använda ett linjediagram för att visa förändringen över tiden.
+   - **Answer:** Ett linjediagram skulle vara effektivt för att visa hur temperaturen förändras dag-till-dag över en månad.
 
-**Uppgift 1**  
-*Question:* Du genomför en undersökning på hur mycket tid elever i en klass spenderar på läxor varje vecka. Data visar: 1 timme, 2 timmar, 2 timmar, 3 timmar, 4 timmar, 5 timmar, 5 timmar, 6 timmar. Vad är mått på central tendens (medelvärde, median och typvärde) för dessa data och vilket värde ger mest information?  
-*Hints:* Börja med att beräkna medelvärdet, medianen och typvärdet, och diskutera vilken information som är mest relevant.  
-*Answer:* Medelvärde = (1 + 2 + 2 + 3 + 4 + 5 + 5 + 6) / 8 = 3,5. Median = (3 + 4) / 2 = 3,5. Typvärde = 2 och 5. Median och typvärde ger bättre insikt i den typiska läxkostnaden, särskilt om medelvärdet påverkas av utliggande värden.
+#### Svårighetsgrad 3
 
-**Uppgift 2**  
-*Question:* Hur kan en grafisk representation av data (t.ex. ett histogram) hjälpa oss att bättre förstå datasetets egenskaper?  
-*Hints:* Tänk på hur visuell information kan göra saker lättare att förstå.  
-*Answer:* En grafisk representation, som ett histogram, kan hjälpa oss att snabbt se fördelningen av värden och identifiera möjligen dolda mönster, såsom frekvenser av olika intervall, samt om datan är symmetrisk, snedfördelad eller har en klusterpunkt.
+1. **Question:** Analysera data om klasskamraternas betyg i matematik, engelska och historia och presentera med hjälp av ett histogram vilken ämne har störst spridning i betyg.
+   - **Hints:** Jämför spridningen i betygen och se vilket ämne har fler betyg i olika intervall.
+   - **Answer:** Konstruera ett histogram för varje ämne och jämför spridningen av betyg. Det ämne där histogrammet visar den största bredden på intervallen är det med störst spridning i betyg.
 
-**Uppgift 3**  
-*Question:* I en klass om 30 elever samlas data om hur många böcker varje elev läser på ett år: 0, 1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 5, 6, 6, 7, 8, 10, 10, 12, 12, 12, 13, 14, 15, 15, 16, 18, 20, 21, 25. Vilka konsekvenser kan det få om man bara fokuserar på medelvärdet av dessa data när man diskuterar böcker som läses per elev?  
-*Hints:* Reflektera över hur olika typer av läsare kan finnas i klassen.  
-*Answer:* Om man enbart fokuserar på medelvärdet kan man förlora viktiga insikter om hur läsandet är fördelat. I det här datasetet finns elever som läser mycket fler böcker än andra, vilket kan dra upp medelvärdet, och missvisande på bästa sätt att förstå klassens läsmönster. Det kan vara bättre att också granska median och typvärde för att få en mer exakt bild av läsande vanor bland eleverna.
+2. **Question:** Föreställ dig att du har ett dataset med olika vars längd mellan olika sorters fiskar och du vill veta vilken längd som är vanligast. Hur kan typvärde användas här?
+   - **Hints:** Typvärde fungerar bäst när du har kategoridata eller hela nummer som frekvent upprepas.
+   - **Answer:** Identifiera det nummer (eller intervall) som förekommer flest gånger bland fiskarnas längder för att hitta typvärdet och använda det för att representera den vanligaste längden.
+
+3. **Question:** Du har testat olika studiemetoder och bedömt deras effektivitet med hjälp av poäng. Hur kan medianen hjälpa dig att förstå vilken studiemetod som oftast ger bäst resultat?
+   - **Hints:** Medianen ger dig det mittendatum där hälften av resultaten ligger över och hälften ligger under.
+   - **Answer:** Beräkna medianen för poängen för varje studiemetod. Den studiemetod med högsta medianvärde är den som oftast ger bättre resultat.
+
+Dessa uppgifter är utformade för att hjälpa elever att förstå och tillämpa statistik i praktiska sammanhang, och att analysera data med olika tekniker och metoder.

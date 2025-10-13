@@ -1,44 +1,57 @@
-# Sannolikhet och statistik
 ## Statistik
 
-Statistik är en viktig del av matematik och används för att samla in, analysera, presentera och tolka data. Genom att förstå statistik kan vi göra mer informerade beslut baserat på den information som finns tillgänglig. Statistik är särskilt användbart inom många områden som ekonomi, hälsa, samhällsvetenskap och naturvetenskap. 
+Statistik är den vetenskap som handlar om insamling, analys, tolkning, presentation och organisering av data. Det används för att göra beslut baserade på kvantitativa data och för att förstå mönster och samband inom olika områden, från ekonomi till naturvetenskap och samhällsvetenskap. Detta avsnitt kommer att fokusera på hur vi samlar in och presenterar data samt de grundläggande statistiska måtten medelvärde, median och typvärde.
 
 ### Samla in och presentera data
 
-Innan vi kan utföra statistiska analyser måste vi först samla in data. Datainsamling kan ske på olika sätt:
+Innan vi kan analysera data behöver vi samla in den på ett korrekt sätt. Datainsamling kan utföras på olika sätt, beroende på vilken typ av data som behövs. Vanliga metoder inkluderar:
 
-- **Enkäter**: Enkäter är ett av de mest använda sätten att samla in data. Genom att ställa frågor till en grupp människor kan vi få information om deras åsikter, vanor eller beteenden.
-  
-- **Observationer**: I vissa fall kan data samlas in genom observation. Detta kan inkludera att observera beteenden hos djur eller människor utan att störa dem.
+- **Enkäter och frågeformulär:** Dessa kan anpassas för att få specifik information från respondenterna och är effektiva för att samla in stora mängder data.
+- **Observationer:** Används ofta inom naturvetenskap och beteendevetenskap för att registrera händelser eller processer i deras naturliga miljö.
+- **Experiment:** Kontrollerade tester där variabler manipuleras för att observera effekten.
 
-- **Experiment**: Inom vetenskapen är det vanligt att genomföra experiment för att samla in data. Genom att manipulera variabler kan forskare se hur dessa förändringar påverkar resultatet.
+När data har blivit insamlad behöver den organiseras och presenteras på ett sätt som gör den lätt att förstå och använda. Några vanliga sätt att presentera data inkluderar:
 
-När datan har samlats in måste den presenteras på ett sätt som gör den lättare att förstå. Vanliga sätt att presentera data inkluderar:
+- **Tabeller:** Ger en strukturerad och överskådlig bild av numeriska data.
+- **Diagram:** Illustrationer som tillåter snabb och visuell jämförelse, exempelvis stapel-, linje- eller cirkeldiagram.
 
-- **Tabeller**: Tabeller är en strukturerad metod för att visa data i rader och kolumner.
-  
-- **Diagram och grafer**: Visuella representationer av data kan inkludera stapeldiagram, linjediagram och cirkeldiagram. Dessa hjälper till att snabbt få en överblick över informationen. 
+Här följer ett exempel på hur data kan presenteras:
 
-Här är ett exempel på en stapeldiagram som visar resultaten från en enkät om favoritfrukter:
+![Tabell över insamlad data](tabell-över-insamlad-data.png)
 
-![Stapeldiagram över fruktpreferenser](https://example.com/stapeldiagram_favoritfrukter)
+Tabeller är användbara för att visa specifika värden, medan diagram ofta ger en bättre överblick över trender och fördelningar. När du presenterar data, tänk på vad du vill belysa och välj det format som bäst framhäver dina viktigaste punkter.
 
 ### Medelvärde, median och typvärde
 
-När vi har samlat in och presenterat data är det viktigt att kunna sammanfatta och analysera informationen. Tre centrala begrepp inom statistik som används för att sammanfatta data är medelvärde, median och typvärde.
+När vi har organiserat vår data finns det flera olika statistiska mått som kan hjälpa oss att förstå den. De tre vanligaste måtten är medelvärde, median och typvärde.
 
-- **Medelvärde**: Medelvärdet beräknas genom att summera alla värden och sedan dividera med antalet värden. Till exempel, om vi har datan 4, 8, 6, 5, 3, så beräknas medelvärdet så här:
-  
-  \[
-  \text{Medelvärde} = \frac{4 + 8 + 6 + 5 + 3}{5} = \frac{26}{5} = 5.2
-  \]
+#### Medelvärde
 
-- **Median**: Medianen är det mittersta värdet i en sorterad datamängd. Om antalet värden är udda, är medianen det mellersta värdet. Om antalet värden är jämnt, tas medelvärdet av de två mittersta värdena. I vårt exempel, om vi sorterar datan (3, 4, 5, 6, 8), är medianen 5. Om vi har datan 3, 5, 7, 9 (jämnt antal), skulle medianen bli:
+**Medelvärde** (även känt som aritmetiskt medelvärde) beräknas genom att summera alla individuella värden och dela med antalet värden. Det är ett av de mest använda statistiska måtten, men det kan påverkas kraftigt av extremvärden (dvs. väldigt låga eller höga värden).
 
-  \[
-  \text{Median} = \frac{5 + 7}{2} = 6
-  \]
+##### Exempel:
+Anta att vi har följande datapunkter: 5, 7, 8, 12, 45.
+Medelvärdet beräknas som (5 + 7 + 8 + 12 + 45) / 5 = 77 / 5 = 15.4.
 
-- **Typvärde**: Typvärdet är det värde som förekommer flest gånger i en datamängd. I vårt exempel är typvärdet 4 i datan 4, 4, 6, 5, 3, eftersom det förekommer två gånger. Om vi har datan 1, 2, 3, 4, 4, 4, 5, så är typvärdet 4.
+![Medelvärde illustration](medelvärde-illustration.png)
 
-Att förstå och tillämpa dessa begrepp är centralt för att kunna göra meningsfulla analyser av insamlad data och för att dra korrekta slutsatser.
+#### Median
+
+**Median** är det mittersta värdet i en ordnad dataset. Medianen ger ofta en bättre representation av centrum när datan innehåller extrema värden.
+
+##### Exempel:
+Om vi ordnar vår tidigare dataset: 5, 7, 8, 12, 45.
+Medianen är 8, eftersom det är det tredje värdet i den sorterade listan.
+
+![Median illustration](median-illustration.png)
+
+#### Typvärde
+
+**Typvärde** (eller modus) är det tal som förekommer oftast i data. Typvärdet är särskilt användbart för kvalitativa data där medelvärde och median kanske inte är tillämpliga.
+
+##### Exempel:
+I datasetet: 5, 7, 7, 12, 45, är typvärdet 7, eftersom det förekommer flest gånger.
+
+![Typvärde illustration](typvärde-illustration.png)
+
+Genom att förstå och kunna beräkna dessa mått kan vi få en bättre och mer nyanserad bild av vår data, vilket hjälper oss att fatta mer informerade beslut och dra mer korrekta slutsatser. Statistik är ett kraftfullt verktyg för att tolka data och det är viktigt att ha grundläggande kunskaper i dessa begrepp för att förstå hur data kan användas effektivt.

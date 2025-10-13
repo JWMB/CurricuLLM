@@ -1,52 +1,68 @@
-# Kombinationsuppgifter
+# Svårighetsgrad 1
 
-## Svårighetsgrad 1
+## Uppgift 1
+**Question:** Du har tre typer av frukt: äpple, banan och apelsin. Hur många olika sätt kan du kombinera två frukter?
 
-### Uppgift 1
-* **Question:** Hur många olika sätt kan tre böcker arrangeras på en hylla?
-* **Hints:** Tänk på att varje bok kan hamna på en av tre platser. Räkna hur många val du har för varje bok.
-* **Answer:** 6 olika sätt (3! = 3 × 2 × 1).
+**Hints:** Tänk på varje par frukter som en unik kombination. Ordningen spelar ingen roll.
 
-### Uppgift 2
-* **Question:** Om du har 4 olika frukter (äpple, banan, apelsin, och päron), hur många olika sätt kan du välja 2 av dessa frukter?
-* **Hints:** Tänk på att ordningen inte spelar någon roll när du väljer frukter.
-* **Answer:** 6 olika sätt (C(4,2) = 4! / (2!(4-2)!) = 6).
+**Answer:** Det finns tre olika sätt att kombinera två frukter: äpple och banan, äpple och apelsin, banan och apelsin.
 
-### Uppgift 3
-* **Question:** Om du har 5 olika strumpor, hur många sätt kan du välja ut 1 strumpa?
-* **Hints:** Fundera på hur många alternativ du har.
-* **Answer:** 5 sätt.
+## Uppgift 2
+**Question:** Om du har tre olika färger av pennor: röd, blå och grön, hur många olika kombinationer kan du skapa med dessa pennor om du väljer två färger?
 
-## Svårighetsgrad 2
+**Hints:** Använd samma metod som med frukterna. Tänk på varje par som en separat kombination.
 
-### Uppgift 1
-* **Question:** Du ska välja ett lag på 5 spelare från en grupp av 10. Hur många olika lag kan du bilda?
-* **Hints:** Använd formeln för att beräkna kombinationer.
-* **Answer:** 252 olika lag (C(10,5) = 10! / (5!(10-5)!) = 252).
+**Answer:** Det finns tre olika sätt att kombinera två färger: röd och blå, röd och grön, blå och grön.
 
-### Uppgift 2
-* **Question:** Hur många olika sätt kan du välja 3 böcker från en hylla med 8 böcker, om böckerna inte kan upprepas?
-* **Hints:** Tänk på att du måste använda formeln för kombinationer.
-* **Answer:** 56 olika sätt (C(8,3) = 8! / (3!(8-3)!) = 56).
+## Uppgift 3
+**Question:** Du har fyra olika smaker av glass: choklad, vanilj, jordgubb och citron. Hur många olika sätt kan du kombinera två smaker?
 
-### Uppgift 3
-* **Question:** Du har 4 olika färger av pennor och vill måla ett mönster med 2 färger. Hur många olika kombinationer kan du skapa om ordningen inte spelar roll?
-* **Hints:** Tänk på kombinationer eftersom ordningen inte är viktig.
-* **Answer:** 6 olika kombinationer (C(4,2) = 6).
+**Hints:** Tänk på varje par smaker som en unik kombination. Ordningen spelar ingen roll.
 
-## Svårighetsgrad 3
+**Answer:** Det finns sex olika sätt att kombinera två smaker: choklad och vanilj, choklad och jordgubb, choklad och citron, vanilj och jordgubb, vanilj och citron, jordgubb och citron.
 
-### Uppgift 1
-* **Question:** I en klass med 12 elever ska 4 elever väljas till ett kommitté. Om rektorn också ska välja en elev att vara ordförande från de 4 valda, hur många olika sätt finns det att välja kommittén inklusive ordförande?
-* **Hints:** Dela upp problemet i två delar: först kombinationerna av kommitté och sedan valet av ordförande.
-* **Answer:** 11880 olika sätt (C(12,4) × 4 = 495 × 4 = 1980).
+# Svårighetsgrad 2
 
-### Uppgift 2
-* **Question:** Om du har 6 olika blommor och vill skapa en bukett med 3 blommor, hur många olika buketter kan du göra om två blommor är likadana och de andra fyra är olika?
-* **Hints:** Tänk på att behandla de likadana blommorna som en enhet och räkna sedan med de andra blommorna.
-* **Answer:** 20 olika buketter (C(5,2) × C(4,1) = 10 × 2 = 20).
+## Uppgift 1
+**Question:** Du har fem böcker med olika titlar. Hur många sätt kan du välja två böcker från dessa?
 
-### Uppgift 3
-* **Question:** En gång i tiden hade en tärning 6 sidor, och under en speciell händelse rullades den 4 gånger. Om ett visst nummer måste rullas minst en gång, hur många olika utfall finns det för dessa 4 rullningar?
-* **Hints:** Använd principen om komplement och räkna alla möjliga utfall minus de som inte innehåller det specifika numret.
-* **Answer:** 1295 möjliga utfall (Totala resultat = 6^4 = 1296; Resultat utan ett specifikt nummer = 5^4 = 625; 1296 - 625 = 671).
+**Hints:** Använd kombinationsformeln för att bestämma antal kombinationer, där n är antal böcker och k är antal böcker du vill välja.
+
+**Answer:** Det finns 10 olika sätt att kombinera två böcker. Använd kombinationsformeln C(n, k) där n = 5 och k = 2 → C(5, 2) = 10.
+
+## Uppgift 2
+**Question:** Du har fyra olika sporter att välja bland för en eftermiddag: fotboll, basket, tennis och simning. Hur många olika kombinationer av två sporter kan du välja?
+
+**Hints:** Tänk på varje sportkombination som en unik parbildning där ordningen inte spelar någon roll.
+
+**Answer:** Det finns sex olika sätt att kombinera två sporter: fotboll och basket, fotboll och tennis, fotboll och simning, basket och tennis, basket och simning, tennis och simning.
+
+## Uppgift 3
+**Question:** Du har sex olika kakor med olika smaker: choklad, vanilj, jordgubb, citron, nöt och kokos. Hur många sätt kan du kombinera tre smaker?
+
+**Hints:** Använd kombinationsformeln för att bestämma antalet kombinationer, där n är antal kakor och k är antal kakor du vill kombinera.
+
+**Answer:** Det finns 20 olika sätt att kombinera tre smaker. Använd kombinationsformeln C(n, k) där n = 6 och k = 3 → C(6, 3) = 20.
+
+# Svårighetsgrad 3
+
+## Uppgift 1
+**Question:** Du har sju olika t-shirtar och vill packa för en semester. Hur många olika sätt kan du kombinera fyra t-shirtar att ta med dig?
+
+**Hints:** Använd kombinationsformeln C(n, k) för att räkna ut antalet combinationer när du väljer k objekt från n olika alternativ.
+
+**Answer:** Det finns 35 olika sätt att kombinera fyra t-shirtar. Använd kombinationsformeln C(7, 4) = 35.
+
+## Uppgift 2
+**Question:** Du är värd för en middag och har tio olika rätter att välja bland. Hur många sätt kan du välja fem rätter att servera?
+
+**Hints:** Tänk på att ordningen inte spelar någon roll i kombinationer och använd kombinationsformeln för att hitta lösningen.
+
+**Answer:** Det finns 252 sätt att kombinera fem rätter från tio möjliga val. Använd kombinationsformeln C(10, 5) = 252.
+
+## Uppgift 3
+**Question:** En klass har 12 elever och ska bilda grupper om fyra. Hur många olika grupper kan bildas?
+
+**Hints:** Tänk på att varje grupp är en kombination av elever där ordningen inte spelar någon roll, och använd kombinationsformeln.
+
+**Answer:** Det finns 495 olika sätt att kombinera fyra elever från en grupp av 12. Använd kombinationsformeln C(12, 4) = 495.

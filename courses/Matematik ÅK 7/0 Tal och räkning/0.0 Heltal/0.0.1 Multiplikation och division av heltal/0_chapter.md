@@ -1,50 +1,51 @@
-### Multiplikation och division av heltal
+## Multiplikation och division av heltal
 
-Multiplikation och division är två grundläggande aritmetiska operationer som, tillsammans med addition och subtraktion, utgör basen för matematik. I detta avsnitt kommer vi att utforska hur multiplikation och division av heltal fungerar samt ge exempel och använda visuella hjälpmedel för att illustrera dessa koncept.
+Multiplikation och division är två grundläggande operationer inom aritmetiken som ofta används för att lösa olika typer av problem. Dessa operationer är avgörande för att förstå mönster, beräkningar och relationer mellan tal. I detta avsnitt kommer vi att utforska principerna bakom multiplikation och division av heltal, och vi kommer även att ge exempel för att illustrera dessa begrepp.
 
-#### Multiplikation av heltal
+### Multiplikation av heltal
 
-Multiplikation av heltal handlar om att addera ett heltal till sig själv ett visst antal gånger. Om vi till exempel har talet 3 och multiplicerar det med 4, innebär det att vi lägger till talet 3 fyra gånger:
+Multiplikation är en operation som innebär att addera ett tal ett specifikt antal gånger. Om vi exempelvis multiplicerar 3 med 4, betyder det att vi adderar talet 3 fyra gånger: 
 
 \[ 3 \times 4 = 3 + 3 + 3 + 3 = 12 \]
 
-Vi kan också uttrycka multiplikation som en visuell gruppning. Föreställ dig att du har 4 grupper med 3 äpplen i varje grupp:
+Multiplikation kan visualiseras som grupper av objekt. Tänk dig att du har 4 grupper, och varje grupp innehåller 3 äpplen. Multiplikationen \( 4 \times 3 \) representerar det totala antalet äpplen i alla grupper. Detta kan illustreras som:
 
-![Multiplikation av heltal](</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/0.0.1 Multiplikation och division av heltal/multiplikation_av_heltal.png>)
+![Bildlänk: äpplen_i_grupper.png](äpplen_i_grupper.png)
 
-I detta exempel representerar 4 grupper av 3 äpplen den matematiska operationen \(3 \times 4\), vilket ger oss totalt 12 äpplen.
+### Division av heltal
 
-##### Egenskaper av multiplikation
+Division är en operation som delar upp ett tal i lika stora delar. När vi delar talet 12 med 3, innebär det att vi vill ta reda på hur många gånger 3 går in i 12. Användning av division kan ses som att distribuera ett antal objekt lika mellan flera grupper. Exempel:
 
-1. **Kommutativitet:** Ordningen spelar ingen roll. Det betyder att \( a \times b = b \times a \). 
-   Exempel: \( 2 \times 5 = 10 \) och \( 5 \times 2 = 10 \).
+\[ 12 \div 3 = 4 \]
+
+Detta betyder att om du har 12 äpplen och vill dela dem i grupper om 3, så kan du bilda 4 sådana grupper. Division kan också uttryckas som att söka efter "hur många av" eller "vad är kvar efter" efter att ha delat upp saker.
+
+### Samband mellan multiplikation och division
+
+Multiplikation och division är omvända operationer. Det betyder att om du multiplicerar två tal och får ett resultat, kan du använda division för att återgå till ett av dina ursprungliga tal. Till exempel, om du vet att \( 4 \times 3 = 12 \), kan du hitta tillbaka till \( 4 \) genom division: 
+
+\[ 12 \div 3 = 4 \]
+
+Att förstå att dessa operationer är inversa hjälper till att lösa problem och verifiera beräkningar.
+
+### Exempel och tillämpning
+
+1. **Multiplikationsexempel**: Om du har fyra paket med tre pennor i varje paket, hur många pennor har du totalt?
    
-2. **Associativitet:** När man multiplicerar flera tal kan man gruppera dem på olika sätt. 
-   Exempel: \( (2 \times 3) \times 4 = 6 \times 4 = 24 \) och \( 2 \times (3 \times 4) = 2 \times 12 = 24 \).
+   Lösning: Multiplicera antalet paket med antalet pennor per paket: 
+   
+   \[ 4 \times 3 = 12 \]
 
-3. **Distributivitet:** Multiplikation över addition. Det innebär att \( a \times (b + c) = (a \times b) + (a \times c) \).
-   Exempel: \( 2 \times (3 + 4) = 2 \times 7 = 14 \) och \( (2 \times 3) + (2 \times 4) = 6 + 8 = 14 \).
+   Du har totalt 12 pennor. 
 
-#### Division av heltal
+2. **Divisionsexempel**: Du har 20 godisbitar och vill dela dem lika bland 5 barn. Hur många godisbitar får varje barn?
+   
+   Lösning: Dividera antalet godisbitar med antalet barn:
+   
+   \[ 20 \div 5 = 4 \]
 
-Division av heltal är i grunden motsatsen till multiplikation. Det handlar om att dela ett heltal i ett visst antal lika delar. Till exempel, om vi har 12 äpplen och vill dela dem mellan 4 personer, frågar vi hur många äpplen varje person får:
+   Varje barn får 4 godisbitar.
 
-\[ 12 \div 4 = 3 \]
+### Slutsats
 
-Detta innebär att varje person får 3 äpplen. Vi kan illustrera detta med en bild som visar hur 12 äpplen delas upp i 4 grupper:
-
-![Division av heltal](</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/0.0.1 Multiplikation och division av heltal/division_av_heltal.png>)
-
-##### Egenskaper av division
-
-1. **Ingen kommutativitet:** Division är inte kommutativ, vilket innebär att \( a \div b \) inte nödvändigtvis är lika med \( b \div a \).
-   Exempel: \( 10 \div 2 = 5 \) men \( 2 \div 10 = 0.2 \).
-
-2. **Ingen associativitet:** Division är inte associerande, så \( (a \div b) \div c \) kan ge ett annat resultat än \( a \div (b \div c) \).
-   Exempel: \( (8 \div 4) \div 2 = 2 \div 2 = 1 \), medan \( 8 \div (4 \div 2) = 8 \div 2 = 4 \).
-
-3. **Distributivitet:** Division är inte distributiv över addition eller subtraktion: \( a \div (b + c) \neq (a \div b) + (a \div c) \).
-
-#### Sammanfattning
-
-Multiplikation och division av heltal är centrala operationer inom matematik som hjälper själ och förstå relationen mellan tal. Genom att förstå dessa koncept och de egenskaper som rör dem kan vi bygga en stark grund för mer avancerade matematiska områden. Genom exempel och visualiseringar har vi kunnat se hur dessa operationer återspeglar praktiska scenarier som vi möter i vardagen.
+Multiplikation och division av heltal är grundläggande operationer som används dagligen i matematik och vardagliga situationer. Genom att förstå dessa koncept kan vi bättre lösa problem och hitta effektiva lösningar. Dessa koncept är också centrala när vi går vidare till mer avancerad algebra och matematik.

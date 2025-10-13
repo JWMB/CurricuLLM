@@ -1,75 +1,63 @@
-### Lösning av linjära ekvationer
+## Lösning av linjära ekvationer
 
-Linjära ekvationer är ekvationer av första graden där variablerna (ofta betecknade som x och y) inte är upphöjda till någon exponent högre än ett. Den allmänna formen av en linjär ekvation i en variabel är:
+Linjära ekvationer är en grundläggande del av algebra och representerar en av de enklaste typerna av ekvationer att lösa. De uttrycker en rät linje när de plottas på ett koordinatsystem och kan ofta beskrivas i formen:  
+\[ ax + b = c \]  
+där \( a \), \( b \), och \( c \) är givna konstanter, och \( x \) är den oidentifierade variabeln som vi vill lösa för. Att lösa en linjär ekvation innebär att finna det värde på \( x \) som gör ekvationen sann.
 
-\[ ax + b = 0 \]
+### Förståelse och grundläggande principer
 
-Där \(a\) och \(b\) är reella tal och \(a \neq 0\). Linjära ekvationer kan också ges i form av två variabler, vilket oftast skrivs som:
+#### Vad är en linjär ekvation?
+En linjär ekvation är en algebraisk ekvation där varje term är antingen en konstant eller produkten av en konstant och en variabel. Linjära ekvationer har inga kvadratiska, kubiska eller högre ordningens variabler. Denna enkelhet gör linjära ekvationer till en bra utgångspunkt för att lära sig problemlösning inom algebra.
 
-\[ ax + by + c = 0 \]
+### Steg-för-steg lösning av linjära ekvationer
 
-Där \(a\), \(b\) och \(c\) är reella tal och \(a\) och \(b\) inte båda är noll. I detta avsnitt går vi igenom hur man löser sådana ekvationer steg för steg.
+1. **Förenkla båda sidor av ekvationen**  
+   Detta kan inkludera att eliminera parenteser, kombinera lika termer och förenkla numeriska uttryck. Målet är att göra ekvationen mer hanterbar.  
+   _Exempel:_  
+   \[ 3(x + 2) = 5x - 4 \]  
+   Till att börja med, eliminera parenteserna:  
+   \[ 3x + 6 = 5x - 4 \]
 
-#### Steg för att lösa linjära ekvationer med en variabel
+2. **Flytta alla termer med variabeln till en sida av ekvationen**  
+   För att separera \( x \), flytta alla termer innehållande variabeln till en sida av ekvationen och konstanterna till den andra. Subtrahera \( 5x \) från båda sidor:  
+   \[ 3x + 6 - 5x = -4 \]  
+   Detta förenklar till:  
+   \[ -2x + 6 = -4 \]
 
-Låt oss ta ett exempel på en linjär ekvation med en variabel:
+3. **Isolera variabeln**  
+   Lös för \( x \) genom att isolera det på en sida. Subtrahera 6 från båda sidor för att bli av med konstanta termer:  
+   \[ -2x = -10 \]  
+   Slutligen, dividera båda sidor med -2 för att få värdet på \( x \):  
+   \[ x = 5 \]
 
-\[ 3x + 6 = 12 \]
+### Exempelproblem
 
-Steg 1: **Isolera variabeln**  
-För att lösa ekvationen behöver vi isolera variabeln \(x\). Detta gör vi genom att först flytta konstanten till höger sida av ekvationen. Vi subtraherar 6 från båda sidor:
+Givet ekvationen:  
+\[ 7x - 3 = 4x + 11 \]
 
-\[ 3x + 6 - 6 = 12 - 6 \]
+**Steg-för-steg lösning:**
 
-Detta förenklas till:
+1. Flytta alla \( x \)-termer till en sida:
+   \[ 7x - 4x = 11 + 3 \]
+   Förenkla till:
+   \[ 3x = 14 \]
 
-\[ 3x = 6 \]
+2. Isolera \( x \) genom att dividera med 3:
+   \[ x = \frac{14}{3} \]
+   Så \( x \approx 4.67 \)
 
-Steg 2: **Dela med koefficienten**  
-Nu behöver vi dela båda sidor av ekvationen med koefficienten till \(x\), vilket i detta fall är 3:
+![Bild: Exempel på linjär ekvation](exempel_pa_linjär_ekvation.png)
 
-\[ \frac{3x}{3} = \frac{6}{3} \]
+### Illustration av linjär ekvation
 
-Detta ger oss:
+Det kan vara hjälpsamt att visualisera hur linjära ekvationer beter sig genom att plotta dem på ett koordinatsystem. Denna typ av ekvation ger en rät linje, där lutningen och interceptet påverkar linjens riktning och position. 
 
-\[ x = 2 \]
+![Bild: Linjär ekvation på koordinatsystem](linjar_ekvation_koordinatsystem.png)
 
-Vi har nu löst ekvationen, och svaret är \(x = 2\).
+### Vanliga misstag att undvika
 
-![Illustration av linjär ekvation lösning](linjar-ekvation-losning.png)
+- **Glömma att utföra samma operation på båda sidor av ekvationen**: När du lägger till, subtraherar, multiplicerar eller dividerar, måste detta ske på båda sidor för att bevara balansen och ekvationen korrekt.
+  
+- **Felaktig hantering av negativa tecken**: Negativtecken kan ofta leda till räknefel, speciellt vid flyttning av termer samt vid division.
 
-#### Steg för att lösa linjära ekvationer med två variabler
-
-När vi arbetar med ekvationer som involverar två variabler, till exempel:
-
-\[ 2x + 3y = 6 \]
-
-kan vi lösa för \(y\) i termer av \(x\) eller vice versa. Låt oss isolera \(y\).
-
-Steg 1: **Isolera y**  
-För att göra detta börjar vi med att subtrahera \(2x\) från båda sidor:
-
-\[ 3y = 6 - 2x \]
-
-Steg 2: **Dela med koefficienten**  
-Nu, för att isolera \(y\), delar vi med 3:
-
-\[ y = \frac{6 - 2x}{3} \]
-
-Detta kan också skrivas som:
-
-\[ y = 2 - \frac{2}{3}x \]
-
-Denna ekvation representerar en linje i ett koordinatsystem där \(y\) är uttryckt som en funktion av \(x\).
-
-#### Grafisk representation
-
-Att skissa grafen av en linjär ekvation är en effektiv teknik för att visuellt förstå lösningarna. Linjen för ekvationen \(y = 2 - \frac{2}{3}x\) korsar y-axeln vid \(2\) och har en lutning av \(-\frac{2}{3}\).
-
-![Graf av linjär ekvation](graf-linjar-ekvation.png)
-
-Denna graf visar hur förändringar i \(x\) påverkar \(y\), vilket ger oss en visuell förståelse för lösningar till den linjära ekvationen. 
-
-#### Sammanfattning
-
-Lösning av linjära ekvationer är en grundläggande komponent inom algebra och används ofta i många matematiska och praktiska tillämpningar. Genom att följa systematiska steg kan vi enkelt isolera variabler och lösa ekvationerna, antingen med en eller två variabler. Övning och förståelse för dessa tekniker är avgörande för att utveckla starka matematiska färdigheter.
+Att behärska lösningen av linjära ekvationer är ett viktigt steg i att utveckla algebraiska färdigheter och ger grundläggande insikter för att kunna ta sig an mer komplexa matematiska problem.

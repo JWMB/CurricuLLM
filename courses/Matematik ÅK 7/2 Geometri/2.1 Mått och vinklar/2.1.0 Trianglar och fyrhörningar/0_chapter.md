@@ -1,42 +1,62 @@
-### Trianglar och fyrhörningar
+## Trianglar och fyrhörningar
 
-I detta avsnitt ska vi utforska trianglar och fyrhörningar, två grundläggande typer av geometriska figurer. Dessa former har många egenskaper som är centrala inom geometri och används ofta i både matematiska problem och i praktiska tillämpningar. Vi kommer att titta på definitioner, klassificeringar och egenskaper för dessa figurer.
+Trianglar och fyrhörningar är grundläggande figurer inom geometrin, och deras egenskaper och formler är centrala för förståelsen av mer avancerade geometriska koncept. I detta avsnitt kommer vi att utforska olika typer av trianglar och fyrhörningar, deras egenskaper, samt hur man beräknar deras area och omkrets.
 
-#### Trianglar
+### Trianglar
 
-En triangel är en månghörning som består av tre hörn (eller vinklar) och tre sidor. Trianglar kan klassificeras baserat på deras sidor och vinklar.
+En triangel är en geometrisk figur med tre sidor och tre hörn. Det finns olika typer av trianglar beroende på längden på deras sidor och måtten på deras vinklar. De tre huvudtyperna av trianglar är:
 
-1. **Klassificering efter sidor:**
-   - **Likablanka trianglar:** Alla tre sidor är lika långa. Exempel på en likablank triangel kan ses nedan.
-   ![Likablank triangel](likablank_triangel.png)
-   - **Isosceles trianglar:** Två sidor är lika långa, och de två vinklarna mittemot de lika sidorna är också lika.
-   - **Oskild triangel:** Alla tre sidor har olika längder.
+1. **Likbent triangel**  
+   En likbent triangel har två sidor som är lika långa, och de vinklar som är motstående dessa sidor är också lika. En speciell typ av likbent triangel är den **rätvinkliga likbenta triangeln**, där två vinklar mäter 45° och den tredje 90°.
 
-2. **Klassificering efter vinklar:**
-   - **Rätvinklig triangel:** En av vinklarna är 90 grader.
-   - **Spetsvinklig triangel:** Alla vinklar är mindre än 90 grader.
-   - **Trubbvinklig triangel:** En av vinklarna är större än 90 grader.
+   ![likbent_triangel.svg](likbent_triangel.svg)
 
-**Exempel**: En rätvinklig triangel, med sidorna 3 cm, 4 cm och 5 cm, är en klassisk triangel. Tillämpningen av Pythagoras sats för att bekräfta att den är rätvinklig kan göras så här: \(3^2 + 4^2 = 5^2\) (9 + 16 = 25), vilket är korrekt.
+2. **Rätvinklig triangel**  
+   En triangel där en av vinklarna är exakt 90°. Den sida som är motstående den rätvinkliga vinkeln kallas hypotenusan, och de två återstående sidorna är kateter. Pythagoras sats är ett viktigt verktyg för att beräkna sidlängder i rätvinkliga trianglar:  
+   \[ a^2 + b^2 = c^2 \]  
+   där \(a\) och \(b\) är kateterna och \(c\) är hypotenusan.
 
-#### Fyrhörningar
+   ![ratvinklig_triangel.svg](ratvinklig_triangel.svg)
 
-Fyrhörningar, eller quadrilateraler, består av fyra sidor och fyra hörn. Precis som trianglar kan fyrhörningar klassificeras i olika typer baserat på sidor och vinklar.
+3. **Olika-sidig triangel (oregelbunden triangel)**  
+   En triangel som har sidor med olika längder och vinklar med olika mått. Trots sin oregelbundenhet kan arean beräknas med hjälp av Herons formel:  
+   \[ \text{Area} = \sqrt{s(s-a)(s-b)(s-c)} \]  
+   där \(s\) är halva omkretsen \((a+b+c)/2\) och \(a, b,\) och \(c\) är sidlängderna.
 
-1. **Typer av fyrhörningar:**
-   - **Rektangel:** Har fyra räta vinklar. Motstående sidor är parallella och lika långa.
-   - **Kvadrat:** En speciell typ av rektangel där alla sidor är lika långa och har även fyra räta vinklar.
-   - **Parallellogram:** Motstående sidor är parallella och lika långa, men vinklarna behöver inte vara räta.
-   - **Trapets:** En fyrhörning där minst ett par motstående sidor är parallella.
-   - **Romb:** En fyrhörning där alla sidor är lika långa, men vinklarna behöver inte vara räta.
+   ![oregelbunden_triangel.svg](oregelbunden_triangel.svg)
 
-**Exempel**: En rektangel med sidorna 5 cm och 10 cm kan illustreras som nedan. Area kan beräknas som längden multiplicerad med bredden, det vill säga 5 cm * 10 cm = 50 cm².
-![Rektangel](rektangel.png)
+### Fyrhörningar
 
-#### Egenskaper
+Fyrhörningar är geometriska figurer med fyra sidor och fyra hörn. Gemensamt för alla fyrhörningar är att summan av deras inre vinklar alltid är 360°. Några av de vanligaste typerna av fyrhörningar är:
 
-Både trianglar och fyrhörningar har specifika egenskaper som gör dem intressanta inom geometri. För trianglar gäller att summan av vinklarna alltid är 180 grader. För fyrhörningar är summan av vinklarna alltid 360 grader.
+1. **Kvadrat**  
+   En kvadrat har fyra lika långa sidor och fyra räta vinklar (90°). Både dess omkrets och area är enkelt beräknade:  
+   \[ \text{Omkrets} = 4a \]  
+   \[ \text{Area} = a^2 \]  
+   där \(a\) är sidlängden.
 
-Att förstå trianglar och fyrhörningar är grundläggande för vidare studier inom geometri och matematik, och dessa figurer har även praktiska tillämpningar i arkitektur, ingenjörsvetenskap och konst.
+   ![kvadrat.svg](kvadrat.svg)
 
-I nästa avsnitt kommer vi att dyka djupare i cirkelns egenskaper, vilket är en annan viktig del av geometrin.
+2. **Rektangel**  
+   En rektangel har två par motstående sidor som är lika långa och fyra räta vinklar. Formlerna för omkrets och area är:  
+   \[ \text{Omkrets} = 2(l + w) \]  
+   \[ \text{Area} = lw \]  
+   där \(l\) är längden och \(w\) är bredden.
+
+   ![rektangel.svg](rektangel.svg)
+
+3. **Parallellogram**  
+   Ett parallellogram har två par motstående sidor som är parallella och lika långa. Vinklarna i ett parallellogram är inte alltid 90°, vilket gör att arean beräknas baserat på bas och höjd:  
+   \[ \text{Area} = b \times h \]  
+   där \(b\) är basen och \(h\) är höjden.
+
+   ![parallellogram.svg](parallellogram.svg)
+
+4. **Trapets**  
+   En trapets har ett par motstående sidor som är parallella. Arean av en trapets beräknas efter följande formel:  
+   \[ \text{Area} = \frac{(a+b) \times h}{2} \]  
+   där \(a\) och \(b\) är de parallella sidornas längder, och \(h\) är trapetsens höjd.
+
+   ![trapets.svg](trapets.svg)
+
+Genom att förstå dessa grundläggande figurer och deras egenskaper kan vi tillämpa denna kunskap för att lösa mer komplexa geometriska problem, samt i praktiska sammanhang som arkitektur och design.

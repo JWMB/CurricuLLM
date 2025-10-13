@@ -1,50 +1,55 @@
-# Vinklar
+## Geometri: Vinklar
 
-Vinklar är en central del inom geometrin, och de definieras som den plats där två linjer eller linjesegment möts. Inom matematik och fysik är förståelsen av vinklar viktig för att förstå former, rörelser och mycket mer. Detta avsnitt kommer att undersöka olika typer av vinklar, deras mått och hur man beräknar dem.
+### Introduktion till Vinklar
 
-## Definition och mått av vinklar
+Vinklar är en grundläggande koncept inom geometri som beskriver förhållandet mellan två linjer som möts i en punkt. De utgör grunden för många geometriska konstruktioner och beräkningar. I detta avsnitt kommer vi att gå igenom vad vinklar är, hur de mäts, och olika typer av vinklar. 
 
-En vinkel mäts i grader (°) eller radianer (rad). Här är några grundläggande mått:
+Vinklar visualiseras ofta som en del av en cirkel, där vinkeln representeras av den centrala öppningen skapad av två strålar (linjer) som möts vid en gemensam punkt, kallad vertex. 
 
-- **Rät vinkel**: En vinkel som mäter exakt 90°.
-- **Trubbig vinkel**: En vinkel som mäter mer än 90° men mindre än 180°.
-- **Spetsig vinkel**: En vinkel som mäter mindre än 90°.
-- **Rak vinkel**: En vinkel som mäter exakt 180°.
+![bildlänk](bild_av_vinklar.md)
 
-För att ge en visuell representation av dessa olika vinklar kan följande bild användas:
+### Definition av en vinkel
 
-![Vinklar](https://example.com/vinklar_typ_illustration.png)
+En vinkel bildas när två strålar träffas vid en punkt, kallad vertex. Strålarna kallas vinkelns ben. Största delen av den geometriska analysen av vinklar handlar om deras storlek, vilken vanligen mäts i grader.
 
-## Vinklar i relation till varandra
+### Mätning av vinklar
 
-Vinklar kan också relateras till varandra på olika sätt:
+Vinklar mäts i grader, med ett helt varv motsvarande 360 grader. För att mäta vinkeln exakt, används en gradskiva. Ett vanligt sätt att introducera gradskivan är att mäta vinklar i en triangel, vilket hjälper till att visualisera konceptet och dess praktiska tillämpning.
 
-- **Komplementvinklar**: Två vinklar som tillsammans bildar en rät vinkel (90°). Om den ena vinkeln är 30°, är den komplementära vinkeln 60°.
-  
-- **Supplementvinklar**: Två vinklar som tillsammans bildar en rak vinkel (180°). Om den ena vinkeln är 110°, är den supplementära vinkeln 70°.
+### Bildlänk
 
-- **Motstående vinklar**: Dessa är vinklar som bildas när två linjer korsar varandra. De är lika stora (till exempel när linjer A och B korsar varandra och vinklarna är 120° respektive 120°).
+![gradskiva](gradskiva.md)
 
-För att illustrera förhållandet mellan vinklar kan en diagram över komplement- och supplementvinklar vara till hjälp:
+### Typer av vinklar
 
-![Komplement och supplementvinklar](https://example.com/komplement_supplement_vinklar_illustration.png)
+Det finns flera olika typer av vinklar, som klassificeras beroende på deras storlek:
 
-## Vinklar i trianglar
+1. **Rät vinkel**: En vinkel lika med 90 grader. Den är vanligt förekommande i konstruktion av byggnader och möbler.
 
-Inom trianglar kan vinklar delas in i tre kategorier: spetsiga, trubbiga och räta. En viktig egenskap i trianglar är att summan av vinklarna alltid är 180°.
+2. **Spetsig vinkel**: En vinkel mindre än 90 grader. Exempel på användning är vid design av möbler eller större konstruktioner där estetiken prioriteras.
 
-Till exempel, i en triangel med vinklarna 50°, 60° och 70° gäller:
-\[ 
-50° + 60° + 70° = 180° 
-\]
+3. **Trubbig vinkel**: En vinkel mer än 90 grader men mindre än 180 grader. Den är vanlig i olika typer av arkitektoniska mönster.
 
-Denna egenskap kan tillämpas för att lösa uppgifter där en eller flera vinklar är okända. Om vi vet två vinklar i en triangel, kan vi enkelt beräkna den tredje vinkeln genom att subtrahera summan av de kända vinklarna från 180°.
+4. **Rak vinkel**: En vinkel som är exakt 180 grader, som representerar en rak linje.
 
-Exempel: I en triangel där en vinkel är 45° och en annan 55°, kan den tredje vinkeln beräknas enligt följande:
-\[ 
-180° - (45° + 55°) = 80° 
-\]
+5. **Reflex vinkel**: En vinkel mer än 180 grader men mindre än 360 grader. Ett typiskt exempel där denna används är i datorgrafik för att visa olika objekt.
 
-## Sammanfattning
+![bildlänk](typer_av_vinklar.md)
 
-Att förstå vinklar är avgörande för att förstå mer komplexa geometriska begrepp och problem. Genom att känna till typerna av vinklar, deras mått och hur de relaterar till varandra kan man bättre navigera i geometri och tillämpa dessa kunskaper i praktiska situationer. Oavsett om det handlar om att lösa problem i matematik eller att förstå konstruktioner i den verkliga världen, är vinklar en grundläggande komponent.
+### Exempel på beräkning av vinklar
+
+Anta att vi har en triangel med vinklarna A, B, och C. Om vi vet att vinkel A är 50 grader och vinkel B är 70 grader, kan vi beräkna vinkel C. Eftersom summan av vinklarna i alla trianglar är 180 grader skulle beräkningen se ut så här:
+
+C = 180 - (A + B) = 180 - (50 + 70) = 60 grader. 
+
+### Användningsområden för vinklar
+
+Vinklar används i många vardagliga situationer, från att designa byggnader och arkitektur till att skapa datorgrafik och videospel. De spelar också en central roll i navigation och kartläggning.
+
+Genom att förstå vinklar kan vi utföra korrekta mätningar och göra de beräkningar som krävs för att bygga och designa strukturer eller objekt med precision. 
+
+### Bildlänk
+
+![Konstruktionsvinklar](konstruktionsvinklar.md)
+
+Detta avsnitt har täckt grunderna för att förstå och tillämpa vinklar inom geometriska sammanhang, vilket utgör en viktig del av geometri och matematik generellt. Vidare in i kapitlet kommer vi att utforska specifika tillämpningar och beräkningar där vinklar är avgörande.

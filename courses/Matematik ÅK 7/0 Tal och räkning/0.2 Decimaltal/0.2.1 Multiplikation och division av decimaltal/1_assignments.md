@@ -1,56 +1,90 @@
-# Tal och räkning
-### Addition och subtraktion av decimaltal
-### ----> Multiplikation och division av decimaltal
+## Multiplikation och division av decimaltal: Svårighetsgrad 1
 
-#### Svårighetsgrad 1
+### Övning 1
+**Question:** Multiplicera 3,5 med 2. Vad får du som resultat?
 
-**Uppgift 1**  
-*Question:* Vad är produkten av 2,5 och 4?  
-*Hints:* Tänk på hur du multipliserar hela tal och hur decimaltalen påverkar resultatet.  
-*Answer:* 10.
+**Hints:** 
+- Tänk på att multiplicera som du skulle med heltal.
+- Fundera på hur många decimaler svaret bör ha.
 
-**Uppgift 2**  
-*Question:* Dela 9,6 med 3. Vad får du som resultat?  
-*Hints:* Kom ihåg att division kan ses som att fördela något i lika stora delar.  
-*Answer:* 3,2.
+**Answer:** 7,0
 
-**Uppgift 3**  
-*Question:* Multiplicera 0,6 med 10. Vad blir svaret?  
-*Hints:* Tänk på hur många decimaler det första talet har och vad som händer när du multiplicerar med 10.  
-*Answer:* 6.
+### Övning 2
+**Question:** Dividera 9,6 med 3. Vad blir svaret?
 
+**Hints:** 
+- Se det som att delningen handlar om att hitta hur många gånger 3 går in i 9,6.
+- Använd lång division om det hjälper.
 
-#### Svårighetsgrad 2
+**Answer:** 3,2
 
-**Uppgift 1**  
-*Question:* Beräkna resultatet av 1,5 gånger 2,3.  
-*Hints:* Multiplicera först som om det vore hela tal och hantera decimalerna efteråt.  
-*Answer:* 3,45.
+### Övning 3
+**Question:** Multiplicera 0,6 med 4. Vad får du för produkt?
 
-**Uppgift 2**  
-*Question:* Om du har 4,5 och delar det med 1,5, vad får du?  
-*Hints:* Tänk på att kunna förenkla problemet genom att omvandla decimaltalen till bråkform för enklare division.  
-*Answer:* 3.
+**Hints:** 
+- Tänk på hur multiplikation med tal mindre än 1 påverkar produkten.
+- Kontrollera att du hanterar decimalen korrekt.
 
-**Uppgift 3**  
-*Question:* Vad blir resultatet av 12,6 multiplicerat med 0,4?  
-*Hints:* Tänk på att multiplikation av decimaltal innebär att du tar en del av ett helt tal.  
-*Answer:* 5,04.
+**Answer:** 2,4
 
+---
 
-#### Svårighetsgrad 3
+## Multiplikation och division av decimaltal: Svårighetsgrad 2
 
-**Uppgift 1**  
-*Question:* Om du har 7,25 och multiplicerar det med 0,8, vad är skillnaden mellan resultatet och 6?  
-*Hints:* Gör multiplikationen först och subtrahera sedan 6 från svaret.  
-*Answer:* 0,8.
+### Övning 1
+**Question:** Vilket av följande uttryck ger ett resultat nära 2 när utfört? 5,12 ÷ 2,56 eller 10,3 ÷ 5,15?
 
-**Uppgift 2**  
-*Question:* En flaska innehåller 2,75 liter juice. Om du har 3 sådana flaskor, hur mycket juice har du totalt om du skiljer 4,5 liter från den mängden för att göra plats i kylskåpet?  
-*Hints:* Räkna först ut den totala mängden juice och subtrahera sedan 4,5 liter.  
-*Answer:* 4,75 liter.
+**Hints:** 
+- Jämför varje uttryck genom att dela talen och approximera.
+- Fundera på vilket uttryck som verkar enklast att utföra först.
 
-**Uppgift 3**  
-*Question:* Du köper 3,5 meter tyg och varje meter kostar 12,99 kr. Om du betalar med en 50-lapp, hur mycket växel får du?  
-*Hints:* Multiplicera först mängden tyg med kostnaden per meter och dra sedan det totala kostnadsbeloppet från 50 kronor.  
-*Answer:* 10,03 kr.
+**Answer:** 5,12 ÷ 2,56 (ger exakt 2)
+
+### Övning 2
+**Question:** Om du multiplicerar ett decimaltal med 0,5, hur påverkas värdet av talet?
+
+**Hints:** 
+- Tänk på vad det innebär att multiplicera med en halv.
+- Hur är relationen mellan produkten och det ursprungliga talet?
+
+**Answer:** Produkten blir hälften av det ursprungliga talet.
+
+### Övning 3
+**Question:** Ett tal delas med 0,25 och resultatet blir 8. Vad var det ursprungliga talet?
+
+**Hints:** 
+- Fundera på sambandet mellan division och multiplikation.
+- Överväg att multiplicera 8 med 0,25 för att hitta det ursprungliga talet.
+
+**Answer:** 2
+
+---
+
+## Multiplikation och division av decimaltal: Svårighetsgrad 3
+
+### Övning 1
+**Question:** Förklara hur du kan använda multiplikation för att kontrollera ditt svar när du delar 15,75 med 0,75.
+
+**Hints:** 
+- När du har fått ett kvot, multiplicera den med nämnaren.
+- Om produkten är lika med täljaren, är ditt svar korrekt.
+
+**Answer:** Dela 15,75 med 0,75 ger 21. Multiplicera 21 med 0,75 och du får 15,75, vilket bekräftar att divisionen var korrekt.
+
+### Övning 2
+**Question:** Hur kan du omvandla division med ett decimaltal till multiplikation med ett heltal? Praktisera på att omvandla 7,5 ÷ 0,5.
+
+**Hints:** 
+- Multiplicera både täljaren och nämnaren med samma 10-potens för att eliminera decimaler.
+- Använd resultatet för att utföra enklare beräkningar.
+
+**Answer:** Multiplicera både 7,5 och 0,5 med 10, vilket ger 75 ÷ 5, vilket är 15. Detta är samma som att multiplicera 7,5 med 2.
+
+### Övning 3
+**Question:** En kvadrat har en sida med längden 4,5. Om du multiplicerar sidans längd med sig själv, vad representerar resultatet?
+
+**Hints:** 
+- Börja med att tänka på vad det innebär att multiplicera sidlängden två gånger.
+- Tänk på den geometriska betydelsen av den resulterande produkten.
+
+**Answer:** Resultatet är arean av kvadraten, som blir 20,25.

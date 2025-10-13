@@ -1,57 +1,51 @@
-# Kombinationer
+## Kombinationer
 
-Kombinationer är en viktig koncept inom sannolikheten och statistiken, som handlar om att räkna arrangemang av objekt där ordningen inte spelar någon roll. Detta skiljer sig från permutationer, där arrangemangens ordning är betydelsefull. Denna avsnitt kommer att utforska definitionen av kombinationer, hur man räknar dem, samt ge exempel för att illustrera konceptet.
+Kombinationer är ett grundläggande koncept inom sannolikhet och statistik som hjälper oss att förstå hur man väljer ett visst antal objekt från en större mängd, utan att bry sig om ordningen. Det är viktigt att skilja mellan permutationer och kombinationer: medan permutationer beaktar ordningsföljden, gör kombinationer det inte.
 
-## Definition av Kombinationer
-En kombination är en delmängd av ett större antal objekt där ordningen inte spelar någon roll. Till exempel, när vi har en grupp på tre frukter: äpple, banan och kiwi, ser vi på olika möjliga urval av frukterna.
+### Förklaring av kombinationer
 
-Om vi dock väljer två frukter, skulle paren "äpple och banan" och "banan och äpple" betraktas som samma val eftersom ordningen inte spelar någon roll.
+En kombination är en samling av objekt där ordningen inte spelar någon roll. För att beräkna antalet möjliga kombinationer av ett givet antal objekt i en större mängd används kombinationsformeln:
 
-Matematiskt kan antal kombinationer beräknas med följande formel:
+\[ C(n, k) = \frac{n!}{k!(n-k)!} \]
 
-\[
-C(n, r) = \frac{n!}{r! \cdot (n - r)!}
-\]
+Där \( n \) är det totala antalet objekt att välja från, \( k \) är antalet objekt du vill välja, och \( ! \) representerar fakultet, vilket är produkten av alla positiva heltal upp till det numret.
 
-Där:
-- \(C(n, r)\) är antal kombinationer av \(n\) objekt där \(r\) objekt väljs.
-- \(n!\) är fakulteten av \(n\) (produkten av alla positiva heltal upp till \(n\)).
-- \(r!\) är fakulteten av \(r\).
+### Exempel på kombinationer
 
-## Exempel på Kombinationer
-### Exempel 1: Välj ut frukter
-Anta att vi har fyra frukter: äpple, banan, kiwi, och apelsin. Vi vill välja två frukter från dessa. Vi kan använda formeln för att räkna antalet kombinationer:
+**Exempel 1:**
 
-Här är \(n = 4\) (de fyra frukterna) och \(r = 2\) (de frukter vi väljer).
+Antag att du har ett fruktfat med 5 olika frukter: äpple, apelsin, banan, kiwi och vindruvor. Du vill välja 3 frukter från detta fat. Hur många olika sätt kan du göra detta?
 
-Beräkning:
-\[
-C(4, 2) = \frac{4!}{2! \cdot (4 - 2)!} = \frac{4 \cdot 3}{2 \cdot 1} = 6
-\]
+Använd kombinationsformeln för att beräkna:
 
-De möjliga kombinationerna av två frukter är:
-- Äpple och Banan
-- Äpple och Kiwi
-- Äpple och Apelsin
-- Banan och Kiwi
-- Banan och Apelsin
-- Kiwi och Apelsin
+\[ C(5, 3) = \frac{5!}{3!(5-3)!} = \frac{5 \times 4 \times 3 \times 2 \times 1}{3 \times 2 \times 1 \times 2 \times 1} = \frac{120}{12} = 10 \]
 
-### Exempel 2: Lotteri
-I ett lotteri väljer man 6 nummer från en uppsättning av 49. För att beräkna hur många olika sätt det finns att välja dessa 6 nummer, används formeln för kombinationer.
+Det finns alltså 10 olika sätt att välja 3 frukter från 5.
 
-I detta fall är \(n = 49\) och \(r = 6\).
+![Fruktfat med fem frukter](fruktfat_med_fem_frukter.png)
 
-Beräkning:
-\[
-C(49, 6) = \frac{49!}{6! \cdot (49 - 6)!}
-\]
+**Exempel 2:**
 
-Som en illustration av detta kan en graf som visar de olika kombinationerna visualiseras. 
+I en klass med 30 elever ska ett lag med 4 personer sättas ihop för en basketturnering. Hur många olika lagkonstellationer kan sättas ihop?
 
-![Graf över kombinationerna i ett lotteri med 49 nummer](lotteri_kombinationer_graph)
+Använd kombinationsformeln:
 
-## Tillämpningar av Kombinationer
-Kombinationer har många praktiska tillämpningar, till exempel inom områden som statistik, spelteori och kombinatorik. De används även inom områden som databaser och informationshantering för att beräkna risker och sannolikheter. Genom att förstå och kunna beräkna kombinationer kan man fatta mer informerade beslut, oavsett om det gäller spel, investeringar eller andra livsval.
+\[ C(30, 4) = \frac{30!}{4!(30-4)!} = \frac{30 \times 29 \times 28 \times 27}{4 \times 3 \times 2 \times 1} = \frac{657720}{24} = 27405 \]
 
-I nästa avsnitt kommer vi att titta på hur kombinationer relaterar till händelser med flera delar och hur de kan beräknas i sådana sammanhang.
+Det finns 27,405 olika sätt att välja ett lag om 4 personer från 30 elever.
+
+![Basketlag](basketlag.png)
+
+### Tillämpningar av kombinationer
+
+Kombinationer har många praktiska tillämpningar, såsom:
+
+- **Sannolikhetsberäkning**: Används för att räkna ut sannolikheten för att ett visst antal händelser inträffar.
+  
+- **Urval utan hänsyn till ordning**: Används i olika områden som biologi, statistik och datavetenskap för att gruppera objekt utan att ordning spelar någon roll.
+  
+- **Lottning och spel**: Används för att beräkna möjliga utfall och odds i spel och lotterier.
+
+Att förstå kombinationer är viktigt för att kunna hantera olika typer av statistiska och sannolikhetsbaserade problem på ett effektivt sätt. 
+
+Genom att bemästra konceptet av kombinationer kan man bättre analysera och tolka händelser när ordningen av val inte har betydelse. Det är ett avgörande verktyg för att lösa problem där bara själva valet av objekt är det primära intresset.
