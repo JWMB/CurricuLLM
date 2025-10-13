@@ -1,56 +1,50 @@
-## Multiplikation och division av heltal
+## Svårighetsgrad 1
 
-### Svårighetsgrad 1
+### Övning 1 
+**Question:** Hur mycket blir 3 gånger 4?  
+**Hints:** Tänk på att multiplikation är en upprepad addition. Du kan addera 4, tre gånger.  
+**Answer:** 12   
 
-**Uppgift 1**  
-*Question:* Vad är produkten av 3 och 4?  
-*Hints:* Tänk på vad multiplikation betyder; att lägga till ett tal flera gånger.  
-*Answer:* 12  
+### Övning 2  
+**Question:** Om du har 12 äpplen och vill dela dem lika mellan 3 personer, hur många äpplen får varje person?  
+**Hints:** Dela det totala antalet äpplen med antalet personer.  
+**Answer:** Varje person får 4 äpplen.  
 
-**Uppgift 2**  
-*Question:* Om du har 10 äpplen och delar dem lika mellan 2 personer, hur många äpplen får varje person?  
-*Hints:* Tänk på vad division handlar om; att dela upp ett antal i lika delar.  
-*Answer:* 5 äpplen  
+### Övning 3  
+**Question:** Vad är resultatet av 6 delat med 2?  
+**Hints:** Dela 6 i två lika stora delar.  
+**Answer:** 3  
 
-**Uppgift 3**  
-*Question:* Multiplicera talet 5 med 2. Vad får du?  
-*Hints:* Försök att tänka på att 5 + 5 = ?  
-*Answer:* 10  
+## Svårighetsgrad 2  
 
----
+### Övning 1  
+**Question:** Om en hink innehåller 36 liter vatten och du vill dela detta vatten lika i 6 små hinkar, hur många liter kommer varje liten hink att innehålla?  
+**Hints:** Dela 36 med antalet hinkar, dvs. 6.  
+**Answer:** Varje liten hink kommer att innehålla 6 liter vatten.  
 
-### Svårighetsgrad 2
+### Övning 2  
+**Question:** Multiplicera de två följande talen: 7 och 5. Vad får du?  
+**Hints:** Tänk på att 7 gånger 5 är detsamma som att addera 7, fem gånger.  
+**Answer:** 35  
 
-**Uppgift 1**  
-*Question:* Om en grupp har 8 personer och varje person har 3 böcker. Hur många böcker har gruppen totalt?  
-*Hints:* Använd multiplikation för att hitta det totala antalet böcker.  
-*Answer:* 24 böcker  
+### Övning 3  
+**Question:** Hur många gånger går 8 i 64?  
+**Hints:** Kontrollera hur många åttor du kan addera för att få 64 eller dela 64 med 8.  
+**Answer:** 8 gånger  
 
-**Uppgift 2**  
-*Question:* En klass har 30 elever. Om läraren bestämmer sig för att dela klassen i grupper om 5, hur många grupper kan läraren bilda?  
-*Hints:* Du behöver använda division för att ta reda på antal grupper.  
-*Answer:* 6 grupper  
+## Svårighetsgrad 3  
 
-**Uppgift 3**  
-*Question:* Maria köpte 6 paket med 4 kex i varje paket. Hur många kex köpte hon totalt?  
-*Hints:* Tänk på att multiplicera antalet paket med antalet kex i varje paket.  
-*Answer:* 24 kex  
+### Övning 1  
+**Question:** Du har en låda med 48 legoklossar och vill bygga torn med 4 klossar i varje. Hur många torn kan du bygga?  
+**Hints:** Dela det totala antalet klossar med antalet klossar per torn.  
+**Answer:** Du kan bygga 12 torn.  
 
----
+### Övning 2  
+**Question:** En fest har 60 cupcakes och är värd för 5 personer. Men varje person vill ha lika många cupcakes. Hur många fler cupcakes behöver du köpa så att varje person får 15 cupcakes var?  
+**Hints:** Först, beräkna hur många cupcakes som behövs totalt och jämför med hur många du har nu.  
+**Answer:** Du behöver köpa 15 cupcakes till.  
 
-### Svårighetsgrad 3
-
-**Uppgift 1**  
-*Question:* Om du har en rektangel med bredd 4 och längd 7, och varje centimeter av rektangelns yta representerar 1 kvadratmeter, vad är rektangelns area?  
-*Hints:* Tänk på att area beräknas genom att multiplicera längden med bredden.  
-*Answer:* 28 kvadratmeter  
-
-**Uppgift 2**  
-*Question:* En lastbil kan transportera 2400 kg. Om vikten av en enskild pall är 300 kg, hur många pallar kan lastbilen ta med sig?  
-*Hints:* Använd division för att ta reda på hur många hela pallar som får plats i lastbilen.  
-*Answer:* 8 pallar  
-
-**Uppgift 3**  
-*Question:* En klass samlar in pengar till utflykter genom att sälja biljetter. Varje biljett kostar 50 kronor. Om klassen säljer 120 biljetter, hur mycket pengar tjänar de totalt?  
-*Hints:* Tänk på att multiplicera antalet biljetter med priset per biljett.  
-*Answer:* 6000 kronor  
+### Övning 3  
+**Question:** En bonde har 240 äpplen som han vill dela upp i påsar med lika många äpplen i varje påse. Om han vill att varje påse ska innehålla 8 äpplen, hur många påsar kommer han att behöva?  
+**Hints:** Dela det totala antalet äpplen med antalet äpplen per påse.  
+**Answer:** Han kommer att behöva 30 påsar.

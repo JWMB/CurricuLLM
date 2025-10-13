@@ -2,55 +2,69 @@
 
 ### Svårighetsgrad 1
 
-**Uppgift 1**  
-*Question:* Lös ekvationen \( x + 5 = 12 \). Vad är värdet på \( x \)?  
-*Hints:* Tänk på vad som händer om du subtraherar 5 från båda sidor av ekvationen.  
-*Answer:* \( x = 7 \)
+#### Uppgift 1
+**Question:** Lös ekvationen \(x + 5 = 12\).
 
-**Uppgift 2**  
-*Question:* Vilket värde på \( x \) gör att \( 3x = 9 \)?  
-*Hints:* Försök att dela båda sidor av ekvationen med 3.  
-*Answer:* \( x = 3 \)
+**Hints:** Vad händer om du subtraherar 5 från båda sidor av ekvationen?
 
-**Uppgift 3**  
-*Question:* Om \( x - 2 = 4 \), vad är värdet på \( x \)?  
-*Hints:* Lägg till 2 på båda sidor av ekvationen.  
-*Answer:* \( x = 6 \)
+**Answer:** \(x = 7\)
 
----
+#### Uppgift 2
+**Question:** Bestäm värdet på \(x\) i ekvationen \(3x = 9\).
+
+**Hints:** Hur kan du göra för att lösa ut \(x\)? Fundera på vad du kan göra med siffran 3.
+
+**Answer:** \(x = 3\)
+
+#### Uppgift 3
+**Question:** Lös ekvationen \(x - 4 = 0\).
+
+**Hints:** Vad händer om du lägger till 4 på båda sidor av ekvationen?
+
+**Answer:** \(x = 4\)
 
 ### Svårighetsgrad 2
 
-**Uppgift 1**  
-*Question:* Lös ekvationen \( 2x + 3 = 11 \).  
-*Hints:* Börja med att subtrahera 3 från båda sidor, och fortsätt sedan med att dela med 2.  
-*Answer:* \( x = 4 \)
+#### Uppgift 1
+**Question:** Lös ekvationen \(2x + 3 = 11\).
 
-**Uppgift 2**  
-*Question:* En rektangel har en längd som är 3 gånger så lång som dess bredd. Om perimetern av rektangeln är 48 cm, vad är bredden?  
-*Hints:* Skriv en ekvation baserat på informationen gällande längd och bredd.  
-*Answer:* Bredden är 6 cm.
+**Hints:** Subtrahera först 3 från båda sidor och sedan dela med 2 för att lösa ut \(x\).
 
-**Uppgift 3**  
-*Question:* Lös ekvationen \( 4(x - 1) = 2x + 10 \).  
-*Hints:* Börja med att använda distributiva lagen och samla alla \( x \) på ena sidan.  
-*Answer:* \( x = 6 \)
+**Answer:** \(x = 4\)
 
----
+#### Uppgift 2
+**Question:** Bestäm värdet på \(x\) i ekvationen \(4x - 7 = 5\).
+
+**Hints:** Börja med att addera 7 till båda sidor av ekvationen, och sedan dela med 4 för att isolera \(x\).
+
+**Answer:** \(x = 3\)
+
+#### Uppgift 3
+**Question:** Lös ekvationen \(5x + 2 = 17\).
+
+**Hints:** Subtrahera 2 från båda sidor för att få \(5x = 15\), och dela sedan med 5.
+
+**Answer:** \(x = 3\)
 
 ### Svårighetsgrad 3
 
-**Uppgift 1**  
-*Question:* Två gånger ett tal minskat med 4 är lika med summan av talet och 10. Vad är talet?  
-*Hints:* Skriv upp en ekvation baserat på problembeskrivningen och lös för \( x \).  
-*Answer:* \( x = 14 \)
+#### Uppgift 1
+**Question:** Lös ekvationen \(3x - 4 = 2(x + 3)\).
 
-**Uppgift 2**  
-*Question:* Om \( 5x - 2(3 - x) = 4x + 10 \), vad är värdet på \( x \)?  
-*Hints:* Tänk på att först förenkla uttrycken och att kombinera liknande termer.  
-*Answer:* \( x = 12 \)
+**Hints:** Försök att först lösa parentesen, och sedan samla \(x\)-termerna på en sida av ekvationen.
 
-**Uppgift 3**  
-*Question:* Låt \( x \) vara ett heltal. Om \( x + 3 = 2(x - 1) + 5 \), vilka möjliga värden kan \( x \) anta?  
-*Hints:* Skriv och lös ekvationen, och tänk på att se om det finns fler lösningar.  
-*Answer:* \( x = 6 \) (Det finns inga andra heltalslösningar för denna ekvation.)
+**Answer:** \(x = 10\)
+
+#### Uppgift 2
+**Question:** Bestäm värdet på \(x\) i ekvationen \(4(x - 2) = 2(3x + 1)\).
+
+**Hints:** Utöka uttrycken på båda sidor av ekvationen, och försök att samla alla \(x\)-termer på en sida.
+
+**Answer:** \(x = -5\)
+
+#### Uppgift 3
+**Question:** Lös ekvationen \(7 - (2x + 1) = 3(x - 4) + 4\).
+
+**Hints:** Börja med att förenkla båda sidor, använd distributiva lagen, och samla termerna med \(x\) på en sida av ekvationen.
+
+**Answer:** \(x = 5\)

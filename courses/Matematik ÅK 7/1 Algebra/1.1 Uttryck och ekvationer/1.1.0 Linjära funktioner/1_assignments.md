@@ -1,68 +1,111 @@
-## Linjära funktioner
+# Linjära Funktioner
 
-### Svårighetsgrad 1
+## Svårighetsgrad 1 - Lätt
 
-**Uppgift 1**  
-*Question:* Vad är ett linjärt samband? Ge ett exempel på en situation där detta samband kan förekomma.  
-*Hints:* Tänk på hur två variabler kan relateras till varandra i en konstant takt.  
-*Answer:* Ett linjärt samband är en relation mellan två variabler där förändringen i den ena är proportionell mot förändringen i den andra. Ett exempel kan vara att en bil som åker med konstant hastighet sträcker sig en viss distans över tid, t.ex. 60 km/h.
+### Uppgift 1
+**Question:** Vad är en linjär funktion? Förklara med dina egna ord hur du identifierar en linjär funktion baserat på dess graf.
 
----
+**Hints:** 
+- Tänk på formen av grafen.
+- Jämför med olika typer av funktioner, såsom kvadratiska eller exponentiella.
 
-**Uppgift 2**  
-*Question:* Om en funktion \( f(x) = 2x + 3 \) gäller, vad är värdet av \( f(1) \)?  
-*Hints:* För att hitta värdet av funktionen, sätt in \( x = 1 \) i uttrycket.  
-*Answer:* \( f(1) = 2(1) + 3 = 5 \).
+**Answer:** En linjär funktion är en funktion som representeras av en rät linje på ett koordinatsystem. Ett exempel på en linjär funktion är y = mx + b, där m är riktningskoefficienten och b är y-interceptet. På grafen är en linjär funktion en rät linje.
 
----
+### Uppgift 2
+**Question:** Hur räknar du ut värdet på y när x = 5 för linjära funktionen y = 2x + 3?
 
-**Uppgift 3**  
-*Question:* Vad är skärningspunkten med y-axeln i funktionen \( f(x) = 4x - 2 \)?  
-*Hints:* Kom ihåg att skärningspunkten med y-axeln inträffar där \( x = 0 \).  
-*Answer:* Skärningspunkten med y-axeln är \( f(0) = 4(0) - 2 = -2 \).
+**Hints:**
+- Sätt in värdet av x i funktionen.
+- Beräkna enligt den linjära ekvationen.
 
----
+**Answer:** För att lösa detta, sätt in x = 5 i ekvationen y = 2x + 3:  
+y = 2(5) + 3  
+y = 10 + 3  
+y = 13  
 
-### Svårighetsgrad 2
+### Uppgift 3
+**Question:** Är funktionen y = -3x + 4 linjär? Motivera ditt svar.
 
-**Uppgift 1**  
-*Question:* För en linjär funktion \( g(x) \) där \( g(2) = 5 \) och \( g(4) = 9 \), vad är lutningen på denna funktion?  
-*Hints:* Lutningen kan beräknas med formeln \( k = \frac{g(x_2) - g(x_1)}{x_2 - x_1} \).  
-*Answer:* Lutningen \( k = \frac{9 - 5}{4 - 2} = \frac{4}{2} = 2 \).
+**Hints:**
+- Tänk på riktningen och formen hos funktionen.
+- Jämför med den allmänna formen för en linjär funktion.
 
----
+**Answer:** Ja, funktionen y = -3x + 4 är linjär eftersom den kan skrivas i formen y = mx + b, där m är -3 och b är 4. Den bildar en rät linje när den ritas upp på ett koordinatsystem.
 
-**Uppgift 2**  
-*Question:* Beskriv hur grafen av den linjära funktionen \( h(x) = -3x + 12 \) ser ut. Vilken typ av lutning har den?  
-*Hints:* Undersök koefficienten för \( x \) i funktionen och hur den påverkar grafens lutning.  
-*Answer:* Grafen av \( h(x) = -3x + 12 \) är en lutande linje med negativ lutning, vilket innebär att den går nedåt från vänster till höger. Skärningspunkten med y-axeln är 12.
+## Svårighetsgrad 2 - Medel
 
----
+### Uppgift 4
+**Question:** Rita grafen för funktionen y = 0.5x - 1 och bestäm vad y-värdet är när x = 4.
 
-**Uppgift 3**  
-*Question:* En bil kostar 1500 kr att leasa i månaden plus en avgift på 3000 kr för uppstart. Skriv en linjär funktion som beskriver den totala kostnaden \( C \) efter \( m \) månader.  
-*Hints:* Tänk på hur kostnaden ökar varje månad och lägg till den fasta kostnaden.  
-*Answer:* \( C(m) = 1500m + 3000 \).
+**Hints:**
+- Rita ett koordinatsystem och markera punkter baserat på ekvationen.
+- Använd ekvationen för att beräkna specifika y-värden.
 
----
+**Answer:** För att rita grafen, börja med att markera y-interceptet -1 på y-axeln. Använd riktningskoefficienten, 0.5, för att bestämma lutningen (gå upp 0.5 enheter efter höger 1 enhet). När x = 4:  
+y = 0.5(4) - 1  
+y = 2 - 1  
+y = 1. Punkten (4, 1) ligger på grafen.
 
-### Svårighetsgrad 3
+### Uppgift 5
+**Question:** En funktion ges som y = 4x + c. Hur påverkar värdet av c grafens position?
 
-**Uppgift 1**  
-*Question:* Anta att två linjära funktioner \( f(x) \) och \( g(x) \) är parallella. Om \( f(x) = 2x + 3 \), ge ett exempel på en annan linjär funktion som är parallell. Förklara varför den är parallell.  
-*Hints:* Tänk på lutningen hos linjära funktioner och hur den påverkar grafen.  
-*Answer:* En annan linjär funktion kan vara \( g(x) = 2x - 5 \). De är parallella eftersom de har samma lutning (2).
+**Hints:**
+- Jämför med andra linjära funktioner och deras grafiska representationer.
+- Tänk på betydelsen av y-interceptet.
 
----
+**Answer:** Värdet av c utgör y-interceptet, vilket innebär att det avgör var linjen skär y-axeln. Om c ökar, skiftar grafen uppåt, och om c minskar, skiftar grafen nedåt utan att ändras i lutning.
 
-**Uppgift 2**  
-*Question:* För att skapa en budgetmodell bestämmer du att ta första året så att kostnaden \( K \) förändras linjärt med antalet anställda \( n \), och beskriva detta med en funktion. Om kostnaden för ett extra anställd är 25000 kr och de fasta kostnaderna är 500000 kr, skriv en funktion för kostnaden \( K \).  
-*Hints:* Fundera på hur kostnaden beror på antal anställda och de fasta kostnaderna.  
-*Answer:* Funktionen kan skrivas som \( K(n) = 25000n + 500000 \).
+### Uppgift 6
+**Question:** På vilket sätt kan en grafändras om riktningen m i funktionen y = mx + b är ett negativt tal?
 
----
+**Hints:**
+- Tänk på lutningen av en linje.
+- Hitta exempel på olika värden av m.
 
-**Uppgift 3**  
-*Question:* En linjär funktion \( j(t) = -4t + 20 \) beskriver avståndet (i meter) från en punkt till en vägg vid tiden \( t \), där \( t \) i sekunder. Vid vilken tidpunkt når objektet väggen?  
-*Hints:* Tänk på när avståndet är lika med 0.  
-*Answer:* För att hitta tiden \( t \) då avståndet är 0, sätt \( j(t) = 0 \). Löser \( -4t + 20 = 0 \) ger \( t = 5 \) sekunder.
+**Answer:** Om m är negativt, lutningen av linjen går nedåt från vänster till höger. Riktningen innebär att för varje ökning av x, y minskar, vilket resulterar i en linje nedåtgående.
+
+## Svårighetsgrad 3 - Svår
+
+### Uppgift 7
+**Question:** Bestäm k och m i linjära funktionen y = mx + n så att punkterna (1, 2) och (3, 6) ligger på linjen.
+
+**Hints:**
+- Använd punkterna för att skapa system av ekvationer.
+- Låt y = mx + n gälla för båda punkterna och lös linjära ekvationer.
+
+**Answer:** Använd punkterna för att sätta upp följande ekvationer:  
+(1) 2 = m(1) + n  
+(2) 6 = m(3) + n 
+
+Lös ekvationerna:  
+Från (1): n = 2 - m  
+Sätt in för n i (2):  
+6 = m(3) + (2 - m)  
+6 = 3m + 2 - m  
+6 = 2m + 2  
+4 = 2m  
+m = 2  
+
+Sätt in m = 2 i (1):  
+2 = 2(1) + n  
+n = 0  
+
+Så k = 2 och m = 0.
+
+### Uppgift 8
+**Question:** Förklara hur du kan använda två punkter med olika y-intercept för att analysera vilket av två linjära funktioner är brantare?
+
+**Hints:**
+- Jämför linjernas lutningar, oavsett y-intercept.
+- Använd matematiska begrepp som riktningskoefficient för att beskriva lutningen.
+
+**Answer:** För att analysera vilken funktion som är brantare, jämför värdet av riktningskoefficienterna (m) för de två funktionerna. Den funktion med den högre absolutvärda riktningskoefficienten är brantare. Y-intercepts påverkar inte lutningen av linjen.
+
+### Uppgift 9
+**Question:** Hur skulle funktionen förändras grafiskt om m och n båda är negativa i y = mx + n? Exemplifiera med egna punkter.
+
+**Hints:**
+- Tänk på den kombinerade effekten av negativ lutning och negativt y-intercept.
+- Använd egna värden för snabb analys.
+
+**Answer:** Om båda m och n är negativa, innebär det att linjen både har en nedåtgående lutning och börjar nedanför ursprunget på y-axeln. Exempelvis funktionen y = -2x - 3 innebär att linjen sänker snabbt från vänster till höger och skär y-axeln vid -3, vilket placerar linjen i den nedre delen av grafen.

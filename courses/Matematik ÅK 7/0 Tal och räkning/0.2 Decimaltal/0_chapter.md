@@ -1,40 +1,51 @@
 ## Decimaltal
 
-Decimaltal är ett viktigt begrepp inom matematik som används för att representera tal som är mellan heltal. De består av en heltalsdel och en decimaldel, åtskilda av en decimalpunkt. Decimaltal används ofta i praktiska sammanhang, som i pengar, mätningar och vetenskapliga data. 
+Decimaltal är tal som innehåller ett decimaltecken, vilket används för att separera heltalsdelen från bråkdelen av talet. Decimaltecknet kan ofta vara en punkt eller ett kommatecken, beroende på regionala skrivvanor. Decimaltal är viktiga inom matematik och många praktiska tillämpningar, eftersom de ger en exakt representation av tal som inte kan uttryckas som heltal, till exempel mått, vikter, prispunkter och mer.
 
-### Vad är decimaltal?
+### Förklaring av decimaltal
 
-Decimaltal representeras i ett bas-10-system som gör det enkelt att förstå och använda. Till exempel kan talet 2,5 ses som summan av 2 (heltalsdelen) och 0,5 (decimaldelen). Decimaldelen visar hur mycket av en hel enhet som inte är fullständig. 
+Decimaltal består av två delar: heltalsdelen och decimaldelen. Heltalsdelen är den del av decimaltalet som står före decimaltecknet, medan decimaldelen är den del som står efter decimaltecknet. En decimaltal som 12.345 har 12 som heltalsdel och 345 som decimaldel.
 
-Ett annat exempel är talet 3,14, vilket kan tolkas som tre hela enheter och en del av en fjärde enhet, där decimalen 14 representerar 14 hundradelar. Illustrationen nedan visar en grafisk representation av hur decimaltal placeras på en tallinje. 
+Här är ett exempel på hur decimaltal ser ut:
 
-![Decimaltal på en tallinje](decimaltal-tallinje.png)
+- **0.75**: Här är 0 heltalsdelen och 75 decimaldelen.
+- **3.142**: Här är 3 heltalsdelen och 142 decimaldelen.
 
-### Decimalens platsvärde
+### Platsvärde i decimaltal
 
-Varje siffra i ett decimaltal har ett platsvärde som avgör hur mycket den bidrar till det totala värdet av talet. I talet 4,256 är:
+Platsvärdet i ett decimaltal är avgörande för att förstå dess värde. Varje position i decimaldelen representerar en specifik platsvärde baserat på tiopotens. Det första decimaltecknet representerar tiondelar, det andra hundradelar, det tredje tusendelar osv.
 
-- 4: tusental (4 x 1)
-- 2: hundratal (2 x 0,1)
-- 5: tiotal (5 x 0,01)
-- 6: ental (6 x 0,001)
+För att bättre förstå detta koncept, överväg följande exempel med decimaltalet 0.375:
 
-Detta betyder att talet 4,256 motsvarar 4 + 0,2 + 0,05 + 0,006.
+- **3** står vid tiondelens plats, vilket betyder 3/10.
+- **7** står vid hundradelens plats, vilket betyder 7/100.
+- **5** står vid tusendelens plats, vilket betyder 5/1000.
 
-### Rundning av decimaltal
+För att visualisera detta, kan ett diagram som visar platsvärdena för decimaltal vara mycket användbart:
 
-Vid behandling av decimaltal är det ofta nödvändigt att avrunda dem för att förenkla beräkningar eller för att presentera resultat mer överskådligt. Rundning innebär att ett decimaltal justeras till det närmaste hela talet, eller till ett visst antal decimaler. 
-
-Till exempel, om vi har talet 7,846 och vi vill avrunda det till två decimaler, kommer vi att titta på den tredje decimalen (6) för att avgöra hur vi ska avrunda. Eftersom 6 är större än eller lika med 5, avrundar vi uppåt, vilket ger oss 7,85.
+![decimaltal_platsvärde_diagram](decimaltal_platsvärde_diagram.png)
 
 ### Jämförelse av decimaltal
 
-För att jämföra decimaltal, kan vi använda en tallinje eller helt enkelt titta på talens värde. Till exempel, mellan talen 1,5 och 1,8 ser vi att 1,8 är större eftersom det ligger längre till höger på tallinjen. 
+När vi jämför decimaltal är det viktigt att titta på varje platsvärde, liknande hur vi jämför heltal. Börja med heltalsdelen för en initial bedömning, och om dessa är lika, jämför decimalerna från vänster till höger. Det första decimaltalet med ett högre siffervärde vid samma platsväre är det större talet.
 
-Ett annat sätt att jämföra dem är genom att omvandla dem till bråktal. Om vi skriver 0,75 som 75/100 eller 3/4, kan vi enklare se att detta är mindre än 1 (eller 4/4).
+**Exempel**:
+För att jämföra 0.56 och 0.562, jämför decimaldelen:
+- 0.56 innehåller två siffror i decimaldelen.
+- 0.562 har tre siffror i decimaldelen och är större eftersom det sista siffervärdet 2 ger det ett större värde än 0.560.
 
-### Användning av decimaltal i verkligheten
+### Decimaltal i praktiska tillämpningar
 
-Decimaltal är utbrett i vardagliga situationer. Inom ekonomi används de för att uttrycka priser och kostnader. Inom naturvetenskap kan de användas för att ange mätningar som temperatur eller längd. Exempelvis kan ett pris på en vara vara 199,99 kr och en längd av en bok vara 22,5 cm.
+Decimaltal används ofta inom vetenskap, teknik och ekonomi. Här är några exempel på deras tillämpning:
 
-Genom att förstå och använda decimaltal kan vi arbeta mer effektivt i både akademiska och praktiska situationer i vårt dagliga liv.
+- **Mått**: Många fysiska mått såsom längd, bredd, och höjd uttrycks ofta i decimaltal för precision.
+- **Ekonomi**: Priser och valutor använder decimaltal för att visa exakta summa.
+- **Medicinska beräkningar**: Doser och blandningar beräknas ofta i decimaltal för noggrannhet.
+
+Att förstå decimaltal är viktigt för att utföra korrekta beräkningar och analyser i dessa områden. När decimaltal används, leder det ofta till mer exakt och användbar information.
+
+### Vanliga misstag
+
+Ett vanligt misstag med decimaltal är att förbise nollor i decimaldelen. Nollor kan ibland tas bort utan att förändra talets värde, men i vissa fall kan det förändra resultatet av en beräkning. Var noggrann med att nollor i decimaldelen beaktas korrekt.
+
+Decimaltal är en grundläggande del av matematik som har många användningsområden. Deras flexibilitet och exakthet gör dem oumbärliga i många aspekter av vardagen och olika vetenskaper.

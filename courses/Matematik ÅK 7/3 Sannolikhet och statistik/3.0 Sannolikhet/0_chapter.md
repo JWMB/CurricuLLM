@@ -1,43 +1,49 @@
-# Sannolikhet
+## Sannolikhet
 
-Sannolikhet är ett centralt begrepp inom matematik som används för att beskriva hur troligt det är att en viss händelse inträffar. Det kan vara allt från att vrida ett mynt och få "klave" till att dra ett kort från en kortlek. Sannolikhet används inom många områden, inklusive statistik, ekonomi, naturvetenskap och spelteori. Grundläggande för att förstå sannolikhet är att man har en tydlig definition av de händelser som betraktas. 
+Sannolikhet är ett centralt begrepp inom matematik och statistik och handlar om att kvantifiera osäkerhet. När vi talar om sannolikhet avser vi chansen eller risken att en viss händelse inträffar. Ibland beskriver sannolikhet vår förväntan baserat på tidigare data eller modeller, och ibland hur säker vi kan vara på framtida händelser. Målet med detta kapitel är att ge dig en grundläggande förståelse för sannolikhet och hur du kan tillämpa denna kunskap för att lösa problem.
+
+![coin-toss](coin-toss.png)
+
+Sannolikhet uttrycks som ett tal mellan 0 och 1. Ett värde på 0 betyder att händelsen inte kan inträffa, och ett värde på 1 betyder att händelsen säkert kommer att inträffa. När vi talar om sannolikhet i praktiken, brukar vi ofta använda procenttal från 0% till 100% för att göra det mer intuitivt.
 
 ### Enkla händelser
 
-En enkel händelse är en händelse som inte kan delas upp i flera underhändelser. Den kan antingen inträffa eller inte inträffa. Sannolikheten för en enkel händelse kan kvantifieras och uttryckas som en siffra mellan 0 och 1, där 0 innebär att händelsen är omöjlig och 1 innebär att händelsen är säker.
+En enkel händelse är en händelse som endast kan ha en viss utgång i sitt grundläggande urval. Ett klassiskt exempel på en enkel händelse är att kasta en singel 6-sidig tärning. Utfallsmöjligheterna är begränsade till siffrorna 1, 2, 3, 4, 5 och 6. Om du vill beräkna sannolikheten att tärningen visar en 3, är det en enkel händelse.
 
-#### Exempel:
+Formeln för sannolikhet (P) av en enkel händelse är:
+\[ P(\text{händelse}) = \frac{\text{Antal gynnsamma utfall}}{\text{Antal möjliga utfall}} \]
 
-Anta att vi kastar en vanlig sexsidig tärning. Händelsen att få en "fyra" är en enkel händelse. Det finns sex möjliga utfall (1, 2, 3, 4, 5, 6), och bara ett av dessa utfall är en "fyra". Sannolikheten för denna händelse kan beräknas enligt följande:
+**Exempel:**
 
-\[
-P(\text{fyra}) = \frac{\text{antalet gynnsamma utfall}}{\text{antalet möjliga utfall}} = \frac{1}{6} \approx 0,1667
-\]
+Beräkna sannolikheten att en tärning kastas och visar en 3.
 
-En tydlig illustration som kan bidra till förståelsen av enkel händelse är en bild av en tärning, med fokus på sidorna. ![Tärning med sidor](https://example.com/tarning-med-sidor)
+Gynnsamma utfall: 1 (endast talet 3)
+Möjliga utfall: 6 (talen 1, 2, 3, 4, 5, 6)
+
+\[ P(\text{3}) = \frac{1}{6} \]
+
+Så sannolikheten att få en 3 på en enda kastning av tärningen är \(\frac{1}{6}\), eller cirka 16.67%.
 
 ### Kombinationer
 
-Kombinationer handlar om att räkna ut hur många olika sätt man kan välja ett visst antal element från en större uppsättning utan att ta hänsyn till ordningen hos dessa element. I många situationer är det viktigt att veta hur många sätt olika händelser kan inträffa eller olika objekt kan väljas, och detta ger oss möjligheten att beräkna sannolikheter för mer komplexa händelser.
+Med sannolikhet är ofta frågan inte alltid om en enkel händelse, utan flera händelser som kan interagera med varandra. Kombinationer i sannolikhet handlar om att räkna möjliga arrangemang och permutationer av händelser, vilket ofta används vid mer komplexa analyser som involverar flera element.
 
-#### Exempel:
+![combination-diagram](combination-diagram.png)
 
-Tänk dig att du har en kortlek med 52 kort och vill veta hur många olika sätt du kan dra 5 kort. Detta är ett klassiskt exempel på en kombination. Antalet sätt att välja \(k\) objekt från en mängd av \(n\) objekt kan beräknas med formeln:
+Vid beräkning av sannolikhet för kombinationer använder vi metoder för att avgöra hur händelser kan inträffa tillsammans, vilket kan kräva förståelse av principerna såsom addition och multiplikation av sannolikheter, beroende på situationen om händelserna är oberoende eller beroende av varandra.
 
-\[
-C(n, k) = \frac{n!}{k!(n-k)!}
-\]
+**Exempel:**
 
-Där \(n!\) (n-fakultet) betyder att man multiplicerar alla heltal från 1 till \(n\).
+Anta att du har en grupp av 4 personer och du vill skapa ett lag som består av 2 personer. Hur många olika lag kan du skapa?
 
-Om vi vill dra 5 kort från en kortlek på 52 kort, sätter vi in värdena \(n = 52\) och \(k = 5\) i formeln:
+Använd kombinationsformeln för att beräkna detta:
 
-\[
-C(52, 5) = \frac{52!}{5!(52-5)!} = \frac{52!}{5! \cdot 47!} = \frac{52 \times 51 \times 50 \times 49 \times 48}{5 \times 4 \times 3 \times 2 \times 1} = 2 598 960
-\]
+\[ C(n, k) = \frac{n!}{k!(n-k)!} \]
 
-Det finns alltså 2 598 960 olika sätt att välja 5 kort ur en kortlek med 52 kort.
+Där \(n\) är det totala antalet objekt och \(k\) är antalet objekt att välja. I detta fall är \(n = 4\) och \(k = 2\):
 
-För att illustrera detta kan en bild av en kortlek användas, med fokus på att lyfta fram antalet kort. ![Kortlek](https://example.com/kortlek)
+\[ C(4, 2) = \frac{4!}{2!(4-2)!} = \frac{4 \times 3}{2 \times 1} = 6 \]
 
-Genom att förstå de grundläggande begreppen inom sannolikhet, såsom enkla händelser och kombinationer, bygger vi en solid grund för att kunna utforska mer komplexa sannolikhetsproblem och tillämpningar.
+Så det finns 6 möjliga sätt att kombinera dessa 4 personer till lag bestående av 2 personer.
+
+Genom att förstå dessa grundläggande begrepp kan du börja att tillämpa sannolikhet på praktiska problem och exempel i verkliga livet. I de följande avsnitten kommer du att lära dig mer om hur man kan använda sannolikhet i samband med statistik för att göra meningsfulla analyser och beslut.

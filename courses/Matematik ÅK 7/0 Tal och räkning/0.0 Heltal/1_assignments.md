@@ -1,50 +1,68 @@
-# Tal och räkning
-## ----> Heltal
+## Svårighetsgrad 1
 
-### Svårighetsgrad 1
-#### Uppgift 1
-* **Question:** Vad är summan av 5 och 8? 
-* **Hints:** Tänk på vad det innebär att lägga till två tal. Prova att räkna på fingrarna om det behövs.
-* **Answer:** 13
+### Uppgift 1: Addition av heltal
+**Question:** Lägg ihop talen 14 och 8. Vad blir summan?
 
-#### Uppgift 2
-* **Question:** Om du har 10 äpplen och ger bort 4, hur många äpplen har du kvar? 
-* **Hints:** Tänk på vad det innebär att ta bort något från ett visst antal.
-* **Answer:** 6 äpplen
+**Hints:** Tänk på att du kan använda fingertal för att hjälpa dig att räkna om det blir svårt att hålla alla siffror i minnet.
 
-#### Uppgift 3
-* **Question:** Vilket heltal kommer före 15? 
-* **Hints:** Tänk på talserien och vad som kommer innan ett givet tal.
-* **Answer:** 14
+**Answer:** 22
 
-### Svårighetsgrad 2
-#### Uppgift 1
-* **Question:** En låda innehåller 20 bollar. Om 7 bollar är röda och resten är blå, hur många blå bollar finns det i lådan?
-* **Hints:** Subtrahera antalet röda bollar från det totala antalet bollar.
-* **Answer:** 13 blå bollar
+### Uppgift 2: Subtraktion av heltal
+**Question:** Vad får du om du subtraherar 5 från 12?
 
-#### Uppgift 2
-* **Question:** Om du multiplicerar ett heltal med 6 och resultatet blir 48, vilket tal multiplicerade du med? 
-* **Hints:** Tänk på division för att hitta vilket tal som ger 48 när det multipliceras med 6.
-* **Answer:** 8
+**Hints:** Tänk på subtraktion som att "ta bort" ett antal enheter från en mängd. Börja med det större talet och ta bort det mindre talet steg för steg.
 
-#### Uppgift 3
-* **Question:** Rent hypotetiskt, om varje elev i en klass av 25 elever har 3 böcker, hur många böcker har klassen totalt? 
-* **Hints:** Tänk på multiplikation: hur många böcker har en elev och multiplicera med antalet elever.
-* **Answer:** 75 böcker
+**Answer:** 7
 
-### Svårighetsgrad 3
-#### Uppgift 1
-* **Question:** Tänk dig att du har en uppsättning av heltal som börjar från 1 till 10. Om du tar bort ett tvåsiffrigt tal som är summan av 3 och 4, vad är det minimiantal heltal som är kvar? 
-* **Hints:** Först, beräkna summan av 3 och 4, och tänk på vilka hela tal som finns kvar från den ursprungliga uppsättningen.
-* **Answer:** 9 heltal
+### Uppgift 3: Multiplikation med små heltal
+**Question:** Multiplicera 3 med 4. Vad blir resultatet?
 
-#### Uppgift 2
-* **Question:** Om 12 personer ska dela på 144 äpplen, hur många äpplen får varje person? 
-* **Hints:** Tänk på division som att dela upp något i flera lika delar.
-* **Answer:** 12 äpplen per person
+**Hints:** Tänk på multiplikation som att addera ett tal ett visst antal gånger. Om du har tre grupper med fyra i varje grupp, hur många totalt har du?
 
-#### Uppgift 3
-* **Question:** En fabrik producerar 500 enheter varje dag. Om produktionen ökar med 10% under en vecka, vad blir den nya produktionen per dag efter en vecka? 
-* **Hints:** Räkna först ut vad 10% av 500 är och lägg sedan till den summan till det ursprungliga antalet.
-* **Answer:** 550 enheter per dag
+**Answer:** 12
+
+## Svårighetsgrad 2
+
+### Uppgift 1: Addition och subtraktion
+**Question:** Vad är resultatet av operationen: (15 + 8) - 6?
+
+**Hints:** Lös först additionen del i parentesen, och därefter subtraktionen. Tänk på ordningsföljden för beräkningar.
+
+**Answer:** 17
+
+### Uppgift 2: Multiplikation av större heltal
+**Question:** Beräkna produkten av 7 och 9.
+
+**Hints:** Om multiplikationen känns svår kan du försöka bryta ner 9 i enklare delar, som 5 och 4, och använda distributiviteten (7*(5+4)).
+
+**Answer:** 63
+
+### Uppgift 3: Division av heltal
+**Question:** Dela 36 med 4. Vilket tal får du?
+
+**Hints:** Tänk på division som att fördela något i lika stora delar. Du kan också tänka på hur många gånger 4 går in i 36.
+
+**Answer:** 9
+
+## Svårighetsgrad 3
+
+### Uppgift 1: Blandade räkneoperationer
+**Question:** Beräkna: (5 * 6) + (48 ÷ 8) - 7
+
+**Hints:** Följ ordningsregler för beräkningar: först multiplicera och dividera, sedan addera och subtrahera.
+
+**Answer:** 35
+
+### Uppgift 2: Problemlösning med heltal
+**Question:** Du har fyra lådor med äpplen. Varje låda innehåller 12 äpplen. En dag tappar du hälften av äpplena från två av lådorna. Hur många äpplen har du kvar?
+
+**Hints:** Räkna först det totala antalet äpplen. Räkna sedan hur många som du tappar och subtrahera detta från det totala antalet.
+
+**Answer:** Totalt har du 48 äpplen från början. Du tappar hälften från två lådor, alltså 12 äpplen från varje låda = 24 äpplen. Så kvar har du 48 - 24 = 24 äpplen.
+
+### Uppgift 3: Tänkande kring multiplikation och division
+**Question:** Om produkten av två heltal är 72, och det ena talet är 9, vad är det andra talet? Använd din kunskap om multiplikation och division för att lösa problemet.
+
+**Hints:** Tänk på att för att hitta ett av de tal som multipliceras för att ge en viss produkt kan du dela produkten med det kända talet.
+
+**Answer:** 8 (Eftersom 72 ÷ 9 = 8)

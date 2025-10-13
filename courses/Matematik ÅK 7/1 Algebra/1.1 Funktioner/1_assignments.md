@@ -1,46 +1,106 @@
-# Tal och räkning
-# Algebra
-## Uttryck och ekvationer
-## ----> Funktioner
+## Funktioner
 
 ### Svårighetsgrad 1
 
-1. **Question:** Vad är en funktion? Ge ett exempel på en funktion.
-   - **Hints:** Tänk på hur en funktion kan beskrivas med hjälp av en variabel. Kan du tänka på hur man kan koppla en ingång till en utgång?
-   - **Answer:** En funktion är en regel som kopplar varje element i en mängd (invariabel) till exakt ett element i en annan mängd (utvariabel). Ett exempel på en funktion är \( f(x) = 2x + 3 \).
+#### Exercis 1
+**Question:**
+Vad är en funktion och hur kan den representeras grafiskt?
 
-2. **Question:** Hur kan du avgöra om en relation mellan två variabler är en funktion?
-   - **Hints:** Tänk på vad som händer om en variabel kan ha flera olika värden för samma ingångsvariabel.
-   - **Answer:** En relation är en funktion om varje element i definitionsmängden kopplas till exakt ett element i värdemängden. Det kan visualiseras med en graf, där en lodrät linje (vertikal linje) aldrig får skära grafen mer än en gång.
+**Hints:**
+- Tänk på en funktion som en regel eller en maskin som omvandlar indata (x-värden) till utdata (y-värden).
+- Hur ser en graf ut för en enkel linjär funktion, som till exempel y = 2x + 3?
 
-3. **Question:** Rita grafen till funktionen \( f(x) = x + 1 \).
-   - **Hints:** Tänk på att du kan skapa en tabell med värden på \( x \) och beräkna motsvarande \( f(x) \). Vilka punkter kan du sedan plottas på ett koordinatsystem?
-   - **Answer:** Grafen är en rät linje som börjar på \( (0, 1) \) och lutar uppåt, med en lutning av 1.
+**Answer:**
+En funktion är ett samband där varje indata x ger precis en utdata y. Grafiskt kan en funktion representeras som en kurva eller linje på ett koordinatsystem där x-värdena avlägsnas horisontellt och y-värdena vertikalt. För linjära funktioner som y = 2x + 3 är grafen en rät linje med en lutning på 2 och ett y-intercept på 3.
+
+#### Exercis 2
+**Question:**
+Hur kan du bestämma om ett tal är ett funktionsvärde för en given funktion?
+
+**Hints:**
+- Kontrollera vad som händer när du ersätter ett x-värde i funktionsuttrycket, får du ditt y-värde?
+- Tänk på att skapa en tabell med värden för att visa sambandet.
+
+**Answer:**
+Om man substituerar ett x-värde i funktionsuttrycket och det resulterande y-värdet är det tal du undersöker, då är det ett funktionsvärde för den givna funktionen. Om y = 2x + 3, och y är 7, kontrollera om 7 = 2x + 3 är sant för något x. Lösning: x = 2.
+
+#### Exercis 3
+**Question:**
+Vad är "domänen" för en funktion och varför är den viktig?
+
+**Hints:**
+- Domänen handlar om vilka x-värden som är möjliga för funktionen.
+- Tänk på funktionens definition och eventuella begränsningar.
+
+**Answer:**
+Domänen för en funktion är mängden alla möjliga indata x-värden för vilka funktionen är definierad. Det är viktigt eftersom det hjälper oss att förstå vilka x-värden som kan användas för att få ett definierat y-värde. För linjära funktioner som y = 2x + 3, är domänen alla reella tal.
 
 ### Svårighetsgrad 2
 
-1. **Question:** Vad är värdet av funktionen \( f(x) = 3x - 5 \) när \( x = 4 \)?
-   - **Hints:** Sätt in värdet på \( x \) i funktionen och beräkna resultatet.
-   - **Answer:** \( f(4) = 3(4) - 5 = 12 - 5 = 7 \).
+#### Exercis 1
+**Question:**
+Hur kan du bestämma om två funktioner är ekvivalenta?
 
-2. **Question:** Beskriv vad som händer med värdet av funktionen \( f(x) = 2x^2 - 3 \) när \( x \) ökar.
-   - **Hints:** Tänk på vad en kvadrat av ett tal innebär och hur koefficienterna påverkar växande eller minskande värden.
-   - **Answer:** När \( x \) ökar, ökar värdet av \( f(x) \) eftersom termen \( 2x^2 \) växer snabbare när \( x \) blir större. Funktionen är parabolisk och ökar obehindrat för positiva värden av \( x \).
+**Hints:**
+- Skapa grafiska representationer och se om de överlappar fullständigt.
+- Testa med flera olika indata för att se om utdata är samma för båda funktionerna.
 
-3. **Question:** Hitta skärningspunkten mellan linjerna \( y = 2x + 1 \) och \( y = -x + 4 \).
-   - **Hints:** Sätt de två uttrycken lika med varandra och lös för \( x \). Använd sedan värdet av \( x \) för att hitta \( y \).
-   - **Answer:** Genom att sätta \( 2x + 1 = -x + 4 \) får vi \( 3x = 3 \) och \( x = 1 \). Sätt in värdet för \( y \) i en av ekvationerna, \( y = 2(1) + 1 = 3 \). Skärningspunkten är \( (1, 3) \).
+**Answer:**
+Två funktioner är ekvivalenta om de har samma funktionsvärde för varje x-värde inom deras domän. Grafiskt är deras kurvor identiska. För att analysera algebraiskt, försök att förenkla funktionerna eller substituera ett par x-värden för att se om du får samma y-värden varje gång.
+
+#### Exercis 2
+**Question:**
+Hur kan du bestämma funktionens "intervall" på vilket den ökar eller minskar?
+
+**Hints:**
+- Studera funktionen grafiskt och se om linjen går uppåt eller nedåt.
+- Analysera koefficienterna där funktionen är definierad, särskilt riktningskoefficienten.
+
+**Answer:**
+För linjära funktioner som y = mx + b, om riktningskoefficienten m är positiv, ökar funktionen på hela sin domän. Om m är negativ, minskar den istället. För icke-linjära funktioner kan du behöva undersöka derivatan för att hitta ökning eller minskning.
+
+#### Exercis 3
+**Question:**
+Hur kan du algebraiskt bestämma skärning med axlarna för en funktion?
+
+**Hints:**
+- För att hitta där funktionen skär y-axeln, sätt x till 0 och lös för y.
+- För att hitta där funktionen skär x-axeln, sätt y till 0 och lös för x.
+
+**Answer:**
+För att hitta skärningen med y-axeln, sätt x till 0 i funktionsuttrycket och lös för y. För y = 2x + 3, skärningen med y-axeln är vid (0, 3). För att hitta skärningen med x-axeln, sätt y till 0 och lös för x. Lösningen är där 0 = 2x + 3, vilket ger x = -1.5.
 
 ### Svårighetsgrad 3
 
-1. **Question:** Anta att en funktion \( f(x) \) är definierad som \( f(x) = ax + b \). Om \( f(2) = 7 \) och \( f(3) = 10 \), hur mycket är \( a \) och \( b \)?
-   - **Hints:** Använd de givna värdena för att skapa ett system av ekvationer. Sätt in \( x \) i funktionen för att få två ekvationer med två okända.
-   - **Answer:** Från \( f(2) = 7 \) får vi \( 2a + b = 7 \) och från \( f(3) = 10 \) får vi \( 3a + b = 10 \). Subtrahera de två ekvationerna för att lösa för \( a \): \( a = 3 \) och sedan sätt in \( a \) i någon av ekvationerna för att få \( b = 1 \).
+#### Exercis 1
+**Question:**
+Hur kan du algebraiskt bestämma intervallet av värden för en kvadratisk funktion, såsom f(x) = x^2 - 4x + 3?
 
-2. **Question:** Diskutera hur förändringen av lutningen i en linjär funktion påverkar grafens utseende. Vad händer med lutningarna +1, 0, och -1?
-   - **Hints:** Tänk på vad lutning innebär. Vad gör en positiv lutning jämfört med en negativ?
-   - **Answer:** En lutning av +1 innebär att linjen lutar uppåt, innebär att värdet ökar med varje steg i \( x \). En lutning av 0 betyder att linjen är horisontell och inte förändras. En lutning av -1 innebär att linjen lutar nedåt, vilket betyder att värdet minskar med varje steg i \( x \).
+**Hints:**
+- Bestäm vertexen för den kvadratiska funktionen.
+- Använd derivatan av funktionen eller kvadratkomplettering för att analysera funktionens beteende.
 
-3. **Question:** Måla upp en situation där en funktion beskriver ett verkligt fenomen (exempelvis hastighet över tid). Beskriv hur grafens lutning på olika delar av tidsaxeln kan tolkas.
-   - **Hints:** Tänk på hur hastighet och acceleration fungerar. Vad betyder det om lutningen är konstant, ökar eller minskar?
-   - **Answer:** En funktion som beskriver hastighet över tid kan vara linjär (konstant hastighet) eller kvadratisk (ökar hastigheten). En konstant lutning betyder att hastigheten är konstant, en ökad lutning (uppåtlutande) indikerar acceleration, och en minskad lutning (nedåtlutande) kan peka på inbromsning eller negativ acceleration.
+**Answer:**
+För att bestämma intervallet av värden för f(x) = x^2 - 4x + 3, kan vi komplettera kvadraten eller använda vertexens formel x = -b/2a för att finna vertexen (drastiska punkter). Funktionen har en vertex vid x = 2, där f(2) = -1. Eftersom denna funktion är en uppåtgående parabel, kommer det lägsta värdet y-intervallet är från -1 och vidare mot oändligheten.
+
+#### Exercis 2
+**Question:**
+Vad innebär det att en funktion är invers och hur kan det bestämmas för en given funktion y = x^2?
+
+**Hints:**
+- En invers funktion upphäver den ursprungliga funktionens verkan.
+- Tänk på att byta plats på x och y och lösa för y för att hitta inversen.
+
+**Answer:**
+En funktion är invers om den exakt upphäver en annan funktion. För y = x^2, dess invers skulle normalt innebära att lösa x = y^2. Men eftersom kvadratrot under x^2 ger både positiva och negativa lösningar, måste inversens domän begränsas till y ≥ 0 för att vara funktionell. Så inversen är f⁻¹(y) = √y, y ≥ 0.
+
+#### Exercis 3
+**Question:**
+Hur kan du algebraiskt lösa för x i en funktion av tredje graden, f(x) = x^3 - 6x^2 + 11x - 6?
+
+**Hints:**
+- Försök att faktorisera uttrycket för f(x).
+- Var uppmärksam på Faktorsatsen som säger att om r är en rot, då (x-r) är en faktor.
+
+**Answer:**
+För att lösa f(x) = x^3 - 6x^2 + 11x - 6 kan vi använda faktorisering genom att testa möjliga rötter, såsom med treeder. Testa x = 1, då f(1) = 0, vilket gör (x-1) till faktor. Lägg sedan till syntetisk division för att bryta ner uttrycket: (x-1)(x-2)(x-3) ger rötterna x = 1, x = 2, och x = 3.

@@ -1,37 +1,84 @@
 # Tal och räkning
 
-Tal och räkning är grunden för matematik och används i många vardagliga sammanhang. För att förstå och arbeta med tal är det viktigt att ha en god insikt om de olika typerna av tal som existerar, nämligen heltal, bråktal och decimaltal. Varje typ av tal har sina egna egenskaper och användningsområden, vilket vi kommer att utforska i de följande avsnitten.
+Inom matematik är "tal och räkning" en grundläggande kategori som omfattar flera olika typer av tal och metoder för att arbeta med dem. Detta kapitel syftar till att ge en introduktion till de grundläggande typerna av tal, deras egenskaper och hur man utför beräkningar med dem. Genom att förstå olika typer av tal och räknesätt blir det lättare att hantera mer komplexa problem inom matematik och dess tillämpningar.
 
 ## Heltal
 
-Heltal är de enklaste formerna av tal och representerar hela enheter utan några decimaltal eller bråk. Heltalen inkluderar både positiva och negativa tal samt noll. Exempel på heltal är -3, 0, 1, 27 och 150. Heltal används ofta för att räkna objekt, som antalet äpplen i en korg eller antalet deltagare i en klass.
+Heltal är en av de mest grundläggande typerna av tal i matematik. De omfattar både positiva och negativa tal, inklusive noll, och definieras vanligtvis som tal utan decimaler eller bråkdelar. Heltal innebär all typ av kvantitet som kan beskriva en hel enhet, till exempel antal människor i ett rum eller antal äpplen i en korg.
 
-### Exempel på användning av heltal:
-- Antal barn i en skola: Om en skola har 200 elever, representeras detta av heltalet 200.
-- Temperaturer: En temperatur på -5 grader C eller 20 grader C är ett exempel på heltal.
+Här är några viktiga aspekter om heltal:
 
-![Illustration av heltal](</courses/Matematik ÅK 7/0 Tal och räkning/heltal-illustration.png>)
+1. **Egenskaper**: Heltal kan vara positiva (t.ex. 1, 2, 3) eller negativa (t.ex. -1, -2, -3), och inkluderar alltid noll. Noll är inte positivt eller negativt, men det är fortfarande ett heltal.
+
+2. **Addition och subtraktion**: När vi adderar eller subtraherar heltal, får vi alltid ett heltal som resultat. Exempelvis, 5 - 3 = 2 och -7 + 4 = -3.
+
+3. **Multiplikation och division**: Multiplikation av två heltal ger också ett heltal som resultat. Division av heltal kan ibland resultera i ett bråktal, till exempel 10 ÷ 4 = 2.5, vilket är ett exempel på flyttal.
+
+### Exempel på beräkningar med heltal
+
+Exempel 1: Addition av heltal  
+Om vi har två heltal, 12 och 25, och vill addera dem, använder vi formeln:
+\[ 
+12 + 25 = 37 
+\]
+
+Exempel 2: Multiplikation med negativa heltal  
+Multiplicera -3 med 7:
+\[ 
+-3 \times 7 = -21 
+\]
+
+![bildlänk](Simple_integer_operation_example.png)  
 
 ## Bråktal
 
-Bråktal används för att representera delar av helheter. Ett bråktal består av två heltal, ett täljare och ett nämnare, som skrivs i formen \( \frac{a}{b} \), där \( a \) är täljaren och \( b \) är nämnaren. Nämnaren kan inte vara noll, eftersom division med noll inte är definierad. Exempel på bråktal inkluderar \( \frac{1}{2} \), \( \frac{3}{4} \) och \( \frac{-5}{6} \). 
+Bråktal är tal som uttrycks som kvoten av två heltal. De används när en helhet delas upp i mindre delar. Ett bråktal består av en täljare och en nämnare. Täljaren är det övre talet som representerar antalet delar vi har, medan nämnaren representerar det totala antalet delar som helheten är uppdelad i.
 
-Bråktal är särskilt användbara när man behöver ange en del av en helhet, som att dela upp en pizza eller mäta ingredienser i ett recept.
+1. **Egenskaper hos bråktal**: Ett bråktal är ofta ett tal mellan heltal, men kan också representera ett heltal (t.ex. \(\frac{6}{3} = 2\)) eller användas för att uttrycka delar av en mängd.
 
-### Exempel på användning av bråktal:
-- Recept: Om ett recept kräver \( \frac{2}{3} \) kopp socker, innebär det att man använder två tredjedelar av en kopp.
-- Dela en pizza: Om en pizza är skuren i 8 bitar och du äter 3, kan man uttrycka det som \( \frac{3}{8} \) av pizza.
+2. **Addition och subtraktion**: För att addera eller subtrahera bråktal måste nämnarna vara desamma. Om de inte är det, får vi förlänga bråktalen så att nämnarna blir lika när vi utför beräkningen.
 
-![Illustration av bråktal](</courses/Matematik ÅK 7/0 Tal och räkning/braktal-illustration.png>)
+3. **Multiplikation och division**: Vid multiplikation av två bråktal multipliceras täljarna med varandra och nämnarna med varandra. Vid division multiplicerar vi med den omvända kvoten.
+
+### Exempel på beräkningar med bråktal
+
+Exempel 1: Addition av bråktal  
+\[
+\frac{1}{4} + \frac{3}{4} = \frac{4}{4} = 1
+\]
+
+Exempel 2: Multiplikation av bråktal  
+Multiplicera \(\frac{2}{3}\) med \(\frac{3}{5}\):  
+\[
+\frac{2}{3} \times \frac{3}{5} = \frac{6}{15} = \frac{2}{5} \text{ efter förkortning}
+\]
+
+![bildlänk](Fraction_operation_example.png)  
 
 ## Decimaltal
 
-Decimaltal är en annan form av tal som representerar värden mellan heltal. De skrivs med en decimalpunkt som separerar heltalsdelen från decimaldelen. Exempel på decimaltal är 0.5, 3.14 och -2.75. Decimaltal används ofta i situationer där noggrannhet är viktig, såsom vid mätningar, pengar och temperaturer.
+Decimaltal kallas även flyttal och används för att uttrycka tal som inte är hela, ofta genom att använda decimaltecken. Decimaltal används mycket inom vetenskap, handel och teknik för att ge en mer exakt representation av värden som är mellan hela tal.
 
-### Exempel på användning av decimaltal:
-- Mätning: Visar en längd på 2.5 meter indikerar att något är två och en halv meter långt.
-- Ekonomi: Om en vara kostar 19.99 kronor, presenteras detta som ett decimaltal.
+1. **Egenskaper hos decimaltal**: Decimaltal kan uttrycka precisionsnivåer som inte kan fås med heltal och bråktal. Exempel på decimaltal kan vara 3.14 eller 0.75.
 
-![Illustration av decimaltal](</courses/Matematik ÅK 7/0 Tal och räkning/decimaltal-illustration.png>)
+2. **Addition och subtraktion**: Decimaltal adderas och subtraheras genom att anpassa decimaler till samma position innan beräkning.
 
-Genom att förstå dessa tre typer av tal kan man bygga en stabil grund för vidare studier inom matematik, inklusive mer avancerade områden som algebra, geometri och statistik. Att kunna arbeta med heltal, bråktal och decimaltal är avgörande för att lösa problem i vardagen såväl som inom olika vetenskapliga discipliner.
+3. **Multiplikation och division**: Vid multiplikation av decimaltal multipliceras talen precis som heltal, och decimalerna beaktas först efteråt. Vid division av decimaltal kan resultatet ibland uttryckas i bråkform eller avrundas.
+
+### Exempel på beräkningar med decimaltal
+
+Exempel 1: Addition av decimaltal  
+Addera 2.7 och 3.45:
+\[
+2.7 + 3.45 = 6.15
+\]
+
+Exempel 2: Multiplikation av decimaltal  
+Multiplicera 1.2 med 0.5:
+\[
+1.2 \times 0.5 = 0.6
+\]
+
+![bildlänk](Decimal_operation_example.png)  
+
+Genom att behärska dessa typer av tal och deras operationer lägger vi grunden för en djupare förståelse av matematiska koncept och utökar våra verktyg för att lösa en mängd problem, både i teorin och praktiska tillämpningar.

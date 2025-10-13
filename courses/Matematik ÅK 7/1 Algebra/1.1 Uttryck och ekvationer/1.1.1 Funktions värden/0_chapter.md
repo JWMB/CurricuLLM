@@ -1,55 +1,63 @@
-## Funktions värden
+## Funktionsvärden
 
-Inom matematik, och särskilt i studiet av funktioner, är begreppet "funktions värden" centralt. När vi pratar om en funktion talar vi om en särskild relation mellan två mängder, som ofta kallas för definitionsmängden och värdemängden. Funktions värden är de resultat eller utdata som erhålls när en viss input anges i funktionen.
+När vi talar om funktionsvärden inom algebra, avser vi specifika outputvärden som uppstår när vi matar in ett visst inputvärde i en funktion. En funktion kan ses som en maskin som förvandlar det tal du ger den (input) till ett annat tal (output), baserat på en bestämd regel eller formel. För linjära funktioner, som är en av de mest grundläggande typerna av funktioner, är denna regel alltid i form av en linjär ekvation.
 
-### Vad är en funktion?
+### Förstå Funktionsvärden
 
-En funktion är en regel som kopplar varje element \(x\) i en mängd \(A\) (definitionsmängd) till exakt ett element \(f(x)\) i en mängd \(B\) (värdemängd). Det kan formellt anges som:
+En linjär funktion brukar ofta skrivas i formen: 
 
-\[ 
-f: A \rightarrow B 
+\[ f(x) = mx + b \]
+
+Här är:
+- \( f(x) \) funktionsvärdet, eller outputen.
+- \( m \) riktningskoefficienten (lutningen) av linjen.
+- \( x \) inputvärdet, också kallad oberoende variabel.
+- \( b \) konstant termen, där linjen korsar y-axeln.
+
+När vi sätter ett specifikt värde för \( x \) i formeln, kan vi beräkna \( f(x) \), vilket är funktionsvärdet. Detta visar hur varje värde på \( x \) har ett motsvarande \( y \)-värde eller funktionsvärde.
+
+![intro-to-function-values](intro-to-function-values.png)
+
+### Exempel på Beräkning av Funktionsvärden
+
+Låt oss beräkna funktionsvärdet för en enkel linjär funktion. Anta att vi har funktionen:
+
+\[ f(x) = 2x + 3 \]
+
+Här är \( m = 2 \) och \( b = 3 \).
+
+#### Exempel 1: Beräkna \( f(4) \)
+
+För att hitta funktionsvärdet när \( x = 4 \), ersätter vi \( x \) med 4 i ekvationen.
+
+\[
+f(4) = 2(4) + 3 = 8 + 3 = 11
 \]
 
-där \(f(x)\) är funktionsvärdet av \(x\). 
+Så, funktionsvärdet \( f(4) \) är 11.
 
-### Exempel på funktionsvärden
+#### Exempel 2: Beräkna \( f(-2) \)
 
-Låt oss överväga en enkel funktion:
+För att hitta funktionsvärdet när \( x = -2 \), ersätter vi \( x \) med -2:
 
-\[ 
-f(x) = 2x + 3 
+\[
+f(-2) = 2(-2) + 3 = -4 + 3 = -1
 \]
 
-I detta fall är \(f(x)\) en linjär funktion där varje värde av \(x\) ger ett särskilt värde av \(f(x)\). Om vi vill beräkna funktionsvärdena för specifika \(x\)-värden kan vi göra det som följande:
+Så, funktionsvärdet \( f(-2) \) är -1.
 
-1. För \(x = 1\):
-   \[
-   f(1) = 2(1) + 3 = 5
-   \]
-   Så, funktionsvärdet när \(x = 1\) är 5.
+### Förklaring av Funktionsvärden i Grafisk Form
 
-2. För \(x = 4\):
-   \[
-   f(4) = 2(4) + 3 = 11
-   \]
-   Så, funktionsvärdet när \(x = 4\) är 11.
+Grafiskt uttrycks en linjär funktion som en rak linje i ett koordinatsystem. Varje punkt på linjen representerar ett par av inputvärden och funktionsvärden. Om vi ser på ett diagram över en linjär funktion:
 
-3. För \(x = -2\):
-   \[
-   f(-2) = 2(-2) + 3 = -1
-   \]
-   Så, funktionsvärdet när \(x = -2\) är -1.
+![graph-of-linear-function](graph-of-linear-function.png)
 
-Denna process av att sätta in olika värden för \(x\) i funktionen låter oss förstå hur funktionen beter sig och vilka värden den kan ge.
+Varje x-värde på den horisontella axeln (x-axeln) motsvarar ett specifikt funktionsvärde på den vertikala axeln (y-axeln), där varje koordinatpunkt på linjen är av formen \((x, f(x))\).
 
-### Grafisk representation av funktionsvärden
+### Viktiga Punkter att Notera
 
-Ett bra sätt att visualisera funktionsvärden är genom att rita upp grafen av funktionen. För vår funktion \(f(x) = 2x + 3\) kan vi skapa en graf som visar hur \(f(x)\) ändras med olika \(x\)-värden.
+- Ett funktionsvärde kan ses som en y-värde, eller det värde som din funktion ger när du sätter in ett visst x-värde.
+- Funktionen \( f(x) = mx + b \) pryder en enkel rak linje när den plottas, vilket innebär att förändring i \( x \) resulterar i proportionell förändring i \( f(x) \).
+- Förståelse av funktionsvärden är kritiskt för att kunna tolka och manipulera funktioner i algebraiska, numeriska och grafiska sammanhang.
 
-![Graf av funktionen f(x) = 2x + 3](graf_av_funktion.png)
-
-I grafen visas linjen för funktionens värden, där varje punkt på linjen representerar ett \(x\)-värde och dess motsvarande \(f(x)\) värde. Genom att studera grafen kan man snabbare identifiera egenskaper hos funktionen, såsom lutning och intercept.
-
-### Sammanfattning
-
-Funktions värden är en grundläggande del i undersökning av matematiska relationer. Genom att beräkna och visualisera dessa värden kan vi få en djupare förståelse av hur funktioner fungerar. Att kunna identifiera funktions värden är en viktig färdighet i både algebra och andra matema-tiska discipliner, och det hjälper oss att lösa komplexa problem genom att använda logik och struktur.
+När du bemästrar beräkning och förståelse av funktionsvärden, får du en stark grund för att utforska och analysera mer komplexa funktioner och deras tillämpningar inom matematik och vetenskap.

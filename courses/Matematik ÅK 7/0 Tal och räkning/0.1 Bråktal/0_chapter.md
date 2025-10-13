@@ -1,25 +1,45 @@
 ## Bråktal
 
-Bråktal är tal som representerar ett förhållande mellan två heltal, där det första talet kallas täljare och det andra nämnare. De skrivs ofta i formen \(\frac{a}{b}\), där \(a\) är täljaren och \(b\) är nämnaren. Bråktal används för att uttrycka delar av en helhet, och de är en viktig del av matematik och vardagligt liv.
+Bråktal är en typ av tal som representerar en andel eller del av ett helt objekt. Eftersom många situationer i vardagen innebär att vi hanterar delar av helheter, är bråktal ett grundläggande begrepp inom matematik och används ofta i olika tillämpningar, från ekonomi till vetenskap.
 
-### Exempel på bråktal
+### Vad är ett bråktal?
 
-Ett enkelt exempel på ett bråktal är \(\frac{3}{4}\), vilket betyder att vi har tre delar av något som har delats upp i fyra lika stora delar. Om du har en pizza som är delad i fyra bitar och du har 3 av dem, så kan det uttryckas som \(\frac{3}{4}\). 
+Ett bråktal består av två huvudkomponenter: täljare och nämnare. Täljaren visar hur många delar det finns, medan nämnaren visar hur många delar objektet delas in i. Bråktal skrivs ofta i formen \(\frac{a}{b}\).
 
-![Pizza delad i fyra](</courses/Matematik ÅK 7/0 Tal och räkning/0.1 Bråktal/pizza_delad_i_fyra.png>)
+![Bråkdelens struktur](filnamn:bråkdelens-struktur.png)
+
+Till exempel, \(\frac{3}{4}\) är ett bråktal där 3 är täljaren och 4 är nämnaren. Detta bråktal representerar tre fjärdedelar av ett helt, och kan också ses som en division där täljaren delas med nämnaren.
 
 ### Typer av bråktal
 
-Bråktal kan delas in i tre huvudkategorier:
+Det finns olika typer av bråktal som är viktiga att förstå:
 
-1. **Egna bråktal (även kallade äkta bråktal)**: Täljaren är mindre än nämnaren, som \(\frac{2}{5}\).
+1. **Riktiga bråktal**: Dessa är bråktal där täljaren är mindre än nämnaren, till exempel \(\frac{2}{3}\).
    
-2. **Oegna bråktal (eller oäktade bråktal)**: Täljaren är större än eller lika med nämnaren, som \(\frac{5}{3}\) eller \(\frac{4}{4}\). Dessa kan även skrivas som blandade tal, t.ex. \(\frac{5}{3} = 1 \frac{2}{3}\).
+2. **Falska bråktal**: Här är täljaren större än eller lika med nämnaren, vilket resulterar i ett tal som är större än eller lika med 1, exempelvis \(\frac{5}{4}\).
 
-3. **Negativa bråktal**: När antingen täljaren eller nämnaren är negativ, som \(-\frac{1}{2}\) eller \(\frac{-3}{4}\).
+3. **Blandade tal**: Ett blandat tal innehåller både ett heltal och ett riktigt bråktal, som till exempel \(1\frac{1}{2}\), vilket betyder "en och en halv".
+
+### Exemplifiering
+
+För att bättre förstå bråktal, låt oss titta på några praktiska exempel:
+
+1. **Färghjulet**: Tänk dig ett hjul som är indelat i fyra lika sektioner. Om tre av dessa är markerade i rött, representerar det röda området \(\frac{3}{4}\) av hjulet.
+
+2. **Pizzaugn**: Om en pizza skärs upp i åtta lika stora bitar och någon äter tre bitar, kan vi säga att \(\frac{3}{8}\) av pizzan har konsumerats.
 
 ### Användning av bråktal
 
-Bråktal används i många praktiska sammanhang. De kan hjälpa till med att beräkna delningar, som när man ska dela mat, eller vid mätningar, som när man använder mått i recept. Att förstå bråktal är avgörande för att lösa problem inom olika områden som fysik och ekonomi.
+Bråktal är användbara i många olika sammanhang, såsom:
 
-I nästa avsnitt kommer vi att titta närmare på hur man utför addition och subtraktion med bråktal, vilket är en grundläggande färdighet att bemästra för att kunna arbeta med dessa taltyper effektivt.
+- Beräkning av proportioner i recept.
+- Förståelse av statistisk distribution.
+- Finansberäkningar och budgetering, t.ex. uppskattning av kostnadsandelar.
+
+### Viktiga begrepp
+
+- **Ekvivalenta bråktal**: Två eller flera bråktal som representerar samma mängd, exempelvis \(\frac{1}{2}\) och \(\frac{2}{4}\).
+- **Kombination**: Att kunna lägga till och dra av bråktal, vilket kräver en förståelse av gemensamma nämnare.
+- **Förhållanden**: Jämförelse av bråktal för att avgöra proportioner eller delar mellan olika objekt.
+
+Bråktal är en viktigt grund för mer komplexa matematiska operationer och en kritisk komponent inom många vetenskapsområden, inklusive kemi och fysik. Genom att förstå bråktal kan man bättre hantera och analysera data och lösa problem i vardagen.

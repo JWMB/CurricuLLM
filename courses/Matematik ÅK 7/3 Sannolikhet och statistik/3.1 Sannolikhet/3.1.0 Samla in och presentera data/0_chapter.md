@@ -1,54 +1,40 @@
 ## Samla in och presentera data
 
-Att samla in och presentera data är en grundläggande del av både statistisk analys och beslutstagande. Här går vi igenom de olika stegen i processen för att effektivt samla in data samt hur man kan presentera den på ett förståeligt sätt.
+Att samla in och presentera data på ett korrekt sätt är fundamentalt för att förstå och analysera information inom ämnet sannolikhet och statistik. Det innefattar flera steg, från insamling av rådata till bearbetning och slutligen presentation, för att ge en klar och tydlig bild av vad datan representerar.
 
 ### Insamling av data
 
-Det första steget i att samla in data är att bestämma vilken typ av data som behövs och vilket syfte insamlingen har. Data kan delas in i två huvudkategorier: kvalitativ och kvantitativ.
+Insamling av data är det första steget i varje analysprocess. Det innebär att information hämtas och registreras från olika källor. Kvaliteten och tillförlitligheten hos data är avgörande för att generera meningsfulla resultat. 
 
-1. **Kvalitativ data**: Denna typ av data representerar egenskaper eller kvaliteter och kan oftast inte mätas numeriskt. Exempel inkluderar svar från enkäter som frågar om åsikter eller preferenser.
-   
-2. **Kvantitativ data**: Denna typ av data är numerisk och kan mätas. Den kan delas in i två underkategorier:
-   - **Diskret data**: Data som kan räkna (t.ex. antal elever i en klass).
-   - **Kontinuerlig data**: Data som kan anta vilket värde som helst inom ett intervall (t.ex. längd, vikt, temperatur).
+#### Typer av data
+Data kan vara antingen kvalitativ eller kvantitativ. Kvalitativ data består av icke-numeriska information, som enkätsvar eller observationer, medan kvantitativ data består av numeriska värden. 
 
-En metod för att samla in data kan vara att genomföra en enkätundersökning, där respondenter får svara på frågor via ett formulär. Information kan också inhämtas genom observation, experiment, eller från existerande databaser.
+![Typ_av_data](link_to_typ_av_data_image.jpg)
+
+Exempel:
+- **Kvalitativ data:** kommentarerna från en kundundersökning.
+- **Kvantitativ data:** antalet objekt sålda under en månad.
+
+### Bearbetning och analys av data
+
+Efter insamling av data inleds bearbetningen, vilket inkluderar organisering, sortering och filtrering av data för att säkerställa att den är redo för analys. Den bearbetade datan är ofta lättare att tolka och kan användas för att göra statistiska beräkningar som medelvärde, median, och typvärde.
 
 ### Presentation av data
 
-Efter att data har samlats in, är det viktigt att den presenteras på ett tydligt och informativt sätt. Några vanliga sätt att presentera data inkluderar:
+Presentationen av data innefattar användningen av visuella verktyg såsom diagram och grafer för att effektivt kommunicera informationen. Detta steg är kritiskt för att göra insikter begripliga och för att förenkla komplexa sammanhang.
 
-1. **Tabeller**: En tabell presenterar data i rader och kolumner och ger en översikt över informationen. 
-   
-   Exempel: Nedan är en enkel tabell som visar antalet böcker lästa av studenter under ett år:
+#### Typer av grafiska representationer
 
-   | Student    | Antal böcker |
-   |------------|--------------|
-   | Anna       | 5            |
-   | Erik       | 3            |
-   | Lisa       | 7            |
-   | Johan      | 2            |
+1. **Stapeldiagram:** Bra för att visa jämförelser mellan kategorier.
+2. **Linjediagram:** Används för att visualisera förändringar över tid.
+3. **Cirkeldiagram:** Används för att visa andelar inom en helhet.
 
-2. **Diagram och grafer**: Användning av visuella verktyg som stapeldiagram, cirkeldiagram, och linjediagram kan göra det lättare att förstå och jämföra data.
-   
-   - **Stapeldiagram** kan användas för att jämföra olika grupper. 
-   - **Cirkeldiagram** kan visa andelar av ett helt. 
-   - **Linjedigram** är användbara för att visa förändringar över tid.
+![Typ_av_diagram](link_to_typ_av_diagram_image.jpg)
 
-   ![Diagram som visar antalet böcker lästa av studenter](https://example.com/stapeldiagram_bocker)
+### Exempel: Jämförelse av antal sålda produkter
 
-3. **Grafiska sammanställningar**: Utförliga diagram och visualiseringar, som boxplotar eller histogram, kan ge en djupare förståelse för datans fördelning och centralvärden.
+Anta att du vill jämföra försäljningen av olika produkter under en viss period. Du skulle börja med att samla in data, till exempel försäljningssiffror för varje produkt. Därefter bearbetar du denna data för att få fram relevanta siffror. Slutligen presenterar du denna data i ett stapeldiagram där varje produkt representeras med en stapel vars höjd motsvarar försäljningssiffrorna. 
 
-4. **Statistiska sammanfattningar**: Beräkna medelvärde, median och typvärde ger en sammanfattning av centrala tendenser i datamängden. Det är viktigt att förstå innebörden av dessa termer i samband med datan.
+### Slutsats
 
-### Exempel på presentation av data
-
-Anta att vi har följande uppgifter från den tidigare tabellen över böcker lästa av studenterna. Vi kan beräkna följande:
-
-- **Medelvärde (genomsnitt)**: (5 + 3 + 7 + 2) / 4 = 4.25
-  
-- **Median**: När vi sorterar värdena i stigande ordning (2, 3, 5, 7) är medianen genomsnittet av de två mittersta värdena, vilket är (3 + 5) / 2 = 4.
-
-- **Typvärde**: Det värde som förekommer flest gånger. I detta fall förekommer inget värde flera gånger, så det finns inget typvärde.
-
-Genom att samla in och presentera data på ett strukturerat sätt kan vi dra mer meningsfulla slutsatser och fatta informerade beslut baserat på den insamlade informationen.
+Att samla in, bearbeta och presentera data är en grundläggande färdighet inom statistik och sannolikhet. Genom att förstå hur man effektivt arbetar med data kan man dra bättre slutsatser och fatta informerade beslut byggda på solid dataanalys.

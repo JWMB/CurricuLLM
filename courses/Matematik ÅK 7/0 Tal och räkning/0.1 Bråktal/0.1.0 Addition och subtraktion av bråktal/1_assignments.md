@@ -1,53 +1,50 @@
-# Tal och räkning
-### ----> Addition och subtraktion av bråktal
-
-## Svårighetsgrad 1
+## Addition och subtraktion av bråktal - Svårighetsgrad 1
 
 ### Uppgift 1
-**Question:** Vad är \( \frac{1}{4} + \frac{1}{4} \)?  
-**Hints:** Tänk på att bråktal med samma nämnare kan adderas genom att bara addera täljarna.  
-**Answer:** \( \frac{2}{4} \) eller \( \frac{1}{2} \)
+* **Question:** 1/4 + 1/4 = ?
+* **Hints:** Tänk på att bråktalen har samma nämnare. Hur kan du addera täljarna?
+* **Answer:** 1/4 + 1/4 = 2/4, vilket kan förenklas till 1/2.
 
 ### Uppgift 2
-**Question:** Subtrahera \( \frac{2}{5} - \frac{1}{5} \). Vad får du?  
-**Hints:** Kom ihåg att du bara behöver subtrahera täljarna om nämnarna är lika.  
-**Answer:** \( \frac{1}{5} \)
+* **Question:** Vilket är resultatet av 3/8 - 1/8?
+* **Hints:** När nämnarna är lika kan du subtrahera täljarna direkt.
+* **Answer:** 3/8 - 1/8 = 2/8, vilket kan förenklas till 1/4.
 
 ### Uppgift 3
-**Question:** Lägg ihop \( \frac{3}{10} + \frac{2}{10} \). Vad blir summan?  
-**Hints:** Räkna täljarna direkt, eftersom bråken har samma nämnare.  
-**Answer:** \( \frac{5}{10} \) eller \( \frac{1}{2} \)
+* **Question:** Addera 1/3 och 1/3. Vilket blir resultatet?
+* **Hints:** Kontrollera om nämnarna är lika och om täljarna kan adderas direkt.
+* **Answer:** 1/3 + 1/3 = 2/3.
 
-## Svårighetsgrad 2
+## Addition och subtraktion av bråktal - Svårighetsgrad 2
 
 ### Uppgift 1
-**Question:** Beräkna \( \frac{1}{3} + \frac{1}{6} \).  
-**Hints:** Du behöver en gemensam nämnare för att addera dessa bråktal. Vilken skulle det kunna vara?  
-**Answer:** \( \frac{1}{3} + \frac{1}{6} = \frac{2}{6} + \frac{1}{6} = \frac{3}{6} \) eller \( \frac{1}{2} \)
+* **Question:** Beräkna 1/2 + 1/3.
+* **Hints:** Du behöver ha samma nämnare för att kunna addera bråktal. Hitta en gemensam nämnare först.
+* **Answer:** 1/2 + 1/3 = 3/6 + 2/6 = 5/6.
 
 ### Uppgift 2
-**Question:** Vad blir \( \frac{5}{8} - \frac{1}{4} \)?  
-**Hints:** Omvandla \( \frac{1}{4} \) till en bråkdel med samma nämnare som \( \frac{5}{8} \).  
-**Answer:** \( \frac{5}{8} - \frac{2}{8} = \frac{3}{8} \)
+* **Question:** Subtrahera 1/4 från 3/5.
+* **Hints:** Hitta en gemensam nämnare för de två bråktalen innan du subtraherar.
+* **Answer:** 3/5 - 1/4 = 12/20 - 5/20 = 7/20.
 
 ### Uppgift 3
-**Question:** Vad får du när du lägger ihop \( \frac{2}{7} + \frac{3}{14} \)?  
-**Hints:** Tänk på att omvandla \( \frac{2}{7} \) till en bråkdel med nämnaren 14.  
-**Answer:** \( \frac{2}{7} + \frac{3}{14} = \frac{4}{14} + \frac{3}{14} = \frac{7}{14} \) eller \( \frac{1}{2} \)
+* **Question:** Vad blir summan av 2/7 + 3/14?
+* **Hints:** Om du kan göra nämnarna lika hjälper det dig att enkelt addera bråktalen.
+* **Answer:** 2/7 + 3/14 = 4/14 + 3/14 = 7/14 = 1/2.
 
-## Svårighetsgrad 3
+## Addition och subtraktion av bråktal - Svårighetsgrad 3
 
 ### Uppgift 1
-**Question:** Lös \( \frac{5}{12} + \frac{1}{3} - \frac{1}{4} \).  
-**Hints:** Finn en gemensam nämnare för alla bråken innan du gör beräkningarna.  
-**Answer:** \( \frac{5}{12} + \frac{4}{12} - \frac{3}{12} = \frac{6}{12} = \frac{1}{2} \)
+* **Question:** Beräkna 5/8 - 1/6. Svara i förenklad form.
+* **Hints:** Hitta den minsta gemensamma nämnaren för 8 och 6 och uttryck båda bråktalen med den gemensamma nämnaren.
+* **Answer:** Minsta gemensamma nämnaren är 24. Så 5/8 = 15/24 och 1/6 = 4/24. Sedan: 15/24 - 4/24 = 11/24.
 
 ### Uppgift 2
-**Question:** Tänk dig att du har \( \frac{3}{5} - \frac{1}{10} + \frac{1}{2} \). Vad blir resultatet?  
-**Hints:** Försök att omvandla alla bråk så att de har samma nämnare.  
-**Answer:** \( \frac{6}{10} - \frac{1}{10} + \frac{5}{10} = \frac{10}{10} = 1 \)
+* **Question:** Om du har två bråktal, 4/9 och 2/3, hur kan du veta vilket är störst och genomföra operationen 4/9 - 2/3?
+* **Hints:** Gör om 2/3 till en form med nämnaren 9, subtrahera sedan.
+* **Answer:** 2/3 = 6/9, så 4/9 - 6/9 = -2/9. 2/3 är större än 4/9.
 
 ### Uppgift 3
-**Question:** Om en kakbit är \( \frac{3}{8} \) och du ger bort \( \frac{1}{4} \) av kakbiten, hur mycket har du kvar?  
-**Hints:** Omvandla \( \frac{1}{4} \) till åttendel så att du kan subtrahera direkt.  
-**Answer:** \( \frac{3}{8} - \frac{2}{8} = \frac{1}{8} \)
+* **Question:** Finn felen i stegen av följande bråktalssubtraktion: "För att beräkna 2/5 - 3/10, använde jag minsta gemensamma nämnaren 15 och gjorde det till 6/15 - 9/15 = -3/15 vilket förenklas till -1/5."
+* **Hints:** Kontrollera om nämnarna verkligen är korrekt omvandlade och om subtraktionen gjordes korrekt.
+* **Answer:** Minsta gemensamma nämnare är faktiskt 10, inte 15. 2/5 = 4/10 och 3/10 är korrekt, så 4/10 - 3/10 = 1/10, inte -1/5.

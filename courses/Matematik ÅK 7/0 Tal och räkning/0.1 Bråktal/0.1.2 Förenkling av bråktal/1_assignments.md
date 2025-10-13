@@ -1,52 +1,52 @@
-# Förenkling av bråktal
+## Förenkling av bråktal
 
-## Svårighetsgrad 1
+### Svårighetsgrad 1
 
-### Uppgift 1
-* **Question:** Vad är 2/4 förenklat?
-* **Hints:** Tänk på vilket tal som är gemensamt för både täljaren och nämnaren. Kan du dela både med samma tal?
-* **Answer:** 1/2
+#### Uppgift 1
+- **Question:** Förenkla bråktalet 8/12.
+- **Hints:** Fundera över vilket tal som kan delas med både 8 och 12. Detta hjälpmedel kallas för störst gemensam delare (SGD).
+- **Answer:** 2/3 (eftersom båda täljaren och nämnaren kan delas med 4, deras SGD).
 
-### Uppgift 2
-* **Question:** Förenkla bråktalet 6/9.
-* **Hints:** Tänk på att hitta den största gemensamma delaren (SGD) för 6 och 9.
-* **Answer:** 2/3
+#### Uppgift 2
+- **Question:** Är bråket 4/6 i sin enklaste form? Om inte, förenkla det.
+- **Hints:** Hitta ett tal som kan dividera både täljaren och nämnaren utan att lämna en rest.
+- **Answer:** Nej, det är inte i sin enklaste form. Det kan förenklas till 2/3 genom att dela både täljare och nämnare med 2.
 
-### Uppgift 3
-* **Question:** Vad får du när du förenklar bråktalet 10/15?
-* **Hints:** Kan du räkna ut vad 10 och 15 har gemensamt?
-* **Answer:** 2/3
+#### Uppgift 3
+- **Question:** Förenkla bråktalet 15/20.
+- **Hints:** Leta efter den största gemensamma faktor (SGF) för 15 och 20. Börja med att lista primtalsfaktorerna för båda talen.
+- **Answer:** 3/4 (eftersom både 15 och 20 kan delas med 5).
 
-## Svårighetsgrad 2
+### Svårighetsgrad 2
 
-### Uppgift 1
-* **Question:** Förenkla bråktalet 8/12 och förklara din process.
-* **Hints:** Identifiera SGD för täljaren och nämnaren. Vad kan du dividera båda med?
-* **Answer:** 2/3; jag delade både 8 och 12 med 4.
+#### Uppgift 1
+- **Question:** Förenkla bråktalet 18/24. Vilka steg använder du för att förenkla ett bråk?
+- **Hints:** Identifiera SGF för täljaren och nämnaren. Tänk på att dela bråket steg för steg.
+- **Answer:** 3/4. (SGF är 6, så dela både täljaren och nämnaren med 6.)
 
-### Uppgift 2
-* **Question:** Ge ett exempel på ett bråktal som kan förenklas till 1/4. Vilket bråktal valde du och hur förenklade du det?
-* **Hints:** Tänk på att multiplicera både täljaren och nämnaren med samma tal.
-* **Answer:** 4/16; eftersom 4 och 16 båda kan delas med 4, så blir det 1/4.
+#### Uppgift 2
+- **Question:** Eric säger att 21/35 kan förenklas till 3/5, medan Maria tror att det förenklas till 3/7. Vem har rätt och varför?
+- **Hints:** Hitta SGF för 21 och 35. Analysera hur bråket förenklas baserat på division med denna faktor.
+- **Answer:** Maria har rätt. SGF för 21 och 35 är 7, så när man delar både täljare och nämnare med 7 får man 3/5.
 
-### Uppgift 3
-* **Question:** Tänk på bråktalet 14/28. Beskriv hur du kan förenkla det och ange den slutliga formen.
-* **Hints:** Vad är det största talet som du kan använda för att dela både 14 och 28?
-* **Answer:** 1/2; jag delade båda med 14.
+#### Uppgift 3
+- **Question:** Förenkla bråktalet 27/36 och beskriv hur du kom fram till svaret.
+- **Hints:** Hitta SGF för 27 och 36 genom att räkna ut deras primtalsfaktorer. Använd detta för att förenkla bråket.
+- **Answer:** 3/4. SGF för 27 och 36 är 9, så dela båda med 9 för att få 3/4.
 
-## Svårighetsgrad 3
+### Svårighetsgrad 3
 
-### Uppgift 1
-* **Question:** Förenkla bråktalet 18/24 och diskutera varför det är viktigt att förenkla bråktal.
-* **Hints:** Använd SGD. Tänk också på hur förenklade bråktal kan göra beräkningar lättare.
-* **Answer:** 3/4; det är viktigt att förenkla så vi kan jämföra bråktal och utföra operationer mer effektivt.
+#### Uppgift 1
+- **Question:** Förenkla följande bråktal och beskriv processen: 50/125.
+- **Hints:** Identifiera ett tal som är en faktor för både 50 och 125. Kolla om detta tal är primtal eller om flera faktorer behövs.
+- **Answer:** 2/5. (Både 50 och 125 kan delas med 25, som ger det enklaste bråket 2/5 efter division.)
 
-### Uppgift 2
-* **Question:** Om bråktalet 30/45 förenklas, vilken algoritm eller metod skulle du använda? Förklara din metod.
-* **Hints:** Fundera på hela nummer och deras primtalsfaktorisering.
-* **Answer:** Jag skulle använda primtalsfaktorisering för att se att 30 = 2 × 3 × 5 och 45 = 3^2 × 5, vilket ger 2/3 efter kvotdelning av gemensamma faktorer.
+#### Uppgift 2
+- **Question:** Hur kan du bevisa att bråktalet 42/56 är i enklaste form eller förenkla det om det inte är det?
+- **Hints:** Primtalsfaktorisera 42 och 56, och använd dessa för att hitta SGF.
+- **Answer:** Bråktalet kan förenklas till 3/4. SGF för 42 och 56 är 14, så delen båda med 14.
 
-### Uppgift 3
-* **Question:** Tänk dig att du har bråktalen 15/20 och 9/12. Förenkla båda och diskutera om de är lika stora när de har förenklats.
-* **Hints:** Förenkla båda bråken och jämför dem sedan. Tänk på proportioner.
-* **Answer:** 3/4 och 3/4; de är lika stora när de förenklas. Båda representerar samma del av en helhet.
+#### Uppgift 3
+- **Question:** Förenkla 144/192 och förklara din metod.
+- **Hints:** Utför primtalsfaktorisering av både täljare och nämnare för att hitta SGF. Dela bråket med detta SGF.
+- **Answer:** 3/4. (Efter primtalsfaktorisering finner man att SGF är 48. Dela 144 och 192 med 48 för att få 3/4.)

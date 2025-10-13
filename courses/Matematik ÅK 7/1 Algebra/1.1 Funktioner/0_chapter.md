@@ -1,53 +1,45 @@
-# Funktioner
+## Funktioner
 
-Funktioner är en grundläggande byggsten inom matematik och används för att beskriva relationer mellan olika variabler. En funktion definieras som en specifik regel som kopplar varje element från en mängd (domän) till exakt ett element i en annan mängd (värdemängd). Genom att förstå funktioner kan vi modellera olika fenomen, lösa problem och analysera data.
+Funktioner är en central del av algebra och matematisk analys. De är verktyg som hjälper oss att beskriva samband mellan olika variabler på ett systematiskt och förutsägbart sätt. I detta avsnitt kommer vi att utforska grundläggande begrepp kring funktioner, hur de definieras och används, samt särskilda typer av funktioner som linjära funktioner.
 
-## Linjära funktioner
+### Vad är en funktion?
 
-En linjär funktion är en speciell typ av funktion som kan beskrivas med en linjär ekvation på formen:
+En funktion är en regel som tilldelar varje värde i en given mängd (kallas definitionsmängden eller domänen) ett unikt värde i en annan mängd (kallas värdemängden eller kodomänen). Funktionen kan representeras som en formel, en graf eller en tabell.
 
-\[ f(x) = mx + b \]
+#### Definiton och notation
 
-Där:
-- \( m \) är lutningen av linjen, vilket representerar hur mycket \( f(x) \) ändras när \( x \) ökar med ett enhet.
-- \( b \) är konstanten som representerar skärningen med y-axeln, det vill säga värdet av \( f(x) \) när \( x = 0 \).
+En funktion oftast noteras som \(f(x)\), där \(f\) är namnet på funktionen och \(x\) är den oberoende variabeln. När vi säger att \(y = f(x)\), menar vi att funktionen \(f\) tar \(x\) som indata och producerar \(y\) som utdata. 
 
-### Exempel:
+![Bildlänk](funktioners-diagram.png)
 
-Anta att vi har en linjär funktion som beskriver kostnaden av att köpa \( x \) kilo äpplen, där varje kilo kostar 20 kronor. Funktionen kan skrivas som:
+Definitionen av funktioner i matematik är strikt: för varje värde av \(x\) får det finnas ett och endast ett värde av \(f(x)\). Detta definierar en unik koppling mellan elementen.
 
-\[ f(x) = 20x \]
+#### Exempel på funktion
 
-I det här fallet är:
-- Lutningen \( m = 20 \) (kostnaden per kilo)
-- Skärningen med y-axeln \( b = 0 \) (kostnaden är 0 när inga äpplen köps)
+Anta att vi har funktionen \(f(x) = 2x + 3\). För att hitta ett funktionsvärde, sätter vi in ett specifikt värde av \(x\) och beräknar \(f(x)\):
 
-För att illustrera detta, kan vi rita en graf över funktionen:
+- Om \(x = 1\), då är \(f(1) = 2 \times 1 + 3 = 5\).
+- Om \(x = -2\), då är \(f(-2) = 2 \times (-2) + 3 = -1\).
 
-![linjär_funktion_äpplen](https://www.example.com/linjär_funktion_äpplen) 
+Funktionen \(f(x) = 2x + 3\) är ett exempel på en linjär funktion, vilket vi kommer att gå närmare in på i ett kommande avsnitt.
 
-Grafen kommer att vara en rak linje som börjar på origo (0, 0) och stiger med en konstant hastighet.
+### Avbildning och grafisk representation
 
-## Funktionsvärden
+Funktioner kan representeras grafiskt, vilket hjälper oss att visuellt förstå relationen mellan \(x\) och \(f(x)\). Grafen till en funktion är den geometriska plats av alla punkter \((x, f(x))\) där \(x\) tillhör definitionsmängden.
 
-Funktionsvärden är resultatet som vi får genom att sätta in ett specifikt värde för \( x \) i funktionen. Genom att räkna ut funktionsvärden kan vi förstå hur funktionen beter sig och vilken typ av samband som finns mellan de variabler som studeras.
+![Bildlänk](grafisk-representation-av-funktion.png)
 
-### Exempel:
+Här är en enkel graf av funktionen \(f(x) = 2x + 3\). Observera att i detta fall är grafen en linje, vilket är typiskt för linjära funktioner. Mer komplexa funktioner kan ha kurvformade grafer.
 
-Givet funktionen \( f(x) = 2x + 3 \):
+### Typer av funktioner
 
-För att räkna ut funktionsvärdet när \( x = 4 \):
+Funktioner kan delas in i olika typer beroende på deras egenskaper. Några centrala typer av funktioner inkluderar:
 
-\[ 
-f(4) = 2(4) + 3 = 8 + 3 = 11 
-\]
+- **Linjära funktioner:** Funktionen har formen \(f(x) = ax + b\), och dess graf är alltid en rak linje.
+- **Quadratiska funktioner:** Funktionen har formen \(f(x) = ax^2 + bx + c\), vars graf är en parabel.
+- **Exponentialfunktioner:** Funktionen har formen \(f(x) = a \cdot b^x\), där \(b\) är en konstant bas.
+- **Periodiska funktioner:** Funktioner som upprepas på regelbundna intervaller, som sinus och cosinus.
 
-Detta innebär att när \( x \) är 4, är funktionsvärdet 11. 
+### Sammanfattning
 
-Att räkna ut och undersöka olika funktionsvärden ger oss en djupare förståelse för hur ändringar i \( x \) påverkar \( f(x) \), och kan visualiseras i ett koordinatsystem.
-
-![funktionsvärden](https://www.example.com/funktionsvärden) 
-
-Genom att plotta olika punkter för \( f(x) = 2x + 3 \) i ett koordinatsystem kan vi se hur grafen för funktionen ser ut och hur den sträcker sig genom olika funktionsvärden. Genom att studera olika värden av \( x \) kan vi också observera linjens lutning och skärningspunkter.
-
-Att förstå och arbeta med funktioner är avgörande i flera områden inom både teoretisk och tillämpad matematik. Det leder till insikter inom olika discipliner, inklusive ekonomi, fysisk vetenskap och ingenjörskonst.
+Funktioner är fundamentala matematiska verktyg som används för att beskriva relationer mellan variabler. Genom att förstå funktioners notation, definition och olika typer kan vi bättre modellera och analysera verkliga fenomen. I kommande avsnitt kommer vi att utforska linjära funktioner mer ingående samt hur funktioner används för specifika beräkningar eller prediktioner.

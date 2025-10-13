@@ -1,68 +1,70 @@
-## Sannolikhet
+# Sannolikhet
 
-### Svårighetsgrad 1
+## Svårighetsgrad 1
 
-**Uppgift 1**  
-*Question:* Om du har en påse med 3 röda bollar och 2 blå bollar, vad är sannolikheten att du drar en röd boll?  
-*Hints:* Tänk på antalet bollar och hur många av dem som är röda.  
-*Answer:* Sannolikheten att dra en röd boll är 3/5 eller 60%.
+### Uppgift 1
+**Question**: Vad är sannolikheten att få en femma när du kastar en vanlig sexsidig tärning?
 
----
+**Hints**: Tänk på hur många sidor tärningen har och hur många av dem visar siffran fem.
 
-**Uppgift 2**  
-*Question:* Du kastar en vanlig sexsidig tärning. Vad är sannolikheten att få en femma?  
-*Hints:* Kom ihåg att en tärning har 6 sidor och alla sidor är lika sannolika.  
-*Answer:* Sannolikheten att få en femma är 1/6 eller ungefär 16,67%.
+**Answer**: Sannolikheten är 1/6 eftersom det finns en femma och totalt sex möjliga utfall.
 
----
+### Uppgift 2
+**Question**: Om du har en påse med 5 röda och 3 blå kulor, vad är sannolikheten att du drar ut en blå kula på första försöket?
 
-**Uppgift 3**  
-*Question:* Om du slumpar ett kort från en vanlig kortlek med 52 kort, vad är sannolikheten att kortet är en kung?  
-*Hints:* Tänk på hur många kungar som finns i en kortlek.  
-*Answer:* Sannolikheten att dra en kung är 4/52, vilket kan förenklas till 1/13 eller cirka 7,69%.
+**Hints**: Räkna antalet blå kulor och jämföra det med det totala antalet kulor i påsen.
 
----
+**Answer**: Sannolikheten är 3/8 eftersom det finns 3 blå kulor av totalt 8 kulor.
 
-### Svårighetsgrad 2
+### Uppgift 3
+**Question**: Du kastar en mynt. Vilken sannolikhet har du att få "krona"?
 
-**Uppgift 1**  
-*Question:* Du har en påse med 4 röda, 3 gröna och 5 gula bollar. Om du drar en boll utan att titta, vad är sannolikheten att den är antingen grön eller gul?  
-*Hints:* Räkna upp antalet bollar och sedan de bollar som är gröna och gula.  
-*Answer:* Det finns totalt 12 bollar. Sannolikheten för antingen grön eller gul är (3+5)/12 = 8/12, vilket förenklas till 2/3 eller cirka 66,67%.
+**Hints**: Tänk på hur många möjliga resultat som finns när du kastar ett mynt.
 
----
+**Answer**: Sannolikheten är 1/2 eftersom det finns två möjliga utfall: "krona" eller "klave".
 
-**Uppgift 2**  
-*Question:* Om du har en tärning och en mynt, vad är sannolikheten att få en sexa på tärningen och krona på myntet?  
-*Hints:* Beräkna sannolikheten för vardera händelse och multiplicera dem.  
-*Answer:* Sannolikheten att få en sexa är 1/6 och för att få krona är 1/2. Så sannolikheten är (1/6) * (1/2) = 1/12 eller cirka 8,33%.
+## Svårighetsgrad 2
 
----
+### Uppgift 1
+**Question**: Om du har två tärningar, vad är sannolikheten att få en summa som är 8 när du kastar dem?
 
-**Uppgift 3**  
-*Question:* En bagare bakar 10 vetebröd, av vilka 3 är med kanel. Om du väljer ett bröd slumpmässigt, vad är sannolikheten att det inte är med kanel?  
-*Hints:* Tänk på antalet bröd totalt och hur många av dem som inte är med kanel.  
-*Answer:* Det finns 10 bröd totalt och 7 av dem är utan kanel, så sannolikheten är 7/10 eller 70%.
+**Hints**: Tänk på alla kombinationer av tärningar som ger summan 8 och jämför det med det totala antal möjliga kombinationer.
 
----
+**Answer**: Sannolikheten är 5/36. Kombinationsmöjligheterna är (2,6), (3,5), (4,4), (5,3), och (6,2). Varje tärning har 6 sidor, vilket ger totalt 36 kombinationer.
 
-### Svårighetsgrad 3
+### Uppgift 2
+**Question**: I en familj finns det fem personer: mamma, pappa, två döttrar och en son. Om en person väljs slumpmässigt att hjälpa till med att duka bordet, vilken är sannolikheten att det blir en av döttrarna?
 
-**Uppgift 1**  
-*Question:* En klass har 15 elever och läraren ska slumpa en elev att läsa högt. Vad är sannolikheten att den valda eleven är en flicka, om det finns 9 flickor i klassen?  
-*Hints:* Använd formeln för sannolikhet: antalet gynnsamma utfall delat med antalet möjliga utfall.  
-*Answer:* Sannolikheten att den valda eleven är en flicka är 9/15, vilket förenklas till 3/5 eller 60%.
+**Hints**: Räkna antalet döttrar och jämför det med det totala antalet familjemedlemmar.
 
----
+**Answer**: Sannolikheten är 2/5 eftersom det finns 2 döttrar av totalt 5 personer.
 
-**Uppgift 2**  
-*Question:* I en låda finns 3 svarta, 4 vita och 5 blå kulor. Om du drar två kulor samtidigt, vad är sannolikheten att båda är blå?  
-*Hints:* Tänk på hur många blå kulor det finns och hur många totalt. Beräkna sannolikheten steg för steg.  
-*Answer:* Sannolikheten att den första kulan är blå är 5/12. Efter att du dragit en blå kula, är det 4 blå kvar av totalt 11 kulor, så sannolikheten för den andra är 4/11. Sannolikheten för båda är (5/12) * (4/11) = 20/132, vilket förenklas till 5/33 eller cirka 15,15%.
+### Uppgift 3
+**Question**: Du har en kortlek med 52 kort. Vad är sannolikheten att den första kortet du drar är ett hjärter?
 
----
+**Hints**: Tänk på hur många hjärter det finns i en kortlek och jämför det med det totala antalet kort.
 
-**Uppgift 3**  
-*Question:* Om en påse innehåller 5 röda, 3 gröna och 2 gula godisar, vad är sannolikheten att du drar en röd godis efter att du har dragit en grön godis (utan att lägga tillbaka den)?  
-*Hints:* Räkna upp bollarna efter att den gröna godisen har dragits.  
-*Answer:* Efter att ha dragit en grön godis finns det 5 röda, 2 gula kvar och totalt 9 godisar. Sannolikheten att dra en röd godis nu är 5/9 eller cirka 55,56%.
+**Answer**: Sannolikheten är 13/52 eller 1/4 eftersom det finns 13 hjärter i en kortlek med 52 kort.
+
+## Svårighetsgrad 3
+
+### Uppgift 1
+**Question**: Du kastar tre tärningar. Vad är sannolikheten att få exakt två sexor?
+
+**Hints**: Räkna de olika kombinationerna som ger två sexor av tre kast och jämför med det totala antalet möjliga kombinationer.
+
+**Answer**: Sannolikheten är 75/216. Det finns 25 kombinationer som ger exakt två sexor (t.ex., (6,6,X) där X inte är 6). Det totala antalet kombinationer med tre tärningar är 6^3 = 216.
+
+### Uppgift 2
+**Question**: Du har ett antal kort, inklusive 7 röda, 5 blå och 8 gröna kort i en låda. Om du drar tre kort utan att titta, vad är sannolikheten att få minst ett grönt kort?
+
+**Hints**: Tänk på sannolikheten att inte få några gröna kort och använd komplementsatsen.
+
+**Answer**: Sannolikheten att inte få några gröna kort är (12/20) * (11/19) * (10/18) = 22/114. Så sannolikheten att få minst ett grönt kort är 1 - (22/114) = 92/114 eller förenklat ca 0.807.
+
+### Uppgift 3
+**Question**: I en idrottsklubb med 100 medlemmar, varav 60 män och 40 kvinnor. Du väljer slumpmässigt två medlemmar. Vad är sannolikheten att båda är kvinnor?
+
+**Hints**: Räkna sannolikheten för att den första och andra medlemmen är kvinnor och multiplicera dessa sannolikheter.
+
+**Answer**: Sannolikheten att den första är kvinna är 40/100. Om den första är kvinna, finns det 39 kvinnor kvar av 99 medlemmar. Så sannolikheten att båda är kvinnor är (40/100) * (39/99) = 1560/9900 = 0.157.

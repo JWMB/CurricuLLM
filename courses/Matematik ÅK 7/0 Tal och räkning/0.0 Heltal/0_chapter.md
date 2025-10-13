@@ -1,58 +1,40 @@
-# Tal och räkning
-
 ## Heltal
 
-Heltal är grundläggande matematiska enheter som används för att representera hela mängder, utan bråkdelar eller decimaler. Heltalen innefattar både positiva och negativa tal, samt noll. De kan skrivas som:
+Heltal är en grundläggande komponent inom matematik och är en av de första typerna av tal som studeras i detalj. De består av positiva och negativa heltal samt noll, vilket gör att de täcker alla hela siffror, både ovanför och under noll. Heltal används i vardagen för att räkna, mäta, och beskriva tal och kvantiteter utan några delar av ett helt, vilket gör dem viktiga inom många olika matematiska och praktiska sammanhang.
 
-\[ \mathbb{Z} = \{..., -3, -2, -1, 0, 1, 2, 3, ... \} \]
+### Definition och Egenskaper
 
-I användning finns heltal i många olika sammanhang, från att räkna objekt till att genomföra beräkningar i matematik och vetenskap.
+Heltal är en del av de reella talen och omfattar:
+- Positiva heltal: 1, 2, 3, 4, …
+- Noll: 0
+- Negativa heltal: -1, -2, -3, -4, …
 
-### Addition och subtraktion av heltal
+Genom att inkludera både positiva och negativa heltal tillsammans med noll, representerar heltalen ett oändligt antal värden. Heltal har ingen decimaldel, vilket skiljer dem från bråktal och decimaltal som inkluderar delar av ett tal.
 
-Addition av heltal innebär att man lägger ihop två eller flera heltal. När man addierar heltal kan resultatet vara positivt, negativt eller noll beroende på de tal som adderas.
+En intressant egenskap hos heltal är att de är ordnade och bildar en linjär sekvens på den reella tallinjen. Denna ordning är viktig vid jämförelser och vid utförande av olika matematiska operationer. 
 
-**Exempel:**
-- \( 3 + 5 = 8 \)
-- \( -2 + 4 = 2 \)
-- \( -5 + (-3) = -8 \)
-- \( 7 + (-7) = 0 \)
+![Linje med positiva och negativa heltal med noll i mitten](fil:linje_med_pos_neg_hela_tal_med_noll_i_mitten.png)
 
-Subtraktion av heltal innebär att man drar ett heltal från ett annat. Precis som med addition kan resultatet vara positivt, negativt eller noll.
+### Användning av Heltal i Vardagen
 
-**Exempel:**
-- \( 10 - 4 = 6 \)
-- \( -2 - 3 = -5 \)
-- \( 6 - (-2) = 8 \)
-- \( -3 - 2 = -5 \)
+Heltal används ofta i vardagen för att beskriva helt nummer och sekvenser, såsom datum, tid, antal föremål, och mer. De är användbara när delar av saker inte är relevanta. Till exempel:
+- Antalet äpplen i en korg måste vara ett heltal.
+- Ett husnummer är också ett heltal.
 
-Det är viktigt att förstå tecknet på talen när man utför operationer med heltal. Med hjälp av en talinje kan man visualisera addition och subtraktion. 
+### Grundläggande Egenskaper hos Heltal
 
-![Tal linje](</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/tal-linje.png>)
+1. **Identitetselementet för Addition:** För varje heltal \(a\), gäller \(a + 0 = a\). Noll är således identitetselementet i additionsoperation för heltal. 
 
-### Multiplikation och division av heltal
+2. **Identitetselementet för Multiplikation:** För varje heltal \(a\), gäller \(a \times 1 = a\). Ett är identitetselementet i multiplikationsoperation för heltal.
 
-Multiplikation av heltal är en upprepande addition av heltal. Precis som med addition och subtraktion så får vi även här olika resultat beroende på om vi multiplicerar positiva eller negativa tal.
+3. **Additiv Invers:** För varje heltal \(a\), finns ett heltal \(-a\) sådant att \(a + (-a) = 0\).
 
-**Exempel:**
-- \( 3 \times 2 = 6 \)
-- \( -3 \times 2 = -6 \)
-- \( -3 \times -2 = 6 \)
-- \( 0 \times 5 = 0 \)
+### Exempel på Heltal
 
-Division av heltal innebär att man delar ett heltal med ett annat. Vid division är det viktigt att notera att man inte kan dividera med noll, vilket leder till en obestämd situation. 
+1. **Positiva heltal:** Antalet stolar i ett klassrum kan beskrivas som \(30\).
 
-**Exempel:**
-- \( 10 \div 2 = 5 \)
-- \( -10 \div 2 = -5 \)
-- \( -10 \div -2 = 5 \)
-- \( 0 \div 5 = 0 \)
-- \( 5 \div 0 \) (obestämd)
+2. **Negativa heltal:** Om en person har en skuld på 100 kr, kan detta representeras som \(-100\).
 
-Precis som vid addition och subtraktion spelar tecknet en viktig roll vid multiplikation och division.
+3. **Noll:** Vid mätning av en vätska i ett glas, så kan noll milliliter representera att glaset är helt tomt.
 
-Det ärbra att använda multiplikations- och divisions-tabeller för att underlätta beräkningar med heltal. Dessa tabeller kan också fungera som referens för att lära sig mer om relationerna mellan olika tal.
-
-![Multiplikationstabell](</courses/Matematik ÅK 7/0 Tal och räkning/0.0 Heltal/multiplikationstabell.png>)
-
-Sammanfattningsvis kan vi säga att heltal är en central del av matematiken som används i många olika situationer och för olika syften. Att behärska operationer med heltal är en viktig grundkompetens för att kunna lösa mer komplexa matematiska problem.
+Heltal är ofta den grundläggande byggstenen vid lärande av mer avancerade matematiska koncept, inklusive algebra och funktioner. Genom att förstå heltal och deras egenskaper, blir det enklare för elever att övergå till mer komplicerade matematiska operationer och teorier.
