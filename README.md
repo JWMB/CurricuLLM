@@ -2,7 +2,7 @@
 
 A repository with curricular materials, where the initial structure and content is LLM-generated, and over time hopefully improved upon by teachers.  
 
-(❗Math ÅK 7 test with `gpt-4o` available in separate [branch](https://github.com/JWMB/CurricuLLM/blob/test-4o/courses/Matematik%20%C3%85K%207/0%20Tal%20och%20r%C3%A4kning/0_chapter.md) - compare output to `gpt-4o-mini` by switching branch when looking at a file) 
+(❗Math ÅK 7 test with `gpt-4o` available in separate [branch](https://github.com/JWMB/CurricuLLM/blob/test-4o/courses/Matematik%20%C3%85K%207/0%20Tal%20och%20r%C3%A4kning/0_chapter.md) - compare output to `gpt-4o-mini` by switching branch when looking at a file, or check the [PR](https://github.com/JWMB/CurricuLLM/pull/7/files). 
 
 The source materials can be converted to PDFs (e.g. for print-on-demand books), HTML for online viewing, or used as content in e-learning apps.
 
