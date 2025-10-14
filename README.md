@@ -2,8 +2,6 @@
 
 A repository with curricular materials, where the initial structure and content is LLM-generated, and over time hopefully improved upon by teachers.  
 
-(❗Math ÅK 7 test with `gpt-4o` available in separate [branch](https://github.com/JWMB/CurricuLLM/blob/test-4o/courses/Matematik%20%C3%85K%207/0%20Tal%20och%20r%C3%A4kning/0_chapter.md) - compare output to `gpt-4o-mini` by switching branch when looking at a file, or check the [PR](https://github.com/JWMB/CurricuLLM/pull/7/files). 
-
 The source materials can be converted to PDFs (e.g. for print-on-demand books), HTML for online viewing, or used as content in e-learning apps.
 
 > Feel free to fork the repository, and use however you wish (as long as the license is respected).
@@ -18,6 +16,8 @@ Some benefits of using a public git repository instead of a custom database:
 * Project tracking - tasks related to the project are tightly connected to the repository via Issues and Projects
 
 **Note:** The current materials in the [/courses](/courses) folder have been generated with a cheap model (gpt-4o-mini) and a naïve prompt. The cost to generate one of these textbooks is in the range of tens of cents, but the quality is not great. I will switch to a more capable model once the generation pipeline is more complete.
+
+❗Math ÅK 7 test with `gpt-4o` available in separate [branch](https://github.com/JWMB/CurricuLLM/blob/test-4o/courses/Matematik%20%C3%85K%207/0%20Tal%20och%20r%C3%A4kning/0_chapter.md) - compare output to `gpt-4o-mini` by switching branch when looking at a file, or check the [PR](https://github.com/JWMB/CurricuLLM/pull/7/files). The cost to generate was ~0.6EUR.
 
 ## Workflow
 Especially in the beginning, there will be a lot of back-and-forth between experts and LLM configuration/generation.
@@ -65,7 +65,6 @@ Manual modification to prompts at different levels will most certainly be requir
 * Better assignments/problems
   * Use a different LLM to validate that they're not ambiguous, are solvable and that the proposed hints/answers are correct
   * Generate numerical-only answers when possible, for easier validation when used in a training app
-  * When answer is non-numerical, or a reasoning answer, generate an accompanying prompt that an app can use to validate the answer
 * Iterate on global prompts so that the initial output is more acceptable
 * Add targeted/modified prompts to areas where the global prompts are insufficient
 * Better illustrations - work on getting consistent style, better contexts for the prompt
