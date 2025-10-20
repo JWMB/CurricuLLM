@@ -1,5 +1,91 @@
 # CurricuLLM
 
+English information below
+
+### Nyckelpunkter
+* AI ska endast användas initialt för att skapa det ursprungliga råmaterialet - därefter redigerar och granskar lärare / ämnesexperter
+* Materialet förblir öppet tack vare OSS-licens - inget företag kan ta över och låsa in
+* Det primära målet är att lärare och skolor ska kunna skriva ut materialet i bokform (t.ex. via print-on-demand)
+
+
+## Bakgrund
+Fördelarna med skolböcker jämfört med e-learning-system, länksamlingar och stenciler har uppmärksammats i allt större utsträckning den senaste tiden.
+Jag har själv på nära håll sett hur det kan gå när undervisningen av mellanstadiebarn i huvudsak innebär att eleverna själva ska "forska" och söka egen information utan tydlig handledning.
+
+Detta projekt är ett förslag på hur spridningen av läromedelsböcker kan ökas, samt hur framtagandet av dem kan demokratiseras.
+
+### Läroböckernas styrkor
+* Ökar läsförståelsen och djupinlärningen
+* Förutsägbar struktur, vad ska man lära sig när
+* Tydligt och lättillgängligt referensmaterial
+* Granskad av experter och justeras efter synpunkter från lärarkåren
+* Visuospatiella ankare i informationen ("nånstans i mitten, längst upp på en vänstersida"), möjlighet för understrykningar
+* Enhetlig ton - minskar den kognitiva belastningen att tolka stil / avsändare
+
+### De digitala läromedlens svagheter
+E-learning-revolutionen levererade aldrig de utlovade resultaten.
+
+* Många läromedelsappar är av låg kvalitet
+  * Dålig tolkning av svar
+    * vissa beaktar inte ens enkla felstavningar
+    * automatisk analys av resonemang saknas
+    * Flerstegssvar (t.ex. ekvationsförenkling) hanteras dåligt
+  * Ineffektiva inmatningssystem för t.ex. ekvationer
+* Innehållslig transparens saknas ofta; utomstående har svårt att få tillgång att granska hela materialet
+* Oavsett om e-learning-miljön tillåter det eller ej, är användaren inställd på att bli distraherad av pop-ups, reklam och möjligheten att växla till t.ex. youtube
+* "Chain of custody" för hantering av elevens data är ofta otydlig. Google Classroom och andra digitala tjänster skickar ofta känslig information om barnen rakt in i otillförlitliga händer. CLOUD Act är farligt vapen i händerna på en alltmer diktatorisk stat där företagen gång på gång visat att de dansar efter regimens pipa.
+* Sällan vetenskapligt validerat
+
+### Problem med dagens läroböcker
+* Svenska är ett litet språk; det finns inte utrymme för så många läromedelsförlag. Detta leder till ett oligopol på läroböcker - få att välja mellan, höga priser
+* De existerande läromedlens pedagogiska linjer passar inte alla lärare, och vill man avvika från den kan man tvingas skapa/sammanställa sitt eget material, använda undermåligt granskade källor
+* Förlagen kan ta lång tid på sig att erkänna och rätta felaktigheter i läroböcker
+* Läromedlens effekter är sällan vetenskapligt utprovade, och förlagen tycks ointresserade av att utsätta sina produkter för kontrollerade studier 
+* Det finns mängder av typer av särskilda behov, men det är inte ekonomiskt lönsamt att skapa material anpassade för dem alla
+
+## Förslaget
+Inom mjukvaruvärden finns en tradition av att bidra till öppen källkod utan finansiell ersättning - för att man själv kan ha nytta av projektet, för att få erkännande eller för att helt enkelt hjälpa andra.
+En av anledningarna till detta är säkerligen hackerkulturen (som delvis är sprungen ur hippierörelsen), men också att det länge funnits etablerade mekanismer för att förenkla samarbete och delande.
+
+Med detta projekt hoppas jag kunna nyttja mjukvaruvärldens verktyg för att öppna liknande möjligheter för lärare och ämnesexperter.
+Allt material ska finnas tillgängligt att kopiera, och diskussioner samt ändringsförslag ska finnas synliga för allmänheten.
+
+Materialet ska vara organiserat på sådant sätt att det kan konverteras till PDFer för utskrift (t.ex. som print-on-demand-böcker), till HTML för läsning direkt på nätet, eller som innehåll för (icke-kommersiella) elektroniska läromedel.
+
+Men hur komma igång med ett så omfattande projekt? Det är här AI/LLM kommer in i bilden.
+
+Jag gjorde för några år sedan ett snabbt test för att generera en kursbok i matematik med hjälp av en förhandsversion av GPT-4, och fick förvånansvärt goda resultat. Nu har modellerna förbättras, kostnaderna för att använda dem minskat - och jag har formulerat en plan för hur de kan användas på ett produktivt sätt och ändå nå god kvalitet.
+
+### LLM-genererade skolböcker?!
+Ja, som ett första steg - men det genererade materialet ska inte sättas i händerna på elever, utan är ett första grovt utkast, tänkt att fungera som bas för fortsatt arbete. Man kan genom noggrann promptning minska LLMers hallucinationer, men man kan aldrig lita helt på vad de genererar.
+
+Under den första fasen kommer den automatiska genereringen genomgå många iterationer där prompter finslipas och referensmaterial väljs ut, både på global nivå (dvs oavsett ämne) och på mer ämnes- och detaljspecifika nivåer.
+Detta görs genom diskussioner i GitHub Issues, samt ändringsförslag via GitHub Pull Requests.
+
+När det automatiskt genererade materialet nått tillräcklig kvalitet flyttas det över för manuell redigering tills det är redo att användas i skolan.
+
+Målet är att så småningom producera heltäckande skolboksmaterial, men inledningsvis bör arbetet fokuseras på ett mindre antal avsnitt för att utvärdera processerna, exempelvis trigonometri för årskurs 7 samt monoteism för årskurs 9.
+
+### Arbetsuppgifter
+Även dessa skapas ursprungligen med hjälp av prompter samt den genererade kapiteltexten.
+Exempel på typer av uppgifter som kan skapas:
+* Frågor med enstaka ord/siffror som svar
+* Flervalsfrågor
+* Resonemangsfrågor
+
+Frågorna utvärderas av en AI-modell för att se om de är otydliga eller tvetydiga, och för att säkerställa att den utvärderande modellen svarar på samma sätt som den genererande modellen.
+
+För att underlätta automatisk rättning av svaren kan modellen instrueras att generera många varianter på korrekta svar, samt förväntade "halvriktiga" och felaktiga svar.
+
+Några användningsområden för automatgenererade uppgifter:
+* Komma ikapp hemifrån / repetera inför prov - flashcards, räkneuppgifter
+* Spaced repetition: elevens individuella profil för återkallande används (för att optimera långtidslagringen av fakta)
+* AI kan hjälpa till i analysen av mer komplicerade svar, t.ex. analysera varje steg i en ekvationsförenkling, eller bedöma riktigheten i en resonerande text (givet de fakta som man förväntar ska finnas med). Dessa analyser måste levereras med tydliga brasklappar, t.ex. "jag som AI gissar att ... men din lärare får kontrollera svaret". (Data som kommer från elever, t.ex. fritextsvar, bör aldrig skickas till datacenter kontrollerade av utländska aktörer.)
+* Lärare kan återanvända prompter för att med egen LLM skapa idéer och nya frågor till prov
+
+
+# CurricuLLM (English)
+
 A repository with curricular materials, where the initial structure and content is LLM-generated, and over time hopefully improved upon by teachers.  
 
 The source materials can be converted to PDFs (e.g. for print-on-demand books), HTML for online viewing, or used as content in e-learning apps.
