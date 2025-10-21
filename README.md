@@ -27,10 +27,10 @@ Detta projekt är ett förslag på hur spridningen av läromedelsböcker kan ök
 E-learning-revolutionen levererade aldrig de utlovade resultaten.
 
 * Många läromedelsappar är av låg kvalitet
-  * Dålig tolkning av svar
+  * Undermålig tolkning av svar
     * vissa beaktar inte ens enkla felstavningar
     * automatisk analys av resonemang saknas
-    * Flerstegssvar (t.ex. ekvationsförenkling) hanteras dåligt
+    * Flerstegssvar (t.ex. ekvationsförenkling) hanteras bristfälligt
   * Ineffektiva inmatningssystem för t.ex. ekvationer
 * Innehållslig transparens saknas ofta; utomstående har svårt att få tillgång att granska hela materialet
 * Oavsett om e-learning-miljön tillåter det eller ej, är användaren inställd på att bli distraherad av pop-ups, reklam och möjligheten att växla till t.ex. youtube
