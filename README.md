@@ -1,4 +1,5 @@
 # CurricuLLM
+*LLM som i Lärar-Ledd Modell*
 
 English information below
 
