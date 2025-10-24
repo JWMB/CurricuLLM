@@ -1,52 +1,84 @@
-## Statistik
+# Statistik
 
-### Svårighetsgrad 1
+## Svårighetsgrad 1
 
-**Uppgift 1**  
-*Question:* Vad är statistik och varför är det viktigt att samla in data?  
-*Hints:* Tänk på hur vi använder data i vardagen, som i väderprognoser eller i sportresultat.  
-*Answer:* Statistik är en gren inom matematik som handlar om insamling, analys, presentation och tolkning av data. Det är viktigt att samla in data för att kunna fatta informerade beslut, förstå mönster och trender, och urskilja viktiga insikter inom olika områden.
+### Uppgift 1
+**Question** Vad är medelvärdet av följande tal: 3, 7, 8?
+**Hint** Lägg ihop alla tal och dela med antalet tal.
+**Answer** 6
+**MaxPoints** 1
+**AnalyzeSubmission** Kontrollera om användarens svar är exakt 6, om ja svara "korrekt", annars "inkorrekt".
+**WrongAnswer** 9 **Why** Användaren kan ha förvirrat medelvärde med summan av alla tal.
 
-**Uppgift 2**  
-*Question:* Ge två exempel på hur statistiska data kan presenteras.  
-*Hints:* Tänk på diagram, tabeller eller kanaler för presentation av information.  
-*Answer:* Statistiska data kan presenteras i form av stapeldiagram och linjediagram, eller i tabellform för att visa värden tydligt.
+### Uppgift 2
+**Question** Vilket tal är typvärde i följande dataset: 2, 4, 4, 5, 6?
+**Hint** Typvärdet är det tal som förekommer flest gånger.
+**Answer** 4
+**MaxPoints** 1
+**AnalyzeSubmission** Kontrollera om användarens svar är exakt 4, om ja svara "korrekt", annars "inkorrekt".
+**WrongAnswer** 5 **Why** Användaren kan ha trott att det högsta talet är typvärdet.
 
-**Uppgift 3**  
-*Question:* Vad innebär det att göra en undersökning och varför är det viktigt att veta vilken population man ska undersöka?  
-*Hints:* Reflektera över vilka grupper av människor eller saker som kan påverka resultaten.  
-*Answer:* Att göra en undersökning innebär att man samlar in information från en viss grupp eller population. Det är viktigt att veta vilken population man undersöker för att resultaten ska vara representativa och tillämpbara på det ämne man studerar.
+### Uppgift 3
+**Question** Hur många observationer behövs för att beräkna medianen i en dataset?
+**Hint** Färre än 2 observationer gör det omöjligt att bestämma median.
+**Answer** Minst 2
+**MaxPoints** 1
+**AnalyzeSubmission** Kontrollera om användarens svar innehåller ordet "2" eller "två", om ja svara "korrekt", annars "inkorrekt".
+**WrongAnswer** 1 **Why** Medianen kan inte bestämmas med endast en observation eftersom det inte finns någon mittpunkt.
 
-### Svårighetsgrad 2
+## Svårighetsgrad 2
 
-**Uppgift 1**  
-*Question:* Vad är medelvärde och hur beräknar man det? Ge ett exempel.  
-*Hints:* Tänk på hur man summerar värden och delar med antalet värden.  
-*Answer:* Medelvärde är summan av alla värden delat med antalet värden. Om vi har värdena 4, 6 och 10, så blir medelvärdet (4 + 6 + 10) / 3 = 20 / 3 = 6,67.
+### Uppgift 1
+**Question** Ge ett exempel på hur man kan presentera data från en enkät om favoritblomma.
+**Hint** Diagram är ett bra sätt att visualisera data.
+**Hint** Tänk på stapeldiagram eller cirkeldiagram.
+**Answer** Stapeldiagram eller cirkeldiagram
+**MaxPoints** 2
+**AnalyzeSubmission** Kontrollera om användarens svar innehåller "stapeldiagram" eller "cirkeldiagram", om ja svara "korrekt", annars "inkorrekt".
+**WrongAnswer** Tabell **Why** Tabeller är korrekt också, men presenteras som enklare alternativ. Det saknas visualisering.
 
-**Uppgift 2**  
-*Question:* Beskriv skillnaden mellan median och typvärde.  
-*Hints:* Tänk på vad som händer med ett dataset där värden upprepas.  
-*Answer:* Median är det mittersta värdet i ett sorterat dataset, medan typvärde är det värde som förekommer flest gånger i datasetet. I datasetet 1, 2, 2, 3, 4 är median 2 och typvärde 2.
+### Uppgift 2
+**Question** Beräkna medianen av denna uppsättning tal: 1, 3, 7, 9, 10.
+**Hint** Medianen är mittentalet i en ordnad lista med udda antal tal.
+**Answer** 7
+**MaxPoints** 2
+**AnalyzeSubmission** Kontrollera om användarens svar är exakt 7, om ja svara "korrekt", annars "inkorrekt".
+**WrongAnswer** 5 **Why** Användaren kan ha försökt göra ett medelvärde istället för att identifiera mittentalet.
 
-**Uppgift 3**  
-*Question:* Varför kan medelvärdet ibland vara missvisande?  
-*Hints:* Tänk på hur extrema värden påverkar ett värde.  
-*Answer:* Medelvärdet kan vara missvisande om det finns extrema värden (utliggare) i datasetet, som drar medelvärdet uppåt eller nedåt och inte ger en rättvis bild av de övriga värdena. T.ex. om vi har värdena 1, 2, 3 och 100, blir medelvärdet 26,5 vilket inte reflekterar de andra värdena.
+### Uppgift 3
+**Question** Samla in data från dina klasskamrater om deras favoritfärg, vilken metod kan du använda?
+**Hint** Försök med en enkel skriftlig eller muntlig fråga.
+**Hint** En enkät kan vara ett bra verktyg.
+**Answer** Enkät
+**MaxPoints** 2
+**AnalyzeSubmission** Kontrollera om användarens svar innehåller "enkät" eller "survey", om ja svara "korrekt", annars "inkorrekt".
+**WrongAnswer** Internet **Why** Internet är för generellt och inte en specifik datainsamlingsmetod för denna situation.
 
-### Svårighetsgrad 3
+## Svårighetsgrad 3
 
-**Uppgift 1**  
-*Question:* Du genomför en undersökning på hur mycket tid elever i en klass spenderar på läxor varje vecka. Data visar: 1 timme, 2 timmar, 2 timmar, 3 timmar, 4 timmar, 5 timmar, 5 timmar, 6 timmar. Vad är mått på central tendens (medelvärde, median och typvärde) för dessa data och vilket värde ger mest information?  
-*Hints:* Börja med att beräkna medelvärdet, medianen och typvärdet, och diskutera vilken information som är mest relevant.  
-*Answer:* Medelvärde = (1 + 2 + 2 + 3 + 4 + 5 + 5 + 6) / 8 = 3,5. Median = (3 + 4) / 2 = 3,5. Typvärde = 2 och 5. Median och typvärde ger bättre insikt i den typiska läxkostnaden, särskilt om medelvärdet påverkas av utliggande värden.
+### Uppgift 1
+**Question** Förklara skillnaden mellan medelvärde och median i ett dataset.
+**Hint** Medelvärdet är genomsnittet av alla tal, medan medianen är det mittersta talet.
+**Hint** Hur påverkas dessa av extremvärden?
+**Answer** Medelvärdet beräknas genom att lägga ihop alla tal och dela med antalet tal, det kan påverkas av extremvärden; Medianen är det mittersta värdet i ett sorterat dataset och påverkas mindre av extremvärden.
+**MaxPoints** 3
+**AnalyzeSubmission** Kontrollera om användarens svar korrekt beskriver båda begreppen och hur extremvärden påverkar dem.
+**WrongAnswer** Median och medelvärde är samma **Why** Användaren kan ha förväxlat eller förenklat dessa begrepp.
 
-**Uppgift 2**  
-*Question:* Hur kan en grafisk representation av data (t.ex. ett histogram) hjälpa oss att bättre förstå datasetets egenskaper?  
-*Hints:* Tänk på hur visuell information kan göra saker lättare att förstå.  
-*Answer:* En grafisk representation, som ett histogram, kan hjälpa oss att snabbt se fördelningen av värden och identifiera möjligen dolda mönster, såsom frekvenser av olika intervall, samt om datan är symmetrisk, snedfördelad eller har en klusterpunkt.
+### Uppgift 2
+**Question** Hur kan man undvika bias vid insamling av data?
+**Hint** Slumpmässigt urval är viktigt.
+**Hint** Kontrollera att alla segment av en population representeras korrekt.
+**Answer** Använd slumpmässigt urval och säkerställ att alla delar av populationen är representerade.
+**MaxPoints** 3
+**AnalyzeSubmission** Kontrollera om användarens svar nämner slumpmässigt urval och representation, om ja svara "korrekt", annars "inkorrekt".
+**WrongAnswer** Samla in data från vänner **Why** Att bara samla in data från vänner kan skapa bias och är inte representativt för en större population.
 
-**Uppgift 3**  
-*Question:* I en klass om 30 elever samlas data om hur många böcker varje elev läser på ett år: 0, 1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 5, 6, 6, 7, 8, 10, 10, 12, 12, 12, 13, 14, 15, 15, 16, 18, 20, 21, 25. Vilka konsekvenser kan det få om man bara fokuserar på medelvärdet av dessa data när man diskuterar böcker som läses per elev?  
-*Hints:* Reflektera över hur olika typer av läsare kan finnas i klassen.  
-*Answer:* Om man enbart fokuserar på medelvärdet kan man förlora viktiga insikter om hur läsandet är fördelat. I det här datasetet finns elever som läser mycket fler böcker än andra, vilket kan dra upp medelvärdet, och missvisande på bästa sätt att förstå klassens läsmönster. Det kan vara bättre att också granska median och typvärde för att få en mer exakt bild av läsande vanor bland eleverna.
+### Uppgift 3
+**Question** Vad är syftet med att använda statistik?
+**Hint** Statistik används för att förstå och tolka data.
+**Hint** Hjälper till att göra informerade beslut.
+**Answer** För att analysera och dra slutsatser från data, samt stödja beslutsfattande processer.
+**MaxPoints** 3
+**AnalyzeSubmission** Kontrollera om användarens svar inkluderar analys, slutsatser och beslutsfattande, om ja svara "korrekt", annars "inkorrekt".
+**WrongAnswer** För att samla in data **Why** Samla in data är en del av statistiken, men inte dess huvudsakliga syfte.

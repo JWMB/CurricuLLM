@@ -124,3 +124,5 @@
 [2025-10-11T12:29:01Z] Duration=1,21 In=312 Out=180 Model=gpt-4o-mini-2024-07-18
 [2025-10-11T12:29:28Z] Duration=1,78 In=280 Out=257 Model=gpt-4o-mini-2024-07-18
 [2025-10-11T12:29:40Z] Duration=1,25 In=446 Out=164 Model=gpt-4o-mini-2024-07-18
+[2025-10-24T10:48:11Z] Duration=16,01 In=246 Out=1029 Model=gpt-4o-2024-08-06
+[2025-10-24T10:53:19Z] Duration=11,98 In=814 Out=1300 Model=gpt-4o-2024-08-06
