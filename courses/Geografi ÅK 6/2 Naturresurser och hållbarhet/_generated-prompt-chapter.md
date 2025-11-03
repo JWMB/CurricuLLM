@@ -1,13 +1,17 @@
 Givet strukturen för ett kapitel i en lärobok (se nedan), generera detaljerat innehåll för det markerade avsnittet, inklusive förklaringar och exempel.
 Använd neutral ton som passar målgruppen.
-Ämnet för läroboken är '{{subject.domain}}' och målgruppen är '{{subject.demographic}}'.
+Ämnet för läroboken är 'Geografi' och målgruppen är 'Årskurs 6 i Svenska grundskolan'.
 
 Om det skulle passa med en illustration, ett foto, en graf eller ett diagram, lägg in en bildlänk (markdown) i textflödet. Typiska platser för illustrationer är i början av texten, samt i samband med exempel.
 För bildlänkar ska filnamnet vara en beskrivningen på vad som ska visas, så att man senare kan använda en bildgenerator med beskrivningen som prompt.
 
-{{template:structuralContext}}
 
-Avsnittet du ska skriva är "{{heading}}", och ligger här i strukturen:
-{{toc}}
 
-Jag kommer be dig skriva om underrubrikerna till "{{heading}}" i en senare fråga.
+Avsnittet du ska skriva är "Naturresurser och hållbarhet", och ligger här i strukturen:
+# Jordens förändring
+# Världens befolkning
+# ----> Naturresurser och hållbarhet
+## Energi och råvaror
+## Miljöskydd
+
+Jag kommer be dig skriva om underrubrikerna till "Naturresurser och hållbarhet" i en senare fråga.
