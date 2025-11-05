@@ -1,4 +1,4 @@
-# [Jordens förändring](/0%20Jordens%20f%c3%b6r%c3%a4ndring/0_chapter.md)
+# [Jordens förändring](0%20Jordens%20f%c3%b6r%c3%a4ndring/0_chapter.md)
 Jorden är i ständig förändring. Detta huvudområde handlar om de processer och krafter som formar jordens yta, både via naturliga och mänskliga faktorer.
 
 ## [Geologiska processer](/0%20Jordens%20f%c3%b6r%c3%a4ndring/0.0%20Geologiska%20processer/0_chapter.md)
