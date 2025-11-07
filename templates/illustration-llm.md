@@ -7,7 +7,7 @@ Bilden ska passa som en illustration i denna kontext:
 
 Skicka gärna med information från kontexten om du tror att det hjälper.
 
-{{file:illustration-llm-style.md}}
+{{template:illustration-llm-style.md}}
 
 Viktigt: Instruera modellen att undvika text och siffror i bilden, eftersom de ofta blir felaktiga.
 Skriv prompten på engelska, inte på svenska.
