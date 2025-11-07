@@ -1,4 +1,9 @@
 Skapa en hierarkisk struktur för en kursbok i {{subject.domain}} för {{subject.demographic}} enligt rådande läroplan, med nedanstående nivåer.
+{{ if (subject.description) }}
+Beskrivning av kursinnehållet:
+{{subject.description}}
+{{ end }}
+
 Jag ger exempel för en kurs i högstadiematematik i varje nivå.
 Nivåerna är:
 - Huvudområden (t.ex. "Tal och räkning", "Algebra", "Geometri", "Sannolikhet och statistik")
