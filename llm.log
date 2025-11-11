@@ -409,3 +409,6 @@
 [2025-11-07T10:33:41Z] Duration=6,24 In=1093 Out=563 Model=gpt-4o-2024-08-06
 [2025-11-07T10:33:47Z] Duration=6,29 In=1106 Out=702 Model=gpt-4o-2024-08-06
 [2025-11-07T10:33:59Z] Duration=12,16 In=810 Out=1329 Model=gpt-4o-2024-08-06
+[2025-11-11T04:24:54Z] Duration=41,84 In=824 Out=3053 Model=gpt-5-mini
+[2025-11-11T04:30:44Z] Duration=69,42 In=824 Out=3554 Model=gpt-5-mini
+[2025-11-11T04:38:37Z] Duration=69,37 In=957 Out=4205 Model=gpt-5-mini
