@@ -1,149 +1,135 @@
-# Svårighetsgrad 1
+Svårighetsnivå 1 (lätt)
+(Ämne: Felslut baserade på presuppositioner — cirkulär argumentation och rutschkanan)
 
-### Begging the question (cirkulär argumentation)
+**Question** Vad betyder "cirkulär argumentation" (begging the question) med egna ord?
+**InputType** text
+**Hint** Det är när slutsatsen redan finns gömd i premisserna.
+**Hint** Tänk på ett argument som går i en cirkel utan ny information.
+**Answer** Att man använder det som ska bevisas som en av förutsättningarna.
+**MaxPoints** 2
+**AnalyzeSubmission** Kontrollera om svaret nämner att argumentet "går i cirkel", att slutsatsen används som bevis/premiss eller att ingen ny information ges. Om minst ett av dessa finns: "correct", annars "incorrect."
+**WrongAnswer** En vanlig mening **Why** Missförstår; att argumentet bara är kort eller enkelt är inte samma sak som cirkulärt.
 
-**Question** Ge ett exempel på ett cirkulärt argument.
-
-**Hint** Fundera på argument där slutsatsen förutsätter vad den försöker bevisa.
-
-**Hint** Leta efter påståenden där premissen och slutsatsen är nästan identiska.
-
-**Answer** "Det jag säger är sant för att jag säger det."
-
+**Question** Vilket av följande är ett exempel på cirkulär argumentation?
+**InputType** single-choice
+**Hint** Läs påståendena noga — leta efter när slutsatsen redan antas.
+**Hint** Hitta meningen där samma sak upprepas i olika ord.
+**Answer** "Han är pålitlig eftersom han alltid talar sanning."
 **MaxPoints** 1
+**WrongAnswer** "Alla säger att det är sant, så det är sant." **Why** Det är ett argument från popularitet, inte nödvändigtvis cirkulärt.
+**WrongAnswer** "Om vi tillåter det kommer allt att gå fel." **Why** Det är ett rutschkaneargument, inte cirkulärt.
+**WrongAnswer** "Vetenskap visar att det fungerar." **Why** Detta är en hänvisning till auktoritet eller fakta, inte uppenbart cirkulärt.
 
-**AnalyzeSubmission** Kontrollera om svaret har en premiss och slutsats som är samma, i olika ord eller med samma innebörd, och där ingen ny information tillförs.
+**Question** Vilka av följande påståenden är exempel på en "rutschbana" (slippery slope)? Välj alla som passar.
+**InputType** multiple-choice
+**Hint** Titta efter påståenden som säger att ett litet steg automatiskt leder till stora, negativa konsekvenser.
+**Hint** Rutschkanan antar ofta flera steg i följd utan bevis.
+**Answer** "Om vi tillåter mobiltelefoner i klassrummet, kommer alla elever aldrig kunna koncentrera sig igen."
+**Answer** "Om vi slutar checka läxorna noggrant blir skolan tillslut helt odisciplinerad."
+**MaxPoints** 2
+**WrongAnswer** "Om vi sparar energi minskar vår elräkning." **Why** Det är en rimlig slutsats, inte en obefogad kedja av katastrofer.
+**WrongAnswer** "Om vi lär oss mer, får vi bättre betyg." **Why** Detta är en positiv kedja med rimlig koppling, inte en rutschbana.
 
-**WrongAnswer** "Det är sant för att mamma säger det." **Why** Även om det kan vara ett cirkulärt argument, förutsätter detta att mamma alltid har rätt, vilket inte är en ren cirkel.
+**Question** Ge ett enkelt exempel (en mening) på en rutschkana (slippery slope).
+**InputType** text
+**Hint** Föreställ dig någon som varnar för att ett litet steg kommer leda till något jättedåligt.
+**Hint** Skriv: "Om X händer, då kommer slutligen Y att hända" där Y är överdrivet.
+**Answer** "Om vi tillåter att man fuskar på ett prov, kommer snart alla att fuska på allt."
+**MaxPoints** 2
+**AnalyzeSubmission** Kontrollera om svaret visar en obefogad kedja från ett litet steg till en stor konsekvens (t.ex. "om X då Y" där Y är överdrivet). Om ja: "correct", annars "incorrect."
+**WrongAnswer** "Om vi fuskar får vi rätt svar." **Why** Detta är mer en direkt orsak-verkan utan flera steg, inte en rutschbana.
 
-### Slippery slope (rutschkanan)
-
-**Question** Beskriv varför ett "slippery slope"-argument kan vara problematiskt.
-
-**Hint** Tänk på hur en händelse kedja kan överdrivas utan bevis.
-
-**Hint** Fundera på hur varje steg kan vara osäker, vilket gör resultatet föga sannolikt.
-
-**Answer** Ett "slippery slope"-argument kan vara problematiskt eftersom det ofta förutsätter att en serie av osannolika händelser kommer att inträffa utan tillräckliga bevis.
-
+**Question** Varför är det fel att säga: "Det måste vara sant eftersom min lärare sa det" när läraren inte visar bevis?
+**InputType** single-choice
+**Hint** Tänk på vad som krävs för att något ska vara sant — mer än bara vem som säger det.
+**Hint** Det handlar om att använda auktoritet istället för bevis.
+**Answer** Eftersom det är ett argument från auktoritet och saknar bevis.
 **MaxPoints** 1
+**WrongAnswer** För att lärare aldrig har fel **Why** Ofta felaktigt; lärare kan ha fel.
+**WrongAnswer** För att elever alltid vet mer än lärare **Why** Orimligt; detta är inte varför argumentet är fel.
 
-**AnalyzeSubmission** Kontrollera om svaret kopplar samman kedjan av händelser och brist på evidens för att kritisera argumentet.
+Svårighetsnivå 2 (medel)
+(Ämne: Felslut baserade på presuppositioner — cirkulär argumentation och rutschkanan)
 
-**WrongAnswer** Ett litet fel kan leda till större problem. **Why** Även om detta kan vara en del av resonemanget, fångar det inte essensen av överdrivna och obevisade kedjereaktioner.
-
-### Begging the question (cirkulär argumentation)
-
-**Question** Identifiera det cirkulära argumentet: "Alla vet att X är farligt, så det måste vara dåligt."
-
-**Hint** Tänk på om "X är farligt" verkligen har bevisats eller bara antas.
-
-**Hint** Fokusera på om argumentet verkligen bevisar att "X är dåligt" eller bara antar det.
-
-**Answer** Argumentet börjar med slutsatsen att "X är dåligt" och stöder detta med premissen att "X är farligt", vilket inte tillför ny information om varför "X är dåligt".
-
-**MaxPoints** 1
-
-**AnalyzeSubmission** Kontrollera om användaren identifierar att premissen antar slutsatsen och inte tillför oberoende bevis.
-
-**WrongAnswer** "X är verkligen farligt och därför dåligt." **Why** Förutsätter att alla överens om faran utan tillräckliga bevis eller studie, blir ett rent antagande.
-
-# Svårighetsgrad 2
-
-### Begging the question (cirkulär argumentation)
-
-**Question** Förklara hur ett cirkulärt argument kan hindra effektiv debatt.
-
-**Hint** Fundera på hur att anta slutsatsen kan leda till en oförmåga att diskutera fakta.
-
-**Hint** Cirkulär argumentation innebär att argumentet aldrig bevisar något utöver sina egna påståenden.
-
-**Answer** Ett cirkulärt argument hindrar effektiv debatt genom att inte tillföra ny information eller bevis, vilket leder till att båda parter upprepar samma påståenden utan framsteg.
-
+**Question** Förklara skillnaden mellan cirkulär argumentation och rutschkana i två korta meningar.
+**InputType** text
+**Hint** En handlar om att slutsatsen antas direkt; den andra om att ett litet steg leder till stora konsekvenser.
+**Hint** Skriv en mening för varje fel.
+**Answer** Cirkulär argumentation: slutsatsen används som bevis. Rutschkana: ett litet steg sägs leda till stora, oftast ogrundade följder.
 **MaxPoints** 3
+**AnalyzeSubmission** Kontrollera om svaret innehåller (1) att cirkulär argumentation använder slutsatsen som premiss eller går i cirkel och (2) att rutschkana är en kedja av obefogade steg som leder till överdrivna konsekvenser. Om båda finns: "correct", om bara en: "partially correct", annars "incorrect."
+**WrongAnswer** De är samma sak **Why** Missförstånd; de är olika typer av felslut.
 
-**AnalyzeSubmission** Kontrollera om användarens svar inkluderar hur en relevant debatt behöver ny information eller externa bevis för att fortsätta.
+**Question** Vilket av följande är INTE ett rutschkaneargument?
+**InputType** single-choice
+**Hint** Leta efter det påstående som inte påstår en kedja av katastrofala steg.
+**Hint** Ett vanligt tecken på icke-rutschbana är om samband stöds av bevis.
+**Answer** "Studier visar att träning förbättrar hälsan."
+**MaxPoints** 1
+**WrongAnswer** "Om vi släpper en regel kommer allt att bli kaos." **Why** Typisk rutschkana eftersom den antar kedja av negativa steg.
+**WrongAnswer** "Om barn får se våld på tv kommer de bli våldsamma hela livet." **Why** Rutschkana eftersom det antar ett direkt, stort negativt utfall utan bevis.
+**WrongAnswer** "Om vi ger efter blir alla lata." **Why** Rutschkana; överdriven kedja.
 
-**WrongAnswer** Det hjälper till att förstärka vad vi redan vet. **Why** Detta missförstår syftet med debatt, som är att granska och utmana etablerade påståenden genom kritisk analys.
+**Question** Identifiera om följande påstående är cirkulärt, rutschkana, eller inget av dem: "Skolan är bäst eftersom alla säger att den är bäst."
+**InputType** single-choice
+**Hint** Fundera på om slutsatsen bygger på sig själv, eller på vad andra tycker.
+**Hint** Detta kan vara ett argument från popularitet.
+**Answer** Inget av dem
+**MaxPoints** 1
+**WrongAnswer** Cirkulärt **Why** Det är snarare argument från popularitet, inte nödvändigtvis cirkulärt.
+**WrongAnswer** Rutschkana **Why** Påståendet förutspår inte en kedja av händelser, så det är inte en rutschkana.
 
-### Slippery slope (rutschkanan)
+**Question** Välj alla påståenden som visar tecken på cirkulär argumentation.
+**InputType** multiple-choice
+**Hint** Leta efter påståenden där samma påstående upprepas som bevis.
+**Hint** Cirkulär brukar låta som "Det är sant eftersom..."
+**Answer** "Jag är alltid ärlig, därför kan ni lita på mig."
+**Answer** "Den här boken är bra eftersom författaren skriver bra."
+**MaxPoints** 2
+**WrongAnswer** "Om vi öppnar biblioteket fler kommer att läsa." **Why** Detta är en rimlig orsakssamband, inte cirkulärt.
+**WrongAnswer** "Alla vet att det är fel." **Why** Argument från tradition eller popularitet, inte nödvändigtvis cirkulärt.
 
-**Question** Hur kan ett "slippery slope"-argument underminera noggrann planering och beslutstagande?
+Svårighetsnivå 3 (svår)
+(Ämne: Felslut baserade på presuppositioner — cirkulär argumentation och rutschkanan)
 
-**Hint** Fundera på hur överdrivna antaganden kan leda till felriktad bedömning.
-
-**Hint** Tänk på hur en kedja av ogrundade konsekvenser kan underminera den logiska grunden för beslut.
-
-**Answer** Ett "slippery slope"-argument kan underminera beslutstagande genom att överdriva sannolika konsekvenser, vilket kan leda till att försäkra för osannolika händelser istället för att fokusera på sannolikhet och evidens.
-
-**MaxPoints** 3
-
-**AnalyzeSubmission** Kontrollera om användarens svar inkluderar hur förberedelser baserade på överdrivna konsekvenser kan skjuta upp en logisk, faktabaserad beslutsprocess.
-
-**WrongAnswer** Det hjälper oss att se alla möjliga konsekvenser. **Why** Detta missförstår problemet med "slippery slope"-felslutet som skapar osannolika rädsla och distraherar från mer realistiska möjligheter.
-
-### Slippery slope (rutschkanan)
-
-**Question** Namnge ett exempel på ett populärt "slippery slope"-argument och diskutera dess brister.
-
-**Hint** Tänk på scenarios där små förändringar leder till katastrof i argumentationen.
-
-**Hint** Fundera på om varnings-kedjan är realistiskt underbyggd.
-
-**Answer** Ett exempel är "Om vi legaliserar marijuana, kommer alla droger att bli lagliga och utbredda." Bristen ligger i att det inte finns strukturellt stöd för att legalisering av en substans leder till legalisering av alla, eftersom varje bedöms individuellt.
-
+**Question** Förklara i egna ord varför ett rutschkaneargument kan vara farligt i diskussioner om lagar eller regler. Ge minst två skäl.
+**InputType** text
+**Hint** Tänk på hur rädsla och överdrifter påverkar beslut.
+**Hint** Fundera på att det kan stoppa viktiga förändringar eller leda till dåliga beslut utan fakta.
+**Answer** Det kan skapa onödig rädsla och hindra rimliga förändringar; det leder till beslut utan bevis.
 **MaxPoints** 4
+**AnalyzeSubmission** Sök efter minst två av följande i svaret: (1) rutschkanan skapar rädsla/överdrift, (2) hindrar bra förändringar, (3) leder till beslut utan bevis, (4) förvränger diskussionen. Om minst två finns: "correct", om en finns: "partially correct", annars "incorrect."
+**WrongAnswer** Det är bara ett skämt **Why** Undervärderar problemet; rutschkanor kan påverka verkliga beslut.
 
-**AnalyzeSubmission** Granska om svar identifierar ett populärt "slippery slope"-argument och korrekt beskriver dess överdrivna logik och bristande bevis.
+**Question** Läs följande argument och avgör om det är cirkulärt, rutschkana, eller annat. "Vi måste förbjuda det här spelet, för alla som spelar blir beroende och förstör sina liv." Motivera kort ditt svar.
+**InputType** text
+**Hint** Fundera på om sambandet mellan att spela och att förstöra livet är bevisat eller överdrivet.
+**Hint** Kolla om detta är en kedja av steg utan bevis.
+**Answer** Rutschkana: Påståendet antar att spel leder stegvis till förstört liv utan bevis.
+**MaxPoints** 3
+**AnalyzeSubmission** Bedöm om eleven identifierar att argumentet är en rutschkana (obefogad kedja och överdrift). Om svaret förklarar varför (t.ex. att sambandet är överdrivet eller saknar bevis) ge full poäng; om bara identifierar utan förklaring ge halva poängen.
+**WrongAnswer** Cirkulär **Why** Felkategorisering; argumentet hotar med konsekvenser snarare än att upprepa samma påstående som bevis.
+**WrongAnswer** Annat **Why** Om inget resonemang ges; behöver motivering.
 
-**WrongAnswer** "Om vi släpper in invandrare, kommer det att bli kaos." **Why** Även om det är ett "slippery slope"-argument, behöver ett svar också analysera på vilket sätt kedjan är direkt orimlig eller obevisad.
+**Question** Vilket fel finns i detta argument: "Skatten måste vara rätt eftersom alla lagarna är rätt"?
+**InputType** single-choice
+**Hint** Tänk på om slutsatsen verkligen följer av påståendet.
+**Hint** Leta efter att något antas utan bevis.
+**Answer** Cirkulär/antagande utan bevis
+**MaxPoints** 2
+**WrongAnswer** Rutschkana **Why** Det finns ingen kedja av katastrofala följder här.
+**WrongAnswer** Inget fel **Why** Det är felaktigt eftersom argumentet inte visar varför lagen är rätt; det förutsätter det.
 
-# Svårighetsgrad 3
+**Question** Markera vilka tecken som visar att ett argument kan vara en rutschkana. Välj alla som passar.
+**InputType** multiple-choice
+**Hint** Titta efter ord som "om... då..." och kraftiga framtidsprediktioner.
+**Hint** Rutschkanor förlitar sig ofta på känslor och brist på bevis.
+**Answer** Användning av ord som "om vi gör X kommer Y alltid hända"
+**Answer** Påståenden om flera steg utan bevis
+**MaxPoints** 2
+**WrongAnswer** Hänvisning till vetenskapliga bevis **Why** Om bevis finns är det inte automatiskt en rutschkana.
+**WrongAnswer** En rimlig orsak-verkan mellan två händelser **Why** Det betyder inte att argumentet är felaktigt.
 
-### Begging the question (cirkulär argumentation)
+--- 
 
-**Question** Diskutera hur cirkulär argumentation kan leda till en resistans mot att acceptera motstridande evidens.
-
-**Hint** Tänk på hur logiskt kretslopp kan bli självförstärkande.
-
-**Hint** Fundera över sätten där ett cirkulärt resonemang kan bli en psykologisk barriär mot nya perspektiv.
-
-**Answer** För att ett cirkulärt argument förlitar sig på sina egna påståenden som evidens, kan det skapa en barriär där debattören ignorerar eller avvisar motstridande evidens eftersom inget nytt värderas över den ursprungliga cirkeln av resonemang.
-
-**MaxPoints** 5
-
-**AnalyzeSubmission** Kontrollera om användarens svar korrekt beskriver hur inneboende självrefererande logik blir en hinder för att lära sig från extern information.
-
-**WrongAnswer** Ökar förståelsen för vad som redan är känt. **Why** Detta missar poängen att cirkulära argument kan förstärka bevislös kunskap och blockera ny information som kräver att resonemanget justeras.
-
-### Slippery slope (rutschkanan)
-
-**Question** Analysera ett "slippery slope"-argument inom dagens politiska diskurs och bedöm dess sannolikhet.
-
-**Hint** Tänk på politiska beslut där extrem framtida konsekvens används som varning.
-
-**Hint** Granska realistiska steg mellan den initiala handlingen och den extrema konsekvensen.
-
-**Answer** Ett exempel kan vara "Om vi ökar skatterna kommer ekonomin att kollapsa och arbete flytta utomlands." Bedömning visar att det finns många variabler som avgör ekonomisk stabilitet vid skattehöjning och att det inte nödvändigtvis leder till kollaps utan också kan stärka offentliga sektorn.
-
-**MaxPoints** 6
-
-**AnalyzeSubmission** Granska om användaren diskuterar specificerade politiska "slippery slope"-argument och deras realistiska saklighetsgrunder eller brist därpå.
-
-**WrongAnswer** "Om vi ändrar skattereglerna så kommer alla företag att lämna landet." **Why** Anger en extrem och osannolik konsekvens utan att beakta stegvisa effekter av skattepolitik på företag.
-
-### Begging the question (cirkulär argumentation)
-
-**Question** Undersök hur cirkulär argumentation kan påverka vetenskaplig forskning och dess trovärdighet.
-
-**Hint** Fundera på fall där forskningen är sluten i ett eget påstående.
-
-**Hint** Diskutera hur enam adaptiv forskningsprocess inte korrekt skulle kunna fungera.
-
-**Answer** Cirkulärt argumentation inom vetenskap kan leda till att forskning utgår från en premiss som också är dess egen slutsats, vilket underminerar trovärdigheten eftersom ingen ny kunskap tillförs eller befästs utan empirisk validering.
-
-**MaxPoints** 7
-
-**AnalyzeSubmission** Kontrollera om användarens svar är korrekt och inkluderar hur cirkulära mönster undviker kunskapsframsteg inom vetenskapligt arbete.
-
-**WrongAnswer** Förstärker befintlig kunskap genom bekräftelse. **Why** Detta missar hotet mot vetenskaplig förbättring som gör att idéer inte utvärderas genom objektiv, extern validering.
+Slut på uppgifter.

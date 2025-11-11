@@ -1,75 +1,156 @@
-## Svårighetsgrad 1
+Nivå 1 (Lätt)
+  
+**Question** Skriv ett faktapåstående och ett åsiktspåstående om din skola.
+**InputType** text
+**Hint** Säg något som går att mäta eller kontrollera (fakta).
+**Hint** Säg något du eller någon annan tycker (åsikt).
+**Answer** Fakta: Det finns 25 elever i min klass. Åsikt: Min lärare är snäll.
+**MaxPoints** 3
+**AnalyzeSubmission** Kontrollera att svaret innehåller två delar: en som är verifierbar (t.ex. innehåller siffror eller kontrollerbar information) och en som uttrycker tycke/bedömning (innehåller ord som "tycker", "bra", "dum", "bäst" eller känslouttryck). Ge 1,5 poäng för en korrekt faktadel och 1,5 poäng för en korrekt åsiktsdel.
+**WrongAnswer** Bara åsikter **Why** Eleven skrev bara tycken (t.ex. "Jag gillar skolan") och missade en verifierbar faktadel.
 
-**Question** Är påståendet "Hundar är det bästa husdjuret" ett faktum eller en åsikt? Motivera ditt svar.
-**Hint** Fundera på om alla skulle vara överens om påståendet.
-**Hint** Tänk på skillnaden mellan något som kan bevisas med data och något som är baserat på personliga preferenser.
-**Answer** Åsikt
+**Question** Vad är en faktauppgift? Förklara med egna ord.
+**InputType** text
+**Hint** Tänk på ordet "kontrollerbar".
+**Hint** Ett faktapåstående är sant eller falskt oberoende av vad någon tycker.
+**Answer** Ett påstående som går att kontrollera eller bevisa; det är sant eller falskt.
 **MaxPoints** 2
-**AnalyzeSubmission** Kontrollera om användaren tydligt anger att det är en åsikt baserat på subjektiva preferenser, och om motivationen inkluderar tankar om personliga preferenser.
-**WrongAnswer** Faktum **Why** Missförstånd mellan subjektiva åsikter och objektiva fakta, eller tro att allmänt accepterade åsikter är fakta.
+**AnalyzeSubmission** Sök efter ord som "kontroll", "bevisa", "sant/falskt" eller formulering som förklarar att fakta kan mätas eller undersökas. Ge full poäng om förklaringen visar att eleven förstår att fakta kan kontrolleras.
+**WrongAnswer** En åsikt **Why** Eleven beskriver känslor eller tycke (t.ex. "det är något man gillar") och förväxlar fakta med åsikt.
 
-**Question** Vilket av följande är ett faktum: "Hästar kan leva i över 25 år" eller "Hästar är vackra"? 
-**Hint** Fråga dig själv om det är något som kan mätas eller observeras.
-**Answer** Hästar kan leva i över 25 år
+**Question** Vilket av följande är ett faktapåstående?
+**InputType** single-choice
+**Hint** Ett faktapåstående går att kontrollera.
+**Hint** Tänk om påståendet går att kolla i en faktabok eller med hjälp av statistik.
+**Answer** Stockholm är Sveriges huvudstad.
 **MaxPoints** 1
-**AnalyzeSubmission** Bekräfta att användaren korrekt identifierar det objektivt mätbara påståendet.
-**WrongAnswer** Hästar är vackra **Why** Förvirring mellan personlig åsikt och mätbar information.
+**WrongAnswer** Jag tycker att Stockholm är den bästa staden **Why** Detta är en åsikt eftersom det uttrycker tycke.
+**WrongAnswer** Stockholm är vackert **Why** Beskriver en uppfattning/åsikt, inte en kontrollerbar fakta.
 
-**Question** Är påståendet "Vinter är den kallaste årstiden" ett faktum eller en åsikt? 
-**Hint** Tänk på vad du kan mäta med en termometer under olika årstider.
-**Answer** Faktum
+**Question** Vilka av följande ord visar oftast att något är en åsikt? (Välj alla som passar)
+**InputType** multiple-choice
+**Hint** Åsiktsord beskriver vad någon tycker.
+**Hint** Leta efter ord som visar känsla eller bedömning.
+**Answer** Jag tycker
+**Answer** Bäst
+**Answer** Tråkigt
+**MaxPoints** 3
+**WrongAnswer** 5 stycken **Why** Ett tal är en siffra och visar en mätbar mängd, inte en åsikt.
+**WrongAnswer** Är **Why** "Är" används i faktapåståenden också; i sig visar det inte att det är en åsikt.
+
+**Question** Vilket påstående är inte en åsikt?
+**InputType** single-choice
+**Hint** Leta efter något som kan kontrolleras.
+**Hint** Sök efter siffror eller datum.
+**Answer** Sverige har 21 län.
 **MaxPoints** 1
-**AnalyzeSubmission** Säkra att användaren identifierar det fysiska och mätbara aspektet av temperatur under vintern som ett faktum.
-**WrongAnswer** Åsikt **Why** Missförstå temperaturen eller associationen mellan årstider och kulturella perspektiv.
+**WrongAnswer** Sverige har de bästa skolorna **Why** Detta är en värdering/åsikt.
+**WrongAnswer** Min klass är rolig **Why** Beskriver känsla/åsikt.
 
----
+**Question** Vilka av följande är fakta? (Välj två)
+**InputType** multiple-choice
+**Hint** Fakta är kontrollerbara.
+**Hint** Tänk på vad som finns i en faktabok.
+**Answer** Planeterna kretsar runt solen.
+**Answer** Vatten fryser vid 0°C (vid normalt lufttryck).
+**MaxPoints** 2
+**WrongAnswer** Glass är godare än choklad **Why** En smakfråga, alltså en åsikt.
+**WrongAnswer** Min kompis är sämst i matte **Why** Ett värderande uttalande, inte kontrollerbart som fakta utan bevis.
 
-## Svårighetsgrad 2
+Nivå 2 (Medel)
 
-**Question** Diskutera huruvida påståendet "Katter är lättare att ta hand om än hundar" är ett faktum eller en åsikt. Ge argument för ditt svar.
-**Hint** Försök att bryta ner vad som menas med "lättare att ta hand om".
-**Hint** Inser olika faktorer som kan påverka uppfattningen av lätthet, såsom tid, budget eller preferenser.
-**Answer** Åsikt
-**MaxPoints** 4
-**AnalyzeSubmission** Kontrollera om användaren korrekt argumenterar för att termen "lättare" beror på subjektiva faktorer och inte mätbar data.
-**WrongAnswer** Faktum **Why** Förvirring kring genericitet i åsikter och den individuella basen av upplevelser.
-
-**Question** Anser du att påståendet "Städer har högre population än byar" är ett faktum? Förklara ditt resonemang.
-**Hint** Tänk på generell statistik och bevisade data om populationstäthet.
-**Answer** Faktum
+**Question** Gör om åsikten till ett faktapåstående: "Eva är den bästa i matten i klassen."
+**InputType** text
+**Hint** Säg något mätbart om Eva (t.ex. antal rätt, betyg).
+**Hint** Skriv en ersättning som går att kontrollera, t.ex. antal poäng eller högsta betyg.
+**Answer** Eva har högst betyg i matte i klassen (t.ex. A eller 100 poäng).
 **MaxPoints** 3
-**AnalyzeSubmission** Bekräfta om användaren ger en korrekt presentation av data och statistik mätningar som stödjer populationjämförelser mellan städer och byar.
-**WrongAnswer** Åsikt **Why** Möjligt inkorrekt antagande att population kan vara lika beroende på subjektiva fallstudier.
+**AnalyzeSubmission** Kontrollera att eleven byter ut "bäst" mot ett mätbart påstående, t.ex. "högst poäng", "fick flest rätt i provet" eller "har högsta betyg". Ge poäng för att det är verifierbart (2 poäng) och för tydlighet (1 poäng).
+**WrongAnswer** Det går inte att säga vem som är bäst **Why** Eleven accepterar åsikten som omöjlig att omvandla istället för att göra den mätbar.
 
-**Question** Betygssätt påståendet "Fotboll är roligare än basket" utifrån om det är fakta eller åsikt. 
-**Hint** Analysera vad begreppet "roligare" innebär ur en subjektiv synvinkel.
-**Answer** Åsikt
-**MaxPoints** 3
-**AnalyzeSubmission** Säkerställ att användaren identifierar det subjektiva och individuella perspektivet som grund för "nöje".
-**WrongAnswer** Faktum **Why** Missuppfattning av kulturell popularitet som ett bevis för faktum, istället för subjektivt nöje.
+**Question** Varför kan påståendet "Det blir världens varmaste dag imorgon" inte sägas vara ett faktum nu?
+**InputType** text
+**Hint** Tänk på hur väderprognoser fungerar.
+**Hint** Skriv om osäkerhet och att framtiden kan ändras.
+**Answer** För att det är en prognos och framtiden är osäker; väder kan ändras och det krävs mätningar efteråt för att veta om det var sant.
+**MaxPoints** 2
+**AnalyzeSubmission** Kontrollera att svaret nämner osäkerhet, prognos eller att framtiden inte är bestämd. Ge full poäng om eleven förklarar att man måste vänta och mäta temperaturen för att avgöra.
+**WrongAnswer** Det är fel eftersom ingen väderman kan se in i framtiden **Why** Delvis rätt men ger inte förklaring om prognosernas natur eller hur man bekräftar uttalandet.
 
----
+**Question** Vilket är bäst sätt att kontrollera ett faktapåstående?
+**InputType** single-choice
+**Hint** Tänk på var du hittar fakta.
+**Hint** Leta efter oberoende källor eller mätdata.
+**Answer** Söka flera pålitliga källor eller mäta själv.
+**MaxPoints** 1
+**WrongAnswer** Fråga först den som sa det **Why** Det kan ge information men är inte lika säker som oberoende verifiering.
+**WrongAnswer** Gissa utifrån vad du känner **Why** Gissning är inte kontroll eller bevis.
 
-## Svårighetsgrad 3
+**Question** Vilka av följande utsagor är åsikter? (Välj alla som passar)
+**InputType** multiple-choice
+**Hint** Åsikter innehåller ofta värdeord.
+**Hint** Titta efter ord som "bäst", "dåligt", "tråkigt".
+**Answer** Den här filmen var jättedålig.
+**Answer** Skolan borde börja senare på morgonen.
+**MaxPoints** 2
+**WrongAnswer** Jorden snurrar runt sin axel **Why** Det är ett faktapåstående.
+**WrongAnswer** Klockan är 08:15 nu **Why** Ett kontrollerbart faktum (om det stämmer just nu).
 
-**Question** Utvärdera påståendet "Demokrati är det bästa styrelseskicket" och avgör om det är ett faktum eller en åsikt. Underbygg ditt resonemang med exempel.
-**Hint** Fundera på hur olika samhällen och kulturer ser på styrelseskick.
-**Hint** Tänk på mätbarhet och objektivitet inom politiska system.
-**Answer** Åsikt
-**MaxPoints** 5
-**AnalyzeSubmission** Avgör om användaren pratar om subjektiva värderingar och kulturella perspektiv som leder till att detta betraktas som en åsikt snarare än ett universellt faktum.
-**WrongAnswer** Faktum **Why** Missförstånd mellan sociala ideal och objektiva sanningar.
+**Question** I en artikel står: "Alla skolor förstör barns kreativitet." Vad är ett rimligt sätt att undersöka om det är sant?
+**InputType** single-choice
+**Hint** Tänk på att samla bevis.
+**Hint** Jämför flera skolor och mät kreativitet.
+**Answer** Gör en undersökning där man mäter kreativitet i flera olika skolor och jämför resultat.
+**MaxPoints** 1
+**WrongAnswer** Tro på artikeln om den låter bra **Why** Att tycka att något låter bra är inte samma som att kontrollera bevis.
+**WrongAnswer** Skicka artikeln till en kompis utan att kolla **Why** Delar inte bevis eller verifierar påståendet.
 
-**Question** Analysera varför påståendet "Forskning visar att människor behöver åtminstone 7 timmars sömn för optimal hälsa" betraktas som fakta och inte åsikt. 
-**Hint** Tänk på vetenskapliga studier och objektiva data.
-**Answer** Faktum
+Nivå 3 (Svår)
+
+**Question** Läs påståendet: "Fisk är inte nyttigt." Förklara varför det är en åsikt och beskriv hur du kan visa med fakta att det kanske inte stämmer.
+**InputType** text
+**Hint** Fundera på vad som gör något "nyttigt" (t.ex. vitaminer, protein).
+**Hint** Sök efter studier eller näringsinnehåll.
+**Answer** Det är en åsikt eftersom det är en värdering; man kan kolla näringsinnehållet i fisk (omega-3, protein, vitaminer) och läsa studier om hälsorisker och fördelar.
 **MaxPoints** 4
-**AnalyzeSubmission** Verifiera om användaren refererar till vetenskapliga argument och mätbara studier som stödjer påståendet om optimal sömnbehov.
-**WrongAnswer** Åsikt **Why** Missförståelse om att personliga upplevelser dömer objektiv forskning.
+**AnalyzeSubmission** Kontrollera att eleven skiljer mellan värdering och kontrollerbar information. Ge poäng för att ange konkreta sätt att undersöka (t.ex. näringsvärden, vetenskapliga studier, jämförelse mellan grupper). 2 poäng för förklaring att det är en åsikt, 2 poäng för konkreta förslag på fakta/undersökning.
+**WrongAnswer** Fisk är farligt så det kan inte vara sant att det är nyttigt **Why** Eleven gör påståendet utan att visa hur man skulle kontrollera det; saknar förslag på fakta eller mätmetoder.
 
-**Question** Diskutera huruvida uttalandet "Människor föredrar god smak framför hälsosam mat" är ett faktum eller en åsikt. Underbygg din analys med olika exempel och resonemang.
-**Hint** Analysera hur preferenser kan variera kraftigt beroende på individers kultur och personliga erfarenheter.
-**Answer** Åsikt
-**MaxPoints** 6
-**AnalyzeSubmission** Bekräfta att användaren identifierar den individuella variationen och subjektiva basen för smaken som åsikt istället för universell sanning.
-**WrongAnswer** Faktum **Why** Uppfattning baserat på generalisering av personlig åsikt istället för global materia, vilket leder till felaktig klassificering som faktum.
+**Question** Skriv en kort text (2–4 meningar) där du använder en fakta och en åsikt om miljön.
+**InputType** text
+**Hint** Börja med faktan (t.ex. "Temperaturen har ökat med X°C").
+**Hint** Avsluta med en åsikt ("Jag tycker att...").
+**Answer** Fakta: Jordens medeltemperatur har ökat de senaste hundra åren. Åsikt: Det är oroande och vi bör göra mer för att skydda naturen.
+**MaxPoints** 3
+**AnalyzeSubmission** Kontrollera att texten innehåller en verifierbar faktasats (t.ex. med tid eller mätning) samt en tydlig åsiktsmening (innehåller värdeord eller uttryck för tycke). Ge 2 poäng för korrekt faktadel och 1 poäng för åsikt.
+**WrongAnswer** Endast fakta eller endast åsikt **Why** Eleven skrev enbart en typ av påstående och blandade inte de två.
+
+**Question** Vilket av följande påståenden innehåller både fakta och åsikt?
+**InputType** single-choice
+**Hint** Leta efter en kontrollerbar del och en värderande del i samma mening.
+**Hint** Exempel: "Han sprang fort, så han är bäst."
+**Answer** Hon fick högsta betyg i provet, så hon är sannolikt bästa eleven.
+**MaxPoints** 1
+**WrongAnswer** Hon fick högsta betyg i provet **Why** Endast fakta.
+**WrongAnswer** Hon är bäst i matte **Why** Endast åsikt.
+
+**Question** Vilka av följande källor är mest trovärdiga när du vill kontrollera fakta? (Välj alla som passar)
+**InputType** multiple-choice
+**Hint** Trovärdiga källor är oberoende och kända.
+**Hint** Tänk på om informationen är granskad av experter.
+**Answer** Vetenskaplig artikel publicerad i en granskad tidskrift.
+**Answer** Skolverket eller en lärobok från skolan.
+**Answer** Bibliotekets fackböcker.
+**MaxPoints** 3
+**WrongAnswer** En anonym kommentar på en blogg **Why** En anonym källa saknar ansvar och kontroll.
+**WrongAnswer** Ett inlägg på sociala medier utan källa **Why** Ofta inte kontrollerat eller granskat.
+
+**Question** I en text står: "Det är uppenbart att den nya lagen förstör allting." Vad visar detta uttryck och varför ska du vara försiktig med att tro det direkt?
+**InputType** single-choice
+**Hint** Titta på ordet "uppenbart".
+**Hint** Fundera på om författaren visar bevis eller bara uttrycker stark känsla.
+**Answer** Det visar stark åsikt/överdrift; man bör kontrollera fakta eftersom författaren inte presenterar bevis.
+**MaxPoints** 1
+**WrongAnswer** Det är ett neutralt faktapåstående **Why** Ordet "uppenbart" och "förstör allting" är värdeladdade och inte neutrala fakta.
+**WrongAnswer** Det måste vara sant eftersom det låter viktigt **Why** Att något låter viktigt betyder inte att det är bevisat.
+
