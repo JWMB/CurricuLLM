@@ -15,3 +15,6 @@ Avsnittet du ska skriva är "{{heading}}", och ligger här i strukturen:
 {{toc}}
 
 Jag kommer be dig skriva om underrubrikerna till "{{heading}}" i en senare fråga.
+
+Kom ihåg att anpassa resonemangen och ordvalen för målgruppen, '{{subject.demographic}}'.
+Observera att det är eleverna själva som ska läsa det genererade materialet - det ska *inte* innehålla instruktioner till läraren.
