@@ -53,3 +53,15 @@ Terms that might be contentious, or that might be used slightly differently from
 ### CLOUD Act
 some external links
 ### US administration disobeys US courts
+
+
+https://www.realtid.se/it-tech/usa-kan-slacka-sverige-har-lagt-alla-agg-i-samma-korg/
+https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html
+https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/
+https://www.nok.se/titlar/laromedel-b2/varfor-lara/f7688c97-669b-46dc-92d0-6f2e376cb7b8
+https://novus.se/egnaundersokningar-arkiv/202601-fortsatt-starkt-stod-for-nato-nastan-lika-stor-radsla-for-usa-som-ryssland/
+https://www.svtplay.se/video/KQrr1W6/rapport/igar-18-00?video=visa&position=113
+
+Ed tech is profitable. It is also mostly useless
+https://economist.com/united-states/2026/01/22/ed-tech-is-profitable-it-is-also-mostly-useless
+https://www.forbes.com/councils/forbesnonprofitcouncil/2026/01/22/the-design-gap-why-good-enough-consumer-tech-isnt-good-enough-for-schools/
