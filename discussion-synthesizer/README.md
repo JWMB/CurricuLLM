@@ -19,11 +19,11 @@ Terms that might be contentious, or that might be used slightly differently from
 ## Topic: The EU should avoid Big Tech
 ### Propositions
 #### Data integrity
-* The CLOUD Act allows - in contradiction with GDPR - for US-owned companies to hand over any data that the US government requests
-* The US government has demonstrated its disdain for the rule of law, both domestically and internationally
-	* Acts against court orders
+* The CLOUD Act allows - in contradiction with GDPR - for US-owned companies to hand over any data that the US government requests [^](/#cloud-act)
+* The US government has demonstrated its disdain for the rule of law, both domestically and internationally 
+	* Acts against court orders [^](/#us-administration-disobeys-us-courts)
 	* Allows ICE to act outside of the country's laws
-	* Capture of foreign leader
+	* Capture of foreign leader 
 	* Threats to capture Greenland
 	* Threats to capture Canada
 * The US government has been involved in efforts to bolster right-wing groups in the EU and Canada
@@ -47,3 +47,9 @@ Terms that might be contentious, or that might be used slightly differently from
 
 
 ## Topic: EdTech should not be used until efficacy has been proven
+
+
+## Sources
+### CLOUD Act
+some external links
+### US administration disobeys US courts
