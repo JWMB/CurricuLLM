@@ -47,6 +47,17 @@ Terms that might be contentious, or that might be used slightly differently from
 
 
 ## Topic: EdTech should not be used until efficacy has been proven
+### Route from first product to roll-out
+* Research plans, including methodology and outcome measures, must be published in advance.
+* Anonymized data should be made publicly available 
+* Independent studies are often not feasible early on - start with small studies. If results are not positive, back to drawing board (for the intervention or the study design)
+* After initial small studies, independent researchers should validate the intervention
+* Roll out and continue publishing anonymized results
+
+### Incentives
+Commercial actors, especially those with VC backing, have great incentives to fudge data regarding efficacy of their interventions.
+
+### Conclusion
 
 
 ## Sources
@@ -70,6 +81,7 @@ Terms that might be contentious, or that might be used slightly differently from
 	* Several studies indicate that although students with access to general-purpose GenAI tools produce higher-quality outputs than their peers, this advantage disappears – and sometimes reverses – in exams when access is removed
 * [A new direction for students in an AI world: Prosper, prepare, protect](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/) 2026-01-14
 * [Varför lära? Meningen med mänsklig kunskap i AI-tider](https://www.nok.se/titlar/laromedel-b2/varfor-lara/f7688c97-669b-46dc-92d0-6f2e376cb7b8) 2026-01-29 (Klingberg, Wikforss)
+* [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html) with [HN discussion](https://news.ycombinator.com/item?id=46840865)
 
 ### Bad EdTech
 * [Ed tech is profitable. It is also mostly useless](https://economist.com/united-states/2026/01/22/ed-tech-is-profitable-it-is-also-mostly-useless) 2026-01-22
