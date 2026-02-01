@@ -55,7 +55,10 @@ Terms that might be contentious, or that might be used slightly differently from
 * Roll out and continue publishing anonymized results
 
 ### Incentives
-Commercial actors, especially those with VC backing, have great incentives to fudge data regarding efficacy of their interventions.
+* Commercial actors, especially those with VC backing, have great incentives to fudge data regarding efficacy of their interventions.
+* Microsoft and Google are making big pushes for more of their tech in schools, see e.g. [BETT 2026](https://uk.bettshow.com/agenda)
+	* Educators are wooed by important people
+ 	* Dependency on US corporations, with accompanying data insecurity 
 
 ### Conclusion
 
@@ -84,6 +87,7 @@ Commercial actors, especially those with VC backing, have great incentives to fu
 * [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html) with [HN discussion](https://news.ycombinator.com/item?id=46840865)
 
 ### Bad EdTech
+* [Why more classroom technology is making students learn less ](https://chalkandtalkpodcast.podbean.com/e/why-more-classroom-technology-is-making-students-learn-less-ep-62/) 2026-01-09
 * [Ed tech is profitable. It is also mostly useless](https://economist.com/united-states/2026/01/22/ed-tech-is-profitable-it-is-also-mostly-useless) 2026-01-22
 * [The Design Gap: Why ‘Good Enough’ Consumer Tech Isn’t Good Enough For Schools](https://www.forbes.com/councils/forbesnonprofitcouncil/2026/01/22/the-design-gap-why-good-enough-consumer-tech-isnt-good-enough-for-schools/) 2026-01-22
-
+* [Taking notes: Pen and paper is better than laptop](https://theconversation.com/which-type-of-note-taking-is-better-for-learning-laptop-or-pen-and-paper-250404)
