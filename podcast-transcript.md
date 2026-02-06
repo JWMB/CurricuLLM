@@ -1,10 +1,12 @@
+# Spelskaparna - transkription
 Från [Spelskaparna](https://spelskaparna.com/episode/178/) - transkription från [38:18](https://podcasts.apple.com/se/podcast/spelskaparna/id1084993748?l=en-GB&i=1000747949856&t=2298)
 
+## Vektor, Cogmed
 **David**: Efter att vi hade gjort de här barnspelen, gjorde vi också ett vuxenspel som heter Rock Manager, så hade vi en liten paus där vi inte riktigt visste vad vi skulle göra, och då blev vi kontaktade av en forskare som heter Torkel Klingberg, som hade en idé om att man kan träna hjärnan och träna arbetsminnet.
 
 **Jonas**: Jag tror att vi började med det ganska tidigt, att det var ett projekt som löpte parallellt med andra spel som vi gjorde, men lågintensivt. Jag är rätt säker på att det var runt millennieskiftet, runt år 2000 som vi började prata första gången, då gjorde vi någon prototyp och sen löpte det på medan vi gjorde Rockmanager, kanske till och med Djuphavsjakten.
 
-**David**: Så kan det absolut vara. Ja precis, vi gjorde en prototyp som han kunde göra ett forskningsprojekt på, och vi fick bra resultat där. Sen blev det ett företag, Cogmed, och en produkt som då tränade arbetsminnet som hette Robomemo. Och man kan väl säga att Vektor då som är en senare produkt, den bygger på samma princip fast vi kombinerar det med matte. [Not: även med övningar för non-verbal reasoning]
+**David**: Så kan det absolut vara. Ja precis, vi gjorde en prototyp som han kunde göra ett forskningsprojekt på, och vi fick bra resultat där. Sen blev det ett företag, Cogmed, och en produkt som då tränade arbetsminnet som hette Robomemo. Och man kan väl säga att Vektor då som är en senare produkt, den bygger på samma princip fast vi kombinerar det med matte. [Not: även med övningar för icke-verbalt problemlösande]
 
 Så det finns både mattedelar där du framförallt tränar din mentala representation av en tallinje. Så det är väldigt mycket att du drar ut saker på en tallinje. Och så kombinerar vi det med arbetsminnesträning som då fanns i det här gamla Robomemo också.
 
@@ -38,6 +40,7 @@ Och, inte bara att slippa ta reda på vem som ska betala, utan att slippa hela p
 
 **David**: Det här var i förskoleklass innan ettan helt enkelt, och framför allt var det ju att få en väldigt stark koppling av en tallinje, alltså var ligger olika tal på en tallinje. Men i samband med att du gjorde det, så gjorde du då plus och minus och även bråk. Men alla svar som du ger i appen är på en tallinje kan man säga. [Not: gäller den primära matteövningen, men det fanns många andra]
 
+### Forskning och vetenskaplig utvärdering
 **Jonas**: Vi sökte ju inledningsvis efter forskning, att man skulle kunna hitta olika mekanismer som man kan träna som bevisligen skulle kunna hjälpa en i förståelse av matematik senare. Men den här visospatiella representationen av tal, det var det enda konkreta som vi hittade. Det finns en väldigt tydlig koppling mellan barns förståelse av den och senare prestationer och förmåga inom matematik.
 Så vi fokuserade ju tidigt på det. Och vi såg ju väldigt goda resultat också i forskningsstudier baserade på Vektor senare.
 
@@ -55,6 +58,7 @@ med ganska skarp kritik mot Skolverket och Skolforskningsinstitutet och regering
 **Olle**: Det kan vara lite godtyckligt vad som man har ansett är det som är bra. Men den här produkten Vektor då? Hur ser ni på det här med att skärmar i undervisning har varit både att alla ska ha det, och det är framtiden och det är jättepositivt, och så nu är det lite grann att vi kanske ska ta bort skärmarna och så där.
 Hur ställer ni er till det där?
 
+### Skärmar i skolan
 **Jonas**: Det är en svår fråga tycker jag. Det finns ju väldigt mycket kan göras bra med skärmar, men det finns otroligt många risker också. Och väldigt konkret så finns ju möjligheten för elever att gå runt de begränsningar som är tänkt att finnas.
 
 Man hittar sätt att ta sig ut på YouTube istället för att arbeta med det material man ska. Och jag tror att även om man lyckas begränsa så att man inte kan komma runt dem, så finns ändå potentialen i plattan att kunna göra andra saker. Att det finns en inneboende problem med ens fokus på just den appen man jobbar med.
@@ -73,12 +77,13 @@ Stiftelsen existerar fortfarande men produkten är borta. Det är ju väldigt tr
 
 [...]
 
+## Open-source skolmaterial
 **Olle**: Jonas, vad håller du på med?
 
 **Jonas**: Ja, efter multimediaåren startade vi som sagt Cogmed som vi drev i många år. Bland annat så var jag i USA under ett par år när vi startade kontoret där. Och sen var det den här stiftelsen då, Cognition Matters med Vektor.
-Men när det tog slut så kände jag att jag jobbat med spel och egentligen med samma personer - David - i hela min karriär. Så ville jag se om jag höll måttet på programmerar-marknaden, och började jobba på ett konsultbolag, numera nedlagt, som hette tretton37. Då satt jag på Telia om det var sex eller sju år. 
+Men när det tog slut så kände jag att jag jobbat med spel och egentligen med samma personer - David - i hela min karriär. Så ville jag se om jag höll måttet på programmerar-marknaden, och började jobba på ett konsultbolag, numera nedlagt, som hette tretton37. Då satt jag på Telia om det var sex eller sju år. Nu är jag anställd på ett företag som jobbar med medarbetarundersökningar i första hand. 
 
-Nu är jag anställd på ett företag som jobbar med medarbetarundersökningar i första hand. Men under hela den här tiden, så har jag haft sidoprojekt då som inte riktigt är spelrelaterade, kanske att det finns en del spelelement i dem, men det är nog mer utbildning och kunskap som jag brinner för att kunna förmedla.
+Men under hela den här tiden, så har jag haft sidoprojekt då som inte riktigt är spelrelaterade, kanske att det finns en del spelelement i dem, men det är nog mer utbildning och kunskap som jag brinner för att kunna förmedla.
 Så, till exempel en ersättare och en förbättrad variant av Vektor. Jag håller på med ganska många år i olika aspekter. 
 Nu på sistone, nu när jag har barn som går i skolan och utsätts för undervisning utan böcker och mycket ad-hoc-material och stenciler och random webblänkar till olika sidor så har jag stört mig mer och mer på bristen på böcker och det vet jag är ett stort problem i Sverige överlag.
 
@@ -91,6 +96,7 @@ Böcker är dyra och spridningen av diverse länkar som inte är riktigt kvalite
 Om det gäller språk kan man ha glosförhör eller sammanfatta texter. Drömmen vore om man skulle kunna få ett material som är så bra så att det går att använda i skolan. Och sen så då för att träna för proven till exempel så använder man kanske en app hemma.
 Jag tänker mig inte att det skulle vara någonting man använder i skolan egentligen, de här digitala produkterna. 
 
+### Spaced repetition
 Och sen inte minst då spaced repetition-elementet, för jag har också reflekterat mycket över hur mina barn pluggar intensivt inför ett prov och får bra poäng där, men sedan, en månad senare, så kommer de inte ihåg ett smack av det de pluggade.
 Så det är en väldigt viktig del att - även om man inte hinner i skolan återbesöka olika delar som man har gått igenom tidigare - så skulle det kunna vara någonting som man gör såsom en läxa, så att appen vet vad man hade problem med och tar upp de delarna igen och friskar upp minnet så att man får långtidsretention av sånt man lär sig i skolan.
 
