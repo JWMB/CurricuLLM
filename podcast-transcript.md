@@ -1,8 +1,10 @@
-# Spelskaparna - transkription
+# Spelskaparna - transkription från 38m18s
 Från [Spelskaparna](https://spelskaparna.com/episode/178/) - transkription från [38:18](https://podcasts.apple.com/se/podcast/spelskaparna/id1084993748?l=en-GB&i=1000747949856&t=2298)
 
+David Sjölander och Jonas Beckeman intervjuas av Olle Landin.
+
 ## Vektor, Cogmed
-**David**: Efter att vi hade gjort de här barnspelen, gjorde vi också ett vuxenspel som heter [Rock Manager](https://gamefaqs.gamespot.com/pc/561878-rock-manager), så hade vi en liten paus där vi inte riktigt visste vad vi skulle göra, och då blev vi kontaktade av en forskare som heter Torkel Klingberg, som hade en idé om att man kan träna hjärnan och träna arbetsminnet.
+**David**: Efter att vi hade gjort de här barnspelen, gjorde vi också ett vuxenspel som heter [Rock Manager](https://gamefaqs.gamespot.com/pc/561878-rock-manager), så hade vi en liten paus där vi inte riktigt visste vad vi skulle göra, och då blev vi kontaktade av en forskare som heter [Torkel Klingberg](https://scholar.google.com/citations?user=LMmiCewAAAAJ&hl=sv), som hade en idé om att man kan träna hjärnan och träna arbetsminnet.
 
 **Jonas**: Jag tror att vi började med det ganska tidigt, att det var ett projekt som löpte parallellt med andra spel som vi gjorde, men lågintensivt. Jag är rätt säker på att det var runt millennieskiftet, runt år 2000 som vi började prata första gången, då gjorde vi någon prototyp och sen löpte det på medan vi gjorde Rock Manager, kanske till och med [Djuphavsjakten](https://archive.org/details/djuphavsjakten_202403).
 
@@ -75,7 +77,8 @@ Men det kanske man kan göra lite senare i livet. Inte när man går på mellans
 
 Stiftelsen existerar fortfarande men produkten är borta. Det är ju väldigt tråkigt, för den verkar ju ha fungerat väldigt väl och har varit väldigt uppskattad. Så jag har jobbat lite grann på fritiden med att försöka återuppliva den, genom att återskapa samma system med open source format, som jag har tänkt ska kunna bli tillgänglig på samma sätt, gratis, så småningom.
 
-[...]
+-----
+[David berättar om sina projekt]
 
 ## Open-source skolmaterial
 **Olle**: Jonas, vad håller du på med?
