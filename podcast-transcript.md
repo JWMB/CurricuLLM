@@ -36,7 +36,7 @@ Torkel hade en föreläsningsturné där han pratade om sin senaste bok och näm
 **Jonas**: För mig att vi hade som mest, om det var 50 000 användare som var igång samtidigt eller någonting sånt. Men jag minns inte riktigt siffrorna. 
 
 Men det krävdes ju en del insatser. Det var som sagt föreläsningsturnéer och vi jobbade ju mycket, framförallt initialt, med ett antal kommuner, nära samarbeten för att se hur det skulle kunna fungera i klass. Det spreds ju inte av sig självt, utan det var en hel del arbetsinsatser runt det. Men när de här initiala kommunerna hade pratat med sina grannkommuner, då spreds det väldigt snabbt av sig självt.
-Och, inte bara att slippa ta reda på vem som ska betala, utan att slippa hela processen med att betala över taget, att bara skapa ett konto, hjälpte mycket. Nu är det mycket lättare, nu finns det massa plattformar liknande App Stores för skolan. Men på den tiden, om man skulle teckna ett avtal, även om det var väldigt små summor, så skulle det ha hindrat spridningen tror jag väldigt mycket.
+Och, inte bara att slippa ta reda på vem som ska betala, utan att slippa hela processen med att betala över taget, att bara skapa ett konto, hjälpte mycket. Nu är det mycket lättare, nu finns det massa plattformar liknande App Stores för skolan. Men på den tiden, om man skulle teckna ett avtal, även om det var små summor, så skulle det ha hindrat spridningen mycket tror jag.
 
 **Olle**: Och vad var det barn, det var många som spelade detta då, vad var det de lärde sig liksom, om man använde den här produkten?
 
@@ -44,11 +44,11 @@ Och, inte bara att slippa ta reda på vem som ska betala, utan att slippa hela p
 
 ### Forskning och vetenskaplig utvärdering
 **Jonas**: Vi sökte ju inledningsvis efter forskning, att man skulle kunna hitta olika mekanismer som man kan träna som bevisligen skulle kunna hjälpa en i förståelse av matematik senare. Men den här visospatiella representationen av tal, det var det enda konkreta som vi hittade. Det finns en väldigt tydlig koppling mellan barns förståelse av den och senare prestationer och förmåga inom matematik.
-Så vi fokuserade ju tidigt på det. Och vi såg ju väldigt goda resultat också i forskningsstudier baserade på Vektor senare.
+Så vi fokuserade ju tidigt på det, och vi såg ju väldigt goda resultat också i forskningsstudier baserade på Vektor senare.
 
-**David**: Det är väldigt väldigt få läromedel som faktiskt det görs i empiriska studier med en placebogrupp och en kontrollgrupp. Här gjorde vi faktiskt exakt samma program som med matteövningarna fast med olika läsövningar. Så det har funnits kontrollgrupper som har lagt exakt lika mycket tid men de har tränat något helt annat.
-Så som man ska göra forskning helt enkelt. Men det är ju också väldigt dyrt att göra forskning på det sättet. Så jag förstår varför inte läromedelsförlag gör det här.
-Men jag kan tycka att egentligen borde staterna gå in med forskningsmedel för att utvärdera läromedel och för att veta vad som funkar.
+**David**: Det är väldigt väldigt få läromedel som faktiskt det görs i empiriska studier på, med en placebogrupp och en kontrollgrupp. Här gjorde vi faktiskt exakt samma program som med matteövningarna fast med olika läsövningar. Så det har funnits kontrollgrupper som har lagt exakt lika mycket tid men de har tränat något helt annat.
+Så som man *ska* göra forskning helt enkelt. Men det är ju också väldigt dyrt att göra forskning på det sättet, så jag förstår varför inte läromedelsförlag gör det här.
+Men jag kan tycka att egentligen borde staterna gå in med forskningsmedel för att utvärdera läromedel, och för att veta vad som funkar.
 
 **Olle**: Det har ju jättestor påverkan. Så om man får det där bättre och bättre genom att med forskning visa så kan man hitta de bästa sättet att lära ut olika saker.
 
@@ -75,7 +75,7 @@ Men det kanske man kan göra lite senare i livet. Inte när man går på mellans
 
 **Jonas**: Ja, pengarna tog slut så småningom, och relationen mellan oss som var verksamma i stiftelsen och de som bidrog med pengar blev lite problematisk. Så det är ju i princip nedlagt.
 
-Stiftelsen existerar fortfarande men produkten är borta. Det är ju väldigt tråkigt, för den verkar ju ha fungerat väldigt väl och har varit väldigt uppskattad. Så jag har jobbat lite grann på fritiden med att försöka återuppliva den, genom att återskapa samma system med open source format, som jag har tänkt ska kunna bli tillgänglig på samma sätt, gratis, så småningom.
+Stiftelsen existerar fortfarande men produkten är borta. Det är ju tråkigt, för den verkar ju ha fungerat väldigt väl och har varit mycket uppskattad. Så jag har jobbat lite grann på fritiden med att försöka återuppliva den, genom att återskapa samma system med open source format, som jag har tänkt ska kunna bli tillgänglig på samma sätt, gratis, så småningom.
 
 -----
 [David berättar om sina projekt]
@@ -86,11 +86,11 @@ Stiftelsen existerar fortfarande men produkten är borta. Det är ju väldigt tr
 **Jonas**: Ja, efter multimediaåren startade vi som sagt Cogmed som vi drev i många år. Bland annat så var jag i USA under ett par år när vi startade kontoret där. Och sen var det den här stiftelsen då, Cognition Matters med Vektor.
 Men när det tog slut så kände jag att jag jobbat med spel och egentligen med samma personer - David - i hela min karriär. Så ville jag se om jag höll måttet på programmerar-marknaden, och började jobba på ett konsultbolag, numera nedlagt, som hette tretton37. Då satt jag på Telia om det var sex eller sju år. Nu är jag anställd på ett företag som jobbar med medarbetarundersökningar i första hand. 
 
-Men under hela den här tiden, så har jag haft sidoprojekt då som inte riktigt är spelrelaterade, kanske att det finns en del spelelement i dem, men det är nog mer utbildning och kunskap som jag brinner för att kunna förmedla.
-Så, till exempel en ersättare och en förbättrad variant av Vektor. Jag håller på med ganska många år i olika aspekter. 
-Nu på sistone, nu när jag har barn som går i skolan och utsätts för undervisning utan böcker och mycket ad-hoc-material och stenciler och random webblänkar till olika sidor så har jag stört mig mer och mer på bristen på böcker och det vet jag är ett stort problem i Sverige överlag.
+Men under hela den här tiden, så har jag haft sidoprojekt då som inte riktigt är spelrelaterade - kanske att det finns en del spelelement i dem - men det är nog mer utbildning och kunskap som jag brinner för att kunna förmedla.
+Till exempel en ersättare och en förbättrad variant av Vektor. 
+Och nu på sistone, nu när jag har barn som går i skolan och utsätts för undervisning utan böcker och mycket ad-hoc-material och stenciler och random webblänkar till olika sidor, så har jag stört mig mer och mer på bristen på böcker, och det vet jag är ett stort problem i Sverige överlag.
 
-Böcker är dyra och spridningen av diverse länkar som inte är riktigt kvalitetsgranskade är stor. Så jag har blivit mer och mer irriterad på det och har satt igång ett projekt där tanken är att så småningom kunna få ut skolböcker. Baserat på en struktur som genereras av en LLM som blir en sorts ramverk där lärare och ämnesexperter sedan går in och justerar och förbättrar tills det blir material som går att skriva ut som PDF-er eller skicka till Print-on-demand - som skolmaterial som är open source och kollaborativt.
+Böcker är dyra, och spridningen av diverse länkar - som inte är riktigt kvalitetsgranskade - är stor. Jag har blivit mer och mer irriterad på det, och har satt igång ett projekt där tanken är att så småningom kunna få ut skolböcker. Baserat på en struktur som genereras av en LLM som blir en sorts ramverk där lärare och ämnesexperter sedan går in och justerar och förbättrar tills det blir material som går att skriva ut som PDF-er eller skicka till print-on-demand - som skolmaterial som är open source och kollaborativt. [Se [CurricuLLM](/README.md) ]
 
 **Olle**: Jajaja, någon slags open skolmaterial då.
 
@@ -101,7 +101,7 @@ Jag tänker mig inte att det skulle vara någonting man använder i skolan egent
 
 ### Spaced repetition
 Och sen inte minst då spaced repetition-elementet, för jag har också reflekterat mycket över hur mina barn pluggar intensivt inför ett prov och får bra poäng där, men sedan, en månad senare, så kommer de inte ihåg ett smack av det de pluggade.
-Så det är en väldigt viktig del att - även om man inte hinner i skolan återbesöka olika delar som man har gått igenom tidigare - så skulle det kunna vara någonting som man gör såsom en läxa, så att appen vet vad man hade problem med och tar upp de delarna igen och friskar upp minnet så att man får långtidsretention av sånt man lär sig i skolan.
+Så det är en väldigt viktig del att - även om man inte hinner i skolan - återbesöka olika delar som man har gått igenom tidigare, det skulle kunna vara någonting som man gör som en läxa, så att appen vet vad man hade problem med och tar upp de delarna igen och friskar upp minnet så att man får långtidsretention av sånt man lär sig i skolan.
 
 **Olle**: Ja precis, det är nästan konstigt att man inte har det, redan på 80-talet hade man typ kunnat hålla reda på det här med hjälp av digitala system men det finns inte, eller förhand egentligen.
 
