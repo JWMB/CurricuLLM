@@ -76,18 +76,18 @@ Terms that might be contentious, or that might be used slightly differently from
 * Withholding Information
 * ...
 ### US administration ignores international law
-* [Fortsatt starkt stöd för NATO, nästan lika stor rädsla för USA som Ryssland](https://novus.se/egnaundersokningar-arkiv/202601-fortsatt-starkt-stod-for-nato-nastan-lika-stor-radsla-for-usa-som-ryssland/) 2026-01-24
-* [My own morality. My own mind. It's the only thing that can stop me. I don't need international law](https://www.nytimes.com/2026/01/08/us/politics/trump-interview-power-morality.html) 2026-01-10
+* [Fortsatt starkt stöd för NATO, nästan lika stor rädsla för USA som Ryssland](https://novus.se/egnaundersokningar-arkiv/202601-fortsatt-starkt-stod-for-nato-nastan-lika-stor-radsla-for-usa-som-ryssland/) 2026-01-24 Novus
+* [My own morality. My own mind. It's the only thing that can stop me. I don't need international law](https://www.nytimes.com/2026/01/08/us/politics/trump-interview-power-morality.html) 2026-01-10 NYTimes
 
 ### Bad AI
 * [OECD Digital Education Outlook 2026](https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html) 2026-01-19
 	* Several studies indicate that although students with access to general-purpose GenAI tools produce higher-quality outputs than their peers, this advantage disappears – and sometimes reverses – in exams when access is removed
-* [A new direction for students in an AI world: Prosper, prepare, protect](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/) 2026-01-14
-* [Varför lära? Meningen med mänsklig kunskap i AI-tider](https://www.nok.se/titlar/laromedel-b2/varfor-lara/f7688c97-669b-46dc-92d0-6f2e376cb7b8) 2026-01-29 (Klingberg, Wikforss)
-* [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html) with [HN discussion](https://news.ycombinator.com/item?id=46840865)
+* [A new direction for students in an AI world: Prosper, prepare, protect](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/) 2026-01-14 Brookings
+* [Varför lära? Meningen med mänsklig kunskap i AI-tider](https://www.nok.se/titlar/laromedel-b2/varfor-lara/f7688c97-669b-46dc-92d0-6f2e376cb7b8) 2026-01-29 Natur och Kultur (Klingberg, Wikforss)
+* [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html) with [HN discussion](https://news.ycombinator.com/item?id=46840865) 2026-01-30 
 
 ### Bad EdTech
-* [Why more classroom technology is making students learn less ](https://chalkandtalkpodcast.podbean.com/e/why-more-classroom-technology-is-making-students-learn-less-ep-62/) 2026-01-09
-* [Ed tech is profitable. It is also mostly useless](https://economist.com/united-states/2026/01/22/ed-tech-is-profitable-it-is-also-mostly-useless) 2026-01-22
-* [The Design Gap: Why ‘Good Enough’ Consumer Tech Isn’t Good Enough For Schools](https://www.forbes.com/councils/forbesnonprofitcouncil/2026/01/22/the-design-gap-why-good-enough-consumer-tech-isnt-good-enough-for-schools/) 2026-01-22
-* [Taking notes: Pen and paper is better than laptop](https://theconversation.com/which-type-of-note-taking-is-better-for-learning-laptop-or-pen-and-paper-250404)
+* [Why more classroom technology is making students learn less ](https://chalkandtalkpodcast.podbean.com/e/why-more-classroom-technology-is-making-students-learn-less-ep-62/) 2026-01-09 Chalk and Talk (Stokke, Horvath)
+* [Ed tech is profitable. It is also mostly useless](https://economist.com/united-states/2026/01/22/ed-tech-is-profitable-it-is-also-mostly-useless) 2026-01-22 Economist
+* [The Design Gap: Why ‘Good Enough’ Consumer Tech Isn’t Good Enough For Schools](https://www.forbes.com/councils/forbesnonprofitcouncil/2026/01/22/the-design-gap-why-good-enough-consumer-tech-isnt-good-enough-for-schools/) 2026-01-22 Forbes
+* [Taking notes: Pen and paper is better than laptop](https://theconversation.com/which-type-of-note-taking-is-better-for-learning-laptop-or-pen-and-paper-250404) 2025-02-25 The Conversation
