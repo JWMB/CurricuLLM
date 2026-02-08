@@ -1,7 +1,7 @@
 # CurricuLLM
 *LLM som i Lärar-Ledd Modell*
 
-[Information in English below](#CurricuLLM_English)
+[Information in English below](#curricullm---english)
 
 ### Nyckelpunkter
 * AI ska endast användas initialt för att skapa det ursprungliga råmaterialet - därefter redigerar och granskar lärare / ämnesexperter
