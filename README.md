@@ -1,6 +1,10 @@
 # CurricuLLM
 *LLM som i Lärar-Ledd Modell*
 
+⛔⚠️  
+**Detta repo är övergivet - all vidare utveckling kommer ske på [codeberg](https://codeberg.org/JWMB/CurricuLLM)**  
+**This repo is abandoned - development continues at [codeberg](https://codeberg.org/JWMB/CurricuLLM)**
+
 [Information in English below](#curricullm---english)
 
 ### Nyckelpunkter
